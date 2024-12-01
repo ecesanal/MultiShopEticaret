@@ -11,23 +11,23 @@ namespace MultiShop.Catalog.Services.CategoryServices
         private readonly IMongoCollection<Category> _categoryCollection;
         private readonly IMapper _mapper;
 
-        public CategoryService(IMapper mapper, IDatabaseSettings _databaseSettings)
+        public CategoryService(IMapper mapper, IDatabaseSettings databaseSettings)
         {
-            var client = new MongoClient(_databaseSettings.ConnectionString);
-            var database = client.GetDatabase(_databaseSettings.ConnectionString);
-            _categoryCollection = database.GetCollection<Category>(_databaseSettings.CategoryCollectionName);
+            var client = new MongoClient(databaseSettings.ConnectionString);
+            var database = client.GetDatabase(databaseSettings.DatabaseName);
+            _categoryCollection = database.GetCollection<Category>(databaseSettings.CategoryCollectionName);
             _mapper = mapper;
         }
 
-        public async Task CreateCategoryAsync(CreateCategoryDto categoryDto)
+        public async Task CreateCategoryAsync(CreateCategoryDto createcategoryDto)
         {
-            var value = _mapper.Map<Category>(categoryDto);
+            var value = _mapper.Map<Category>(createcategoryDto);
             await _categoryCollection.InsertOneAsync(value);
         }
 
         public async Task DeleteCategoryAsync(string id)
         {
-           await _categoryCollection.DeleteOneAsync(id);
+           await _categoryCollection.DeleteOneAsync(x=>x.CategoryId==id);
         }
 
         public async Task<List<ResultCategoryDto>> GetAllCategoryAsync()

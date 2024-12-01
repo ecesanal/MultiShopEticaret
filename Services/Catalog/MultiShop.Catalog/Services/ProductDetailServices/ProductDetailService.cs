@@ -2,6 +2,7 @@
 using MongoDB.Driver;
 using MultiShop.Catalog.Dtos.ProductDetailDtos;
 using MultiShop.Catalog.Dtos.ProductDtos;
+using MultiShop.Catalog.Dtos.ProductImageDtos;
 using MultiShop.Catalog.Entities;
 using MultiShop.Catalog.Settings;
 
@@ -12,11 +13,11 @@ namespace MultiShop.Catalog.Services.ProductDetailServices
         private readonly IMongoCollection<ProductDetail> _ProductDetailCollection;
         private readonly IMapper _mapper;
 
-        public ProductDetailService(IMapper mapper, IDatabaseSettings _databaseSettings)
+        public ProductDetailService(IMapper mapper, IDatabaseSettings databaseSettings)
         {
-            var client = new MongoClient(_databaseSettings.ConnectionString);
-            var database = client.GetDatabase(_databaseSettings.ConnectionString);
-            _ProductDetailCollection = database.GetCollection<ProductDetail>(_databaseSettings.ProductDetailCollectionName);
+            var client = new MongoClient(databaseSettings.ConnectionString);
+            var database = client.GetDatabase(databaseSettings.DatabaseName);
+            _ProductDetailCollection = database.GetCollection<ProductDetail>(databaseSettings.ProductDetailCollectionName);
             _mapper = mapper;
         }
 
@@ -28,10 +29,10 @@ namespace MultiShop.Catalog.Services.ProductDetailServices
 
         public async Task DeleteProductDetailAsync(string id)
         {
-            await _ProductDetailCollection.DeleteOneAsync(id);
+            await _ProductDetailCollection.DeleteOneAsync(x => x.ProductDetailId == id);
         }
 
-        public async Task<List<ResultProductDetailDto>> GetAllProductAsync()
+        public async Task<List<ResultProductDetailDto>> GetAllProductDetailAsync()
         {
             var values = await _ProductDetailCollection.Find(x => true).ToListAsync();
             return _mapper.Map<List<ResultProductDetailDto>>(values);
@@ -42,6 +43,7 @@ namespace MultiShop.Catalog.Services.ProductDetailServices
             var values = await _ProductDetailCollection.Find<ProductDetail>(x => x.ProductDetailId == id).FirstOrDefaultAsync();
             return _mapper.Map<GetByIdProductDetailDto>(values);
         }
+
 
         public async Task UpdateProductDetailAsync(UpdateProductDetailDto updateProductDetailDto)
         {
