@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\e\\source\\repos\\MultiShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B46471D2-7AD8-49A4-9B59-B814B96A85BB}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|c:\\users\\e\\source\\repos\\multishop\\services\\catalog\\multishop.catalog\\services\\productdetailservices\\productdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B46471D2-7AD8-49A4-9B59-B814B96A85BB}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|solutionrelative:services\\catalog\\multishop.catalog\\services\\productdetailservices\\productdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{72C36B6E-EBBC-41A4-BEA9-6892C5BCA43F}|Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj|c:\\users\\e\\source\\repos\\multishop\\services\\discount\\multishop.discount\\services\\discountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72C36B6E-EBBC-41A4-BEA9-6892C5BCA43F}|Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj|solutionrelative:services\\discount\\multishop.discount\\services\\discountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B46471D2-7AD8-49A4-9B59-B814B96A85BB}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|c:\\users\\e\\source\\repos\\multishop\\services\\catalog\\multishop.catalog\\services\\productimageservices\\productimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B46471D2-7AD8-49A4-9B59-B814B96A85BB}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|solutionrelative:services\\catalog\\multishop.catalog\\services\\productimageservices\\productimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{72C36B6E-EBBC-41A4-BEA9-6892C5BCA43F}|Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj|c:\\users\\e\\source\\repos\\multishop\\services\\discount\\multishop.discount\\controllers\\discountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72C36B6E-EBBC-41A4-BEA9-6892C5BCA43F}|Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj|solutionrelative:services\\discount\\multishop.discount\\controllers\\discountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B46471D2-7AD8-49A4-9B59-B814B96A85BB}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|c:\\users\\e\\source\\repos\\multishop\\services\\catalog\\multishop.catalog\\services\\productservices\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B46471D2-7AD8-49A4-9B59-B814B96A85BB}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|solutionrelative:services\\catalog\\multishop.catalog\\services\\productservices\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{72C36B6E-EBBC-41A4-BEA9-6892C5BCA43F}|Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj|c:\\users\\e\\source\\repos\\multishop\\services\\discount\\multishop.discount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72C36B6E-EBBC-41A4-BEA9-6892C5BCA43F}|Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj|solutionrelative:services\\discount\\multishop.discount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ProductImageService.cs",
-              "DocumentMoniker": "C:\\Users\\e\\source\\repos\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Services\\ProductImageServices\\ProductImageService.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Services\\ProductImageServices\\ProductImageService.cs",
-              "ToolTip": "C:\\Users\\e\\source\\repos\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Services\\ProductImageServices\\ProductImageService.cs",
-              "RelativeToolTip": "Services\\Catalog\\MultiShop.Catalog\\Services\\ProductImageServices\\ProductImageService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAJAAAAAAAAAA==",
+              "Title": "DiscountsController.cs",
+              "DocumentMoniker": "C:\\Users\\e\\source\\repos\\MultiShop\\Services\\Discount\\MultiShop.Discount\\Controllers\\DiscountsController.cs",
+              "RelativeDocumentMoniker": "Services\\Discount\\MultiShop.Discount\\Controllers\\DiscountsController.cs",
+              "ToolTip": "C:\\Users\\e\\source\\repos\\MultiShop\\Services\\Discount\\MultiShop.Discount\\Controllers\\DiscountsController.cs",
+              "RelativeToolTip": "Services\\Discount\\MultiShop.Discount\\Controllers\\DiscountsController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowBoAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T16:29:58.37Z",
+              "WhenOpened": "2024-12-02T16:15:47.881Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProductDetailService.cs",
-              "DocumentMoniker": "C:\\Users\\e\\source\\repos\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Services\\ProductDetailServices\\ProductDetailService.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Services\\ProductDetailServices\\ProductDetailService.cs",
-              "ToolTip": "C:\\Users\\e\\source\\repos\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Services\\ProductDetailServices\\ProductDetailService.cs",
-              "RelativeToolTip": "Services\\Catalog\\MultiShop.Catalog\\Services\\ProductDetailServices\\ProductDetailService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAB5AAAAAAAAAA==",
+              "Title": "DiscountService.cs",
+              "DocumentMoniker": "C:\\Users\\e\\source\\repos\\MultiShop\\Services\\Discount\\MultiShop.Discount\\Services\\DiscountService.cs",
+              "RelativeDocumentMoniker": "Services\\Discount\\MultiShop.Discount\\Services\\DiscountService.cs",
+              "ToolTip": "C:\\Users\\e\\source\\repos\\MultiShop\\Services\\Discount\\MultiShop.Discount\\Services\\DiscountService.cs",
+              "RelativeToolTip": "Services\\Discount\\MultiShop.Discount\\Services\\DiscountService.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAIwDoAAAByAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T16:29:36.431Z",
+              "WhenOpened": "2024-12-02T16:14:10.883Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Users\\e\\source\\repos\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Services\\ProductServices\\ProductService.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Services\\ProductServices\\ProductService.cs",
-              "ToolTip": "C:\\Users\\e\\source\\repos\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Services\\ProductServices\\ProductService.cs",
-              "RelativeToolTip": "Services\\Catalog\\MultiShop.Catalog\\Services\\ProductServices\\ProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABZAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\e\\source\\repos\\MultiShop\\Services\\Discount\\MultiShop.Discount\\Program.cs",
+              "RelativeDocumentMoniker": "Services\\Discount\\MultiShop.Discount\\Program.cs",
+              "ToolTip": "C:\\Users\\e\\source\\repos\\MultiShop\\Services\\Discount\\MultiShop.Discount\\Program.cs",
+              "RelativeToolTip": "Services\\Discount\\MultiShop.Discount\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T16:19:34.475Z",
+              "WhenOpened": "2024-12-02T16:12:23.481Z",
               "EditorCaption": ""
             }
           ]
