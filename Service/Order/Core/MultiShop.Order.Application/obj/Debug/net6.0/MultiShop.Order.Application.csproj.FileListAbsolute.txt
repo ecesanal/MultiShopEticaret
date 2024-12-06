@@ -1,0 +1,5 @@
+C:\Users\e\source\repos\MultiShop\Service\Order\Core\MultiShop.Order.Application\obj\Debug\net6.0\MultiShop.Order.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\e\source\repos\MultiShop\Service\Order\Core\MultiShop.Order.Application\obj\Debug\net6.0\MultiShop.Order.Application.AssemblyInfoInputs.cache
+C:\Users\e\source\repos\MultiShop\Service\Order\Core\MultiShop.Order.Application\obj\Debug\net6.0\MultiShop.Order.Application.AssemblyInfo.cs
+C:\Users\e\source\repos\MultiShop\Service\Order\Core\MultiShop.Order.Application\obj\Debug\net6.0\MultiShop.Order.Application.csproj.CoreCompileInputs.cache
+C:\Users\e\source\repos\MultiShop\Service\Order\Core\MultiShop.Order.Application\obj\Debug\net6.0\MultiShop.Order.Application.sourcelink.json

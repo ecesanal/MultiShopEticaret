@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "MultiShop.Order.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/MultiShop.Order.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MultiShop.Order.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "MultiShop.Order.Domain/1.0.0": {
+      "type": "project",
+      "path": "../../../../Services/Order/Core/MultiShop.Order.Domain/MultiShop.Order.Domain.csproj",
+      "msbuildProject": "../../../../Services/Order/Core/MultiShop.Order.Domain/MultiShop.Order.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "MultiShop.Order.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\e\\.nuget\\packages\\": {},
@@ -39,7 +58,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\e\\source\\repos\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Domain\\MultiShop.Order.Domain.csproj": {
+              "projectPath": "C:\\Users\\e\\source\\repos\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Domain\\MultiShop.Order.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

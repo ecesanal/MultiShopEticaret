@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\e\\source\\repos\\MultiShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{72C36B6E-EBBC-41A4-BEA9-6892C5BCA43F}|Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj|c:\\users\\e\\source\\repos\\multishop\\services\\discount\\multishop.discount\\services\\discountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72C36B6E-EBBC-41A4-BEA9-6892C5BCA43F}|Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj|solutionrelative:services\\discount\\multishop.discount\\services\\discountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{64F3ADD5-2C84-4248-A5DE-369624CC33D4}|Service\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|c:\\users\\e\\source\\repos\\multishop\\service\\order\\core\\multishop.order.application\\features\\results\\addresresults\\getbyidadressqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F3ADD5-2C84-4248-A5DE-369624CC33D4}|Service\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|solutionrelative:service\\order\\core\\multishop.order.application\\features\\results\\addresresults\\getbyidadressqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72C36B6E-EBBC-41A4-BEA9-6892C5BCA43F}|Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj|c:\\users\\e\\source\\repos\\multishop\\services\\discount\\multishop.discount\\controllers\\discountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72C36B6E-EBBC-41A4-BEA9-6892C5BCA43F}|Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj|solutionrelative:services\\discount\\multishop.discount\\controllers\\discountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{64F3ADD5-2C84-4248-A5DE-369624CC33D4}|Service\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|c:\\users\\e\\source\\repos\\multishop\\service\\order\\core\\multishop.order.application\\features\\results\\addresresults\\getadressqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F3ADD5-2C84-4248-A5DE-369624CC33D4}|Service\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|solutionrelative:service\\order\\core\\multishop.order.application\\features\\results\\addresresults\\getadressqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72C36B6E-EBBC-41A4-BEA9-6892C5BCA43F}|Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj|c:\\users\\e\\source\\repos\\multishop\\services\\discount\\multishop.discount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72C36B6E-EBBC-41A4-BEA9-6892C5BCA43F}|Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj|solutionrelative:services\\discount\\multishop.discount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{27DA94FB-C146-4AE8-B6A3-42CA5C26D087}|Services\\Order\\Core\\MultiShop.Order.Domain\\MultiShop.Order.Domain.csproj|c:\\users\\e\\source\\repos\\multishop\\services\\order\\core\\multishop.order.domain\\entities\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27DA94FB-C146-4AE8-B6A3-42CA5C26D087}|Services\\Order\\Core\\MultiShop.Order.Domain\\MultiShop.Order.Domain.csproj|solutionrelative:services\\order\\core\\multishop.order.domain\\entities\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F3ADD5-2C84-4248-A5DE-369624CC33D4}|Service\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|c:\\users\\e\\source\\repos\\multishop\\service\\order\\core\\multishop.order.application\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F3ADD5-2C84-4248-A5DE-369624CC33D4}|Service\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|solutionrelative:service\\order\\core\\multishop.order.application\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DiscountsController.cs",
-              "DocumentMoniker": "C:\\Users\\e\\source\\repos\\MultiShop\\Services\\Discount\\MultiShop.Discount\\Controllers\\DiscountsController.cs",
-              "RelativeDocumentMoniker": "Services\\Discount\\MultiShop.Discount\\Controllers\\DiscountsController.cs",
-              "ToolTip": "C:\\Users\\e\\source\\repos\\MultiShop\\Services\\Discount\\MultiShop.Discount\\Controllers\\DiscountsController.cs",
-              "RelativeToolTip": "Services\\Discount\\MultiShop.Discount\\Controllers\\DiscountsController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAowBoAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T16:15:47.881Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DiscountService.cs",
-              "DocumentMoniker": "C:\\Users\\e\\source\\repos\\MultiShop\\Services\\Discount\\MultiShop.Discount\\Services\\DiscountService.cs",
-              "RelativeDocumentMoniker": "Services\\Discount\\MultiShop.Discount\\Services\\DiscountService.cs",
-              "ToolTip": "C:\\Users\\e\\source\\repos\\MultiShop\\Services\\Discount\\MultiShop.Discount\\Services\\DiscountService.cs",
-              "RelativeToolTip": "Services\\Discount\\MultiShop.Discount\\Services\\DiscountService.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAIwDoAAAByAAAAAAAAAA==",
+              "Title": "GetByIdAdressQueryResult.cs",
+              "DocumentMoniker": "C:\\Users\\e\\source\\repos\\MultiShop\\Service\\Order\\Core\\MultiShop.Order.Application\\Features\\Results\\AddresResults\\GetByIdAdressQueryResult.cs",
+              "RelativeDocumentMoniker": "Service\\Order\\Core\\MultiShop.Order.Application\\Features\\Results\\AddresResults\\GetByIdAdressQueryResult.cs",
+              "ToolTip": "C:\\Users\\e\\source\\repos\\MultiShop\\Service\\Order\\Core\\MultiShop.Order.Application\\Features\\Results\\AddresResults\\GetByIdAdressQueryResult.cs",
+              "RelativeToolTip": "Service\\Order\\Core\\MultiShop.Order.Application\\Features\\Results\\AddresResults\\GetByIdAdressQueryResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T16:14:10.883Z",
+              "WhenOpened": "2024-12-06T12:13:01Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\e\\source\\repos\\MultiShop\\Services\\Discount\\MultiShop.Discount\\Program.cs",
-              "RelativeDocumentMoniker": "Services\\Discount\\MultiShop.Discount\\Program.cs",
-              "ToolTip": "C:\\Users\\e\\source\\repos\\MultiShop\\Services\\Discount\\MultiShop.Discount\\Program.cs",
-              "RelativeToolTip": "Services\\Discount\\MultiShop.Discount\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABAAAAAAAAAAA==",
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\e\\source\\repos\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Domain\\Entities\\Address.cs",
+              "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Domain\\Entities\\Address.cs",
+              "ToolTip": "C:\\Users\\e\\source\\repos\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Domain\\Entities\\Address.cs",
+              "RelativeToolTip": "Services\\Order\\Core\\MultiShop.Order.Domain\\Entities\\Address.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T16:12:23.481Z",
+              "WhenOpened": "2024-12-06T12:11:35.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetAdressQueryResult.cs",
+              "DocumentMoniker": "C:\\Users\\e\\source\\repos\\MultiShop\\Service\\Order\\Core\\MultiShop.Order.Application\\Features\\Results\\AddresResults\\GetAdressQueryResult.cs",
+              "RelativeDocumentMoniker": "Service\\Order\\Core\\MultiShop.Order.Application\\Features\\Results\\AddresResults\\GetAdressQueryResult.cs",
+              "ToolTip": "C:\\Users\\e\\source\\repos\\MultiShop\\Service\\Order\\Core\\MultiShop.Order.Application\\Features\\Results\\AddresResults\\GetAdressQueryResult.cs",
+              "RelativeToolTip": "Service\\Order\\Core\\MultiShop.Order.Application\\Features\\Results\\AddresResults\\GetAdressQueryResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T12:10:28.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\e\\source\\repos\\MultiShop\\Service\\Order\\Core\\MultiShop.Order.Application\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "Service\\Order\\Core\\MultiShop.Order.Application\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\e\\source\\repos\\MultiShop\\Service\\Order\\Core\\MultiShop.Order.Application\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "Service\\Order\\Core\\MultiShop.Order.Application\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T10:14:01.038Z",
               "EditorCaption": ""
             }
           ]

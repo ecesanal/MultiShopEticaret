@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\e\\source\\repos\\MultiShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{27DA94FB-C146-4AE8-B6A3-42CA5C26D087}|Services\\Order\\Core\\MultiShop.Order.Domain\\MultiShop.Order.Domain.csproj|c:\\users\\e\\source\\repos\\multishop\\services\\order\\core\\multishop.order.domain\\entities\\ordering.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27DA94FB-C146-4AE8-B6A3-42CA5C26D087}|Services\\Order\\Core\\MultiShop.Order.Domain\\MultiShop.Order.Domain.csproj|solutionrelative:services\\order\\core\\multishop.order.domain\\entities\\ordering.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27DA94FB-C146-4AE8-B6A3-42CA5C26D087}|Services\\Order\\Core\\MultiShop.Order.Domain\\MultiShop.Order.Domain.csproj|c:\\users\\e\\source\\repos\\multishop\\services\\order\\core\\multishop.order.domain\\entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27DA94FB-C146-4AE8-B6A3-42CA5C26D087}|Services\\Order\\Core\\MultiShop.Order.Domain\\MultiShop.Order.Domain.csproj|solutionrelative:services\\order\\core\\multishop.order.domain\\entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27DA94FB-C146-4AE8-B6A3-42CA5C26D087}|Services\\Order\\Core\\MultiShop.Order.Domain\\MultiShop.Order.Domain.csproj|c:\\users\\e\\source\\repos\\multishop\\services\\order\\core\\multishop.order.domain\\entities\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27DA94FB-C146-4AE8-B6A3-42CA5C26D087}|Services\\Order\\Core\\MultiShop.Order.Domain\\MultiShop.Order.Domain.csproj|solutionrelative:services\\order\\core\\multishop.order.domain\\entities\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{64F3ADD5-2C84-4248-A5DE-369624CC33D4}|Service\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|c:\\users\\e\\source\\repos\\multishop\\service\\order\\core\\multishop.order.application\\cqrs\\features\\handlers\\addreshandlers\\updateaddresscommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F3ADD5-2C84-4248-A5DE-369624CC33D4}|Service\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|solutionrelative:service\\order\\core\\multishop.order.application\\cqrs\\features\\handlers\\addreshandlers\\updateaddresscommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Ordering.cs",
-              "DocumentMoniker": "C:\\Users\\e\\source\\repos\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Domain\\Entities\\Ordering.cs",
-              "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Domain\\Entities\\Ordering.cs",
-              "ToolTip": "C:\\Users\\e\\source\\repos\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Domain\\Entities\\Ordering.cs",
-              "RelativeToolTip": "Services\\Order\\Core\\MultiShop.Order.Domain\\Entities\\Ordering.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA7AAAAAAAAAA==",
+              "Title": "UpdateAddressCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\e\\source\\repos\\MultiShop\\Service\\Order\\Core\\MultiShop.Order.Application\\CQRS\\Features\\Handlers\\AddresHandlers\\UpdateAddressCommandHandler.cs",
+              "RelativeDocumentMoniker": "Service\\Order\\Core\\MultiShop.Order.Application\\CQRS\\Features\\Handlers\\AddresHandlers\\UpdateAddressCommandHandler.cs",
+              "ToolTip": "C:\\Users\\e\\source\\repos\\MultiShop\\Service\\Order\\Core\\MultiShop.Order.Application\\CQRS\\Features\\Handlers\\AddresHandlers\\UpdateAddressCommandHandler.cs",
+              "RelativeToolTip": "Service\\Order\\Core\\MultiShop.Order.Application\\CQRS\\Features\\Handlers\\AddresHandlers\\UpdateAddressCommandHandler.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADgvxoAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T14:46:22.613Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "OrderDetail.cs",
-              "DocumentMoniker": "C:\\Users\\e\\source\\repos\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Domain\\Entities\\OrderDetail.cs",
-              "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Domain\\Entities\\OrderDetail.cs",
-              "ToolTip": "C:\\Users\\e\\source\\repos\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Domain\\Entities\\OrderDetail.cs",
-              "RelativeToolTip": "Services\\Order\\Core\\MultiShop.Order.Domain\\Entities\\OrderDetail.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T14:46:14.852Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Address.cs",
-              "DocumentMoniker": "C:\\Users\\e\\source\\repos\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Domain\\Entities\\Address.cs",
-              "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Domain\\Entities\\Address.cs",
-              "ToolTip": "C:\\Users\\e\\source\\repos\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Domain\\Entities\\Address.cs",
-              "RelativeToolTip": "Services\\Order\\Core\\MultiShop.Order.Domain\\Entities\\Address.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T14:45:45.426Z",
+              "WhenOpened": "2024-12-06T15:06:06.785Z",
               "EditorCaption": ""
             }
           ]
