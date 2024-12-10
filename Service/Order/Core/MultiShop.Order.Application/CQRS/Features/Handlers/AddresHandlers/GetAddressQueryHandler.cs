@@ -11,7 +11,7 @@ namespace MultiShop.Order.Application.CQRS.Features.Handlers.AddresHandlers
 {
     public class GetAddressQueryHandler
     {
-        private readonly IRepository<Address> _repository ;
+        private readonly IRepository<Address> _repository;
 
         public GetAddressQueryHandler(IRepository<Address> repository)
         {
@@ -20,12 +20,13 @@ namespace MultiShop.Order.Application.CQRS.Features.Handlers.AddresHandlers
         public async Task<List<GetAddressByIdQueryResult>> Handle()
         {
             var values = await _repository.GetAllAsync();
-            return values.Select(x => new GetAddressByIdQueryResult{
+            return values.Select(x => new GetAddressByIdQueryResult
+            {
                 AddressId = x.AddressId,
                 City = x.City,
-                Detail= x.Detail,
+                Detail = x.Detail,
                 District = x.District,
-                UserId= x.UserId
+                UserId = x.UserId
             }).ToList();
         }
     }

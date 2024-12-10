@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MultiShop.Order.Domain.Entities
+namespace MultiShop.Order.Application.CQRS.Features.Results.OrderDetailResault
 {
-    public class OrderDetail
+    public class GetOrderDetailByIdQueryResult
     {
         public int OrderDetailId { get; set; }
         public string ProductId { get; set; }
@@ -15,6 +15,5 @@ namespace MultiShop.Order.Domain.Entities
         public int ProductAmount { get; set; }
         public decimal ProductTotalPrice { get; set; }
         public int OrderingId { get; set; }
-        public Ordering Ordering { get; set; }
     }
 }

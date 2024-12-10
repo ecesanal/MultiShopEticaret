@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\e\\source\\repos\\MultiShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{64F3ADD5-2C84-4248-A5DE-369624CC33D4}|Service\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|c:\\users\\e\\source\\repos\\multishop\\service\\order\\core\\multishop.order.application\\cqrs\\features\\handlers\\addreshandlers\\updateaddresscommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64F3ADD5-2C84-4248-A5DE-369624CC33D4}|Service\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|solutionrelative:service\\order\\core\\multishop.order.application\\cqrs\\features\\handlers\\addreshandlers\\updateaddresscommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9AA33C2A-C7E8-4B8D-9372-882BA0655488}|Services\\Order\\Presentation\\MultiShop.Order.WebApi\\MultiShop.Order.WebApi.csproj|c:\\users\\e\\source\\repos\\multishop\\services\\order\\presentation\\multishop.order.webapi\\controllers\\addressescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AA33C2A-C7E8-4B8D-9372-882BA0655488}|Services\\Order\\Presentation\\MultiShop.Order.WebApi\\MultiShop.Order.WebApi.csproj|solutionrelative:services\\order\\presentation\\multishop.order.webapi\\controllers\\addressescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA33C2A-C7E8-4B8D-9372-882BA0655488}|Services\\Order\\Presentation\\MultiShop.Order.WebApi\\MultiShop.Order.WebApi.csproj|c:\\users\\e\\source\\repos\\multishop\\services\\order\\presentation\\multishop.order.webapi\\controllers\\orderdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AA33C2A-C7E8-4B8D-9372-882BA0655488}|Services\\Order\\Presentation\\MultiShop.Order.WebApi\\MultiShop.Order.WebApi.csproj|solutionrelative:services\\order\\presentation\\multishop.order.webapi\\controllers\\orderdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UpdateAddressCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\e\\source\\repos\\MultiShop\\Service\\Order\\Core\\MultiShop.Order.Application\\CQRS\\Features\\Handlers\\AddresHandlers\\UpdateAddressCommandHandler.cs",
-              "RelativeDocumentMoniker": "Service\\Order\\Core\\MultiShop.Order.Application\\CQRS\\Features\\Handlers\\AddresHandlers\\UpdateAddressCommandHandler.cs",
-              "ToolTip": "C:\\Users\\e\\source\\repos\\MultiShop\\Service\\Order\\Core\\MultiShop.Order.Application\\CQRS\\Features\\Handlers\\AddresHandlers\\UpdateAddressCommandHandler.cs",
-              "RelativeToolTip": "Service\\Order\\Core\\MultiShop.Order.Application\\CQRS\\Features\\Handlers\\AddresHandlers\\UpdateAddressCommandHandler.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAADgvxoAAAAyAAAAAAAAAA==",
+              "Title": "AddressesController.cs",
+              "DocumentMoniker": "C:\\Users\\e\\source\\repos\\MultiShop\\Services\\Order\\Presentation\\MultiShop.Order.WebApi\\Controllers\\AddressesController.cs",
+              "RelativeDocumentMoniker": "Services\\Order\\Presentation\\MultiShop.Order.WebApi\\Controllers\\AddressesController.cs",
+              "ToolTip": "C:\\Users\\e\\source\\repos\\MultiShop\\Services\\Order\\Presentation\\MultiShop.Order.WebApi\\Controllers\\AddressesController.cs",
+              "RelativeToolTip": "Services\\Order\\Presentation\\MultiShop.Order.WebApi\\Controllers\\AddressesController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCEAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T15:06:06.785Z",
+              "WhenOpened": "2024-12-10T17:48:35.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderDetailsController.cs",
+              "DocumentMoniker": "C:\\Users\\e\\source\\repos\\MultiShop\\Services\\Order\\Presentation\\MultiShop.Order.WebApi\\Controllers\\OrderDetailsController.cs",
+              "RelativeDocumentMoniker": "Services\\Order\\Presentation\\MultiShop.Order.WebApi\\Controllers\\OrderDetailsController.cs",
+              "ToolTip": "C:\\Users\\e\\source\\repos\\MultiShop\\Services\\Order\\Presentation\\MultiShop.Order.WebApi\\Controllers\\OrderDetailsController.cs",
+              "RelativeToolTip": "Services\\Order\\Presentation\\MultiShop.Order.WebApi\\Controllers\\OrderDetailsController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAkwBgAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T17:41:09.615Z",
               "EditorCaption": ""
             }
           ]
