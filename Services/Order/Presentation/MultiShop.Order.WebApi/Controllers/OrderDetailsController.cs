@@ -1,11 +1,11 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using MultiShop.Order.Application.CQRS.Features.Commands.AddresCommands;
-using MultiShop.Order.Application.CQRS.Features.Commands.OrderDetailCommands;
-using MultiShop.Order.Application.CQRS.Features.Handlers.AddresHandlers;
-using MultiShop.Order.Application.CQRS.Features.Handlers.OrderDetailHandlers;
-using MultiShop.Order.Application.CQRS.Features.Queries.AddresQueries;
-using MultiShop.Order.Application.CQRS.Features.Queries.OrderDetailQueries;
+using MultiShop.Order.Application.Features.CQRS.Commands.AddresCommands;
+using MultiShop.Order.Application.Features.CQRS.Handlers.AddresHandlers;
+using MultiShop.Order.Application.Features.CQRS.Queries.AddresQueries;
+using MultiShop.Order.Application.Features.CQRS.Queries.OrderDetailQueries;
+using MultiShop.Order.Application.Features.CQRS.Commands.OrderDetailCommands;
+using MultiShop.Order.Application.Features.CQRS.Handlers.OrderDetailHandlers;
 
 namespace MultiShop.Order.WebApi.Controllers
 {

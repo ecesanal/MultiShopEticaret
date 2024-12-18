@@ -1,8 +1,8 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using MultiShop.Order.Application.CQRS.Features.Commands.AddresCommands;
-using MultiShop.Order.Application.CQRS.Features.Handlers.AddresHandlers;
-using MultiShop.Order.Application.CQRS.Features.Queries.AddresQueries;
+using MultiShop.Order.Application.Features.CQRS.Queries.AddresQueries;
+using MultiShop.Order.Application.Features.CQRS.Commands.AddresCommands;
+using MultiShop.Order.Application.Features.CQRS.Handlers.AddresHandlers;
 
 namespace MultiShop.Order.WebApi.Controllers
 {
