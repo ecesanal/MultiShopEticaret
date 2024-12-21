@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\e\\source\\repos\\MultiShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4D43F932-BADA-41F4-8E5C-5C10E170B2B0}|IdentityServer\\MultiShop.IdentityServer\\MultiShop.IdentityServer.csproj|c:\\users\\e\\source\\repos\\multishop\\identityserver\\multishop.identityserver\\controllers\\registerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D43F932-BADA-41F4-8E5C-5C10E170B2B0}|IdentityServer\\MultiShop.IdentityServer\\MultiShop.IdentityServer.csproj|solutionrelative:identityserver\\multishop.identityserver\\controllers\\registerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4D43F932-BADA-41F4-8E5C-5C10E170B2B0}|IdentityServer\\MultiShop.IdentityServer\\MultiShop.IdentityServer.csproj|c:\\users\\e\\source\\repos\\multishop\\identityserver\\multishop.identityserver\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D43F932-BADA-41F4-8E5C-5C10E170B2B0}|IdentityServer\\MultiShop.IdentityServer\\MultiShop.IdentityServer.csproj|solutionrelative:identityserver\\multishop.identityserver\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D43F932-BADA-41F4-8E5C-5C10E170B2B0}|IdentityServer\\MultiShop.IdentityServer\\MultiShop.IdentityServer.csproj|c:\\users\\e\\source\\repos\\multishop\\identityserver\\multishop.identityserver\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D43F932-BADA-41F4-8E5C-5C10E170B2B0}|IdentityServer\\MultiShop.IdentityServer\\MultiShop.IdentityServer.csproj|solutionrelative:identityserver\\multishop.identityserver\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D43F932-BADA-41F4-8E5C-5C10E170B2B0}|IdentityServer\\MultiShop.IdentityServer\\MultiShop.IdentityServer.csproj|c:\\users\\e\\source\\repos\\multishop\\identityserver\\multishop.identityserver\\dtos\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D43F932-BADA-41F4-8E5C-5C10E170B2B0}|IdentityServer\\MultiShop.IdentityServer\\MultiShop.IdentityServer.csproj|solutionrelative:identityserver\\multishop.identityserver\\dtos\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4D43F932-BADA-41F4-8E5C-5C10E170B2B0}|IdentityServer\\MultiShop.IdentityServer\\MultiShop.IdentityServer.csproj|c:\\users\\e\\source\\repos\\multishop\\identityserver\\multishop.identityserver\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D43F932-BADA-41F4-8E5C-5C10E170B2B0}|IdentityServer\\MultiShop.IdentityServer\\MultiShop.IdentityServer.csproj|solutionrelative:identityserver\\multishop.identityserver\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "C:\\Users\\e\\source\\repos\\MultiShop\\IdentityServer\\MultiShop.IdentityServer\\Models\\ApplicationUser.cs",
-              "RelativeDocumentMoniker": "IdentityServer\\MultiShop.IdentityServer\\Models\\ApplicationUser.cs",
-              "ToolTip": "C:\\Users\\e\\source\\repos\\MultiShop\\IdentityServer\\MultiShop.IdentityServer\\Models\\ApplicationUser.cs",
-              "RelativeToolTip": "IdentityServer\\MultiShop.IdentityServer\\Models\\ApplicationUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\e\\source\\repos\\MultiShop\\IdentityServer\\MultiShop.IdentityServer\\Startup.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\MultiShop.IdentityServer\\Startup.cs",
+              "ToolTip": "C:\\Users\\e\\source\\repos\\MultiShop\\IdentityServer\\MultiShop.IdentityServer\\Startup.cs",
+              "RelativeToolTip": "IdentityServer\\MultiShop.IdentityServer\\Startup.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAIAwwDIAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T15:34:33.332Z",
+              "WhenOpened": "2024-12-21T17:28:54.61Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "RegistersController.cs",
-              "DocumentMoniker": "C:\\Users\\e\\source\\repos\\MultiShop\\IdentityServer\\MultiShop.IdentityServer\\Controllers\\RegistersController.cs",
-              "RelativeDocumentMoniker": "IdentityServer\\MultiShop.IdentityServer\\Controllers\\RegistersController.cs",
-              "ToolTip": "C:\\Users\\e\\source\\repos\\MultiShop\\IdentityServer\\MultiShop.IdentityServer\\Controllers\\RegistersController.cs",
-              "RelativeToolTip": "IdentityServer\\MultiShop.IdentityServer\\Controllers\\RegistersController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwCEAAAA5AAAAAAAAAA==",
+              "Title": "Config.cs",
+              "DocumentMoniker": "C:\\Users\\e\\source\\repos\\MultiShop\\IdentityServer\\MultiShop.IdentityServer\\Config.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\MultiShop.IdentityServer\\Config.cs",
+              "ToolTip": "C:\\Users\\e\\source\\repos\\MultiShop\\IdentityServer\\MultiShop.IdentityServer\\Config.cs",
+              "RelativeToolTip": "IdentityServer\\MultiShop.IdentityServer\\Config.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAADsAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T15:01:05.531Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserRegisterDto.cs",
-              "DocumentMoniker": "C:\\Users\\e\\source\\repos\\MultiShop\\IdentityServer\\MultiShop.IdentityServer\\Dtos\\UserRegisterDto.cs",
-              "RelativeDocumentMoniker": "IdentityServer\\MultiShop.IdentityServer\\Dtos\\UserRegisterDto.cs",
-              "ToolTip": "C:\\Users\\e\\source\\repos\\MultiShop\\IdentityServer\\MultiShop.IdentityServer\\Dtos\\UserRegisterDto.cs",
-              "RelativeToolTip": "IdentityServer\\MultiShop.IdentityServer\\Dtos\\UserRegisterDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T14:58:58.632Z",
+              "WhenOpened": "2024-12-21T16:02:16.671Z",
               "EditorCaption": ""
             }
           ]

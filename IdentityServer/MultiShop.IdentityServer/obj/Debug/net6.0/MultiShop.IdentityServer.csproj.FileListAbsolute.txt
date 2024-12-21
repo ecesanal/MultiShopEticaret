@@ -109,3 +109,7 @@ C:\Users\e\source\repos\MultiShop\IdentityServer\MultiShop.IdentityServer\bin\De
 C:\Users\e\source\repos\MultiShop\IdentityServer\MultiShop.IdentityServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
 C:\Users\e\source\repos\MultiShop\IdentityServer\MultiShop.IdentityServer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 C:\Users\e\source\repos\MultiShop\IdentityServer\MultiShop.IdentityServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\e\source\repos\MultiShop\IdentityServer\MultiShop.IdentityServer\bin\Debug\net6.0\MultiShop.IdentityServer.staticwebassets.endpoints.json
+C:\Users\e\source\repos\MultiShop\IdentityServer\MultiShop.IdentityServer\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\e\source\repos\MultiShop\IdentityServer\MultiShop.IdentityServer\obj\Debug\net6.0\staticwebassets\msbuild.MultiShop.IdentityServer.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\e\source\repos\MultiShop\IdentityServer\MultiShop.IdentityServer\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
