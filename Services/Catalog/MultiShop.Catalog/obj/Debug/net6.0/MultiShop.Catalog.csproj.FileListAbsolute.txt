@@ -39,3 +39,15 @@ C:\Users\e\source\repos\MultiShop\Services\Catalog\MultiShop.Catalog\obj\Debug\n
 C:\Users\e\source\repos\MultiShop\Services\Catalog\MultiShop.Catalog\obj\Debug\net6.0\MultiShop.Catalog.pdb
 C:\Users\e\source\repos\MultiShop\Services\Catalog\MultiShop.Catalog\obj\Debug\net6.0\MultiShop.Catalog.genruntimeconfig.cache
 C:\Users\e\source\repos\MultiShop\Services\Catalog\MultiShop.Catalog\obj\Debug\net6.0\ref\MultiShop.Catalog.dll
+C:\Users\e\source\repos\MultiShop\Services\Catalog\MultiShop.Catalog\bin\Debug\net6.0\MultiShop.Catalog.staticwebassets.endpoints.json
+C:\Users\e\source\repos\MultiShop\Services\Catalog\MultiShop.Catalog\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\e\source\repos\MultiShop\Services\Catalog\MultiShop.Catalog\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\e\source\repos\MultiShop\Services\Catalog\MultiShop.Catalog\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\e\source\repos\MultiShop\Services\Catalog\MultiShop.Catalog\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\e\source\repos\MultiShop\Services\Catalog\MultiShop.Catalog\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\e\source\repos\MultiShop\Services\Catalog\MultiShop.Catalog\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\e\source\repos\MultiShop\Services\Catalog\MultiShop.Catalog\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\e\source\repos\MultiShop\Services\Catalog\MultiShop.Catalog\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\e\source\repos\MultiShop\Services\Catalog\MultiShop.Catalog\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\e\source\repos\MultiShop\Services\Catalog\MultiShop.Catalog\obj\Debug\net6.0\staticwebassets\msbuild.MultiShop.Catalog.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\e\source\repos\MultiShop\Services\Catalog\MultiShop.Catalog\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt

@@ -88,3 +88,5 @@ C:\Users\e\source\repos\MultiShop\Services\Order\Presentation\MultiShop.Order.We
 C:\Users\e\source\repos\MultiShop\Services\Order\Presentation\MultiShop.Order.WebApi\obj\Debug\net6.0\staticwebassets.build.endpoints.json
 C:\Users\e\source\repos\MultiShop\Services\Order\Presentation\MultiShop.Order.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.MultiShop.Order.WebApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
 C:\Users\e\source\repos\MultiShop\Services\Order\Presentation\MultiShop.Order.WebApi\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\e\source\repos\MultiShop\Services\Order\Presentation\MultiShop.Order.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\e\source\repos\MultiShop\Services\Order\Presentation\MultiShop.Order.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll

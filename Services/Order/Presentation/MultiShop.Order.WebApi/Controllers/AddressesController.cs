@@ -3,9 +3,11 @@ using Microsoft.AspNetCore.Mvc;
 using MultiShop.Order.Application.Features.CQRS.Queries.AddresQueries;
 using MultiShop.Order.Application.Features.CQRS.Commands.AddresCommands;
 using MultiShop.Order.Application.Features.CQRS.Handlers.AddresHandlers;
+using Microsoft.AspNetCore.Authorization;
 
 namespace MultiShop.Order.WebApi.Controllers
 {
+    [Authorize]
     [Route("api/[controller]")]
     [ApiController]
     public class AddressesController : ControllerBase

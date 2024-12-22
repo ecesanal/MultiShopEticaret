@@ -4,6 +4,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{53E87D66-DA6C-4BFC-A0B6-8D90B26C636B}"
+	ProjectSection(SolutionItems) = preProject
+		PortNumber.txt = PortNumber.txt
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Catalog", "Catalog", "{FE75D7EA-8575-4F3D-BA8B-4A1A3C4B125C}"
 EndProject

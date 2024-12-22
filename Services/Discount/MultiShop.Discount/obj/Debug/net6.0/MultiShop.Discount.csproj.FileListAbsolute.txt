@@ -68,3 +68,9 @@ C:\Users\e\source\repos\MultiShop\Services\Discount\MultiShop.Discount\obj\Debug
 C:\Users\e\source\repos\MultiShop\Services\Discount\MultiShop.Discount\obj\Debug\net6.0\MultiShop.Discount.pdb
 C:\Users\e\source\repos\MultiShop\Services\Discount\MultiShop.Discount\obj\Debug\net6.0\MultiShop.Discount.genruntimeconfig.cache
 C:\Users\e\source\repos\MultiShop\Services\Discount\MultiShop.Discount\obj\Debug\net6.0\ref\MultiShop.Discount.dll
+C:\Users\e\source\repos\MultiShop\Services\Discount\MultiShop.Discount\bin\Debug\net6.0\MultiShop.Discount.staticwebassets.endpoints.json
+C:\Users\e\source\repos\MultiShop\Services\Discount\MultiShop.Discount\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\e\source\repos\MultiShop\Services\Discount\MultiShop.Discount\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\e\source\repos\MultiShop\Services\Discount\MultiShop.Discount\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\e\source\repos\MultiShop\Services\Discount\MultiShop.Discount\obj\Debug\net6.0\staticwebassets\msbuild.MultiShop.Discount.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\e\source\repos\MultiShop\Services\Discount\MultiShop.Discount\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
