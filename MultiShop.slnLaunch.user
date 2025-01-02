@@ -17,6 +17,10 @@
       {
         "Path": "Services\\Order\\Presentation\\MultiShop.Order.WebApi\\MultiShop.Order.WebApi.csproj",
         "Action": "Start"
+      },
+      {
+        "Path": "Services\\Cargo\\MultiShop.Cargo.WebApi\\MultiShop.Cargo.WebApi.csproj",
+        "Action": "Start"
       }
     ]
   }
