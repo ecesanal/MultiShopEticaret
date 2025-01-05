@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "MultiShop.Basket.Controllers.BasketsController",
+    "Method": "GetMyBasketDetail",
+    "RelativePath": "api/Baskets",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Basket.Controllers.BasketsController",
+    "Method": "SAveMyBasket",
+    "RelativePath": "api/Baskets",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "basketTotalDto",
+        "Type": "MultiShop.Basket.Dtos.BasketTotalDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Basket.Controllers.BasketsController",
+    "Method": "DeleteBasket",
+    "RelativePath": "api/Baskets",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

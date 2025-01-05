@@ -3,23 +3,11 @@
     "Name": "New Profile",
     "Projects": [
       {
-        "Path": "Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj",
-        "Action": "Start"
-      },
-      {
         "Path": "IdentityServer\\MultiShop.IdentityServer\\MultiShop.IdentityServer.csproj",
         "Action": "Start"
       },
       {
-        "Path": "Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj",
-        "Action": "Start"
-      },
-      {
-        "Path": "Services\\Order\\Presentation\\MultiShop.Order.WebApi\\MultiShop.Order.WebApi.csproj",
-        "Action": "Start"
-      },
-      {
-        "Path": "Services\\Cargo\\MultiShop.Cargo.WebApi\\MultiShop.Cargo.WebApi.csproj",
+        "Path": "Services\\Basket\\MultiShop.Basket\\MultiShop.Basket.csproj",
         "Action": "Start"
       }
     ]
