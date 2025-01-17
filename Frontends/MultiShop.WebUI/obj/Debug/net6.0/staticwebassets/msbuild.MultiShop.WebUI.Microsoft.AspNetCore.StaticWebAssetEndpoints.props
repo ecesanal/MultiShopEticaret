@@ -2124,6 +2124,78 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-DTTaB\u002BXLy0/wh7OXlmqfn/tNbtfHBgVoVlIDwC8/7hE="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"85908"},{"Name":"Content-Type","Value":"font/otf"},{"Name":"ETag","Value":"\u0022DTTaB\u002BXLy0/wh7OXlmqfn/tNbtfHBgVoVlIDwC8/7hE=\u0022"},{"Name":"Last-Modified","Value":"Sat, 11 Jan 2025 13:24:49 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MultiShop.WebUI/MainDownload-OvioAdmin-html5-template/html/dist/image/ayakkabı1.88v2uu2axj.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\dist\image\ayakkabı1.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"88v2uu2axj"},{"Name":"integrity","Value":"sha256-aD9klze1coiainCfz0NYbKJT3oPLi4tTUi7aEi\u002Bwljs="},{"Name":"label","Value":"_content/MultiShop.WebUI/MainDownload-OvioAdmin-html5-template/html/dist/image/ayakkab\u01311.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"49055"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022aD9klze1coiainCfz0NYbKJT3oPLi4tTUi7aEi\u002Bwljs=\u0022"},{"Name":"Last-Modified","Value":"Fri, 10 Jan 2025 13:02:31 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MultiShop.WebUI/MainDownload-OvioAdmin-html5-template/html/dist/image/ayakkabı1.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\dist\image\ayakkabı1.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-aD9klze1coiainCfz0NYbKJT3oPLi4tTUi7aEi\u002Bwljs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"49055"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022aD9klze1coiainCfz0NYbKJT3oPLi4tTUi7aEi\u002Bwljs=\u0022"},{"Name":"Last-Modified","Value":"Fri, 10 Jan 2025 13:02:31 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MultiShop.WebUI/MainDownload-OvioAdmin-html5-template/html/dist/image/ayakkabı2.cz10tj5fqo.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\dist\image\ayakkabı2.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"cz10tj5fqo"},{"Name":"integrity","Value":"sha256-CINMVgQAR6ltVKz115iNEWXQsWFE5UIB8qk70yRGbDQ="},{"Name":"label","Value":"_content/MultiShop.WebUI/MainDownload-OvioAdmin-html5-template/html/dist/image/ayakkab\u01312.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"11069"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022CINMVgQAR6ltVKz115iNEWXQsWFE5UIB8qk70yRGbDQ=\u0022"},{"Name":"Last-Modified","Value":"Fri, 10 Jan 2025 13:02:50 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MultiShop.WebUI/MainDownload-OvioAdmin-html5-template/html/dist/image/ayakkabı2.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\dist\image\ayakkabı2.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-CINMVgQAR6ltVKz115iNEWXQsWFE5UIB8qk70yRGbDQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"11069"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022CINMVgQAR6ltVKz115iNEWXQsWFE5UIB8qk70yRGbDQ=\u0022"},{"Name":"Last-Modified","Value":"Fri, 10 Jan 2025 13:02:50 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MultiShop.WebUI/MainDownload-OvioAdmin-html5-template/html/dist/image/ayakkabı3.4aqrhk5ene.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\dist\image\ayakkabı3.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"4aqrhk5ene"},{"Name":"integrity","Value":"sha256-NPGhrS\u002BsY8uXWjtQni1Mb\u002BO2eoxGeevBbeu8do2hh58="},{"Name":"label","Value":"_content/MultiShop.WebUI/MainDownload-OvioAdmin-html5-template/html/dist/image/ayakkab\u01313.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"14428"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022NPGhrS\u002BsY8uXWjtQni1Mb\u002BO2eoxGeevBbeu8do2hh58=\u0022"},{"Name":"Last-Modified","Value":"Fri, 10 Jan 2025 13:02:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MultiShop.WebUI/MainDownload-OvioAdmin-html5-template/html/dist/image/ayakkabı3.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\dist\image\ayakkabı3.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-NPGhrS\u002BsY8uXWjtQni1Mb\u002BO2eoxGeevBbeu8do2hh58="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"14428"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022NPGhrS\u002BsY8uXWjtQni1Mb\u002BO2eoxGeevBbeu8do2hh58=\u0022"},{"Name":"Last-Modified","Value":"Fri, 10 Jan 2025 13:02:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MultiShop.WebUI/MainDownload-OvioAdmin-html5-template/html/dist/image/ayakkabı4.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\dist\image\ayakkabı4.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-P7TIFGOmCUxdhnwnevs7v9zRKUuBBrHE1lYKIIHaK\u002Bo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"15958"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022P7TIFGOmCUxdhnwnevs7v9zRKUuBBrHE1lYKIIHaK\u002Bo=\u0022"},{"Name":"Last-Modified","Value":"Fri, 10 Jan 2025 13:02:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MultiShop.WebUI/MainDownload-OvioAdmin-html5-template/html/dist/image/ayakkabı4.r9ivytl80u.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\dist\image\ayakkabı4.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"r9ivytl80u"},{"Name":"integrity","Value":"sha256-P7TIFGOmCUxdhnwnevs7v9zRKUuBBrHE1lYKIIHaK\u002Bo="},{"Name":"label","Value":"_content/MultiShop.WebUI/MainDownload-OvioAdmin-html5-template/html/dist/image/ayakkab\u01314.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"15958"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022P7TIFGOmCUxdhnwnevs7v9zRKUuBBrHE1lYKIIHaK\u002Bo=\u0022"},{"Name":"Last-Modified","Value":"Fri, 10 Jan 2025 13:02:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MultiShop.WebUI/MainDownload-OvioAdmin-html5-template/html/dist/image/mulhtishop1.0afxj6jri7.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\dist\image\mulhtishop1.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0afxj6jri7"},{"Name":"integrity","Value":"sha256-mIbrKtt0uFR/mMBN\u002B3LcswIY2rwCli/JyjH02aNJIJk="},{"Name":"label","Value":"_content/MultiShop.WebUI/MainDownload-OvioAdmin-html5-template/html/dist/image/mulhtishop1.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"147401"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022mIbrKtt0uFR/mMBN\u002B3LcswIY2rwCli/JyjH02aNJIJk=\u0022"},{"Name":"Last-Modified","Value":"Sun, 05 Jan 2025 10:17:22 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MultiShop.WebUI/MainDownload-OvioAdmin-html5-template/html/dist/image/mulhtishop1.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\dist\image\mulhtishop1.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-mIbrKtt0uFR/mMBN\u002B3LcswIY2rwCli/JyjH02aNJIJk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"147401"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022mIbrKtt0uFR/mMBN\u002B3LcswIY2rwCli/JyjH02aNJIJk=\u0022"},{"Name":"Last-Modified","Value":"Sun, 05 Jan 2025 10:17:22 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MultiShop.WebUI/MainDownload-OvioAdmin-html5-template/html/dist/image/MULTISHOPPNG.5js79mparu.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\dist\image\MULTISHOPPNG.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5js79mparu"},{"Name":"integrity","Value":"sha256-z6LfgXMu/HSlvR49ziKLBlcCNuZyD/R3fq6G3g2DLfw="},{"Name":"label","Value":"_content/MultiShop.WebUI/MainDownload-OvioAdmin-html5-template/html/dist/image/MULTISHOPPNG.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"71322"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022z6LfgXMu/HSlvR49ziKLBlcCNuZyD/R3fq6G3g2DLfw=\u0022"},{"Name":"Last-Modified","Value":"Sun, 05 Jan 2025 10:17:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MultiShop.WebUI/MainDownload-OvioAdmin-html5-template/html/dist/image/MULTISHOPPNG.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\dist\image\MULTISHOPPNG.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-z6LfgXMu/HSlvR49ziKLBlcCNuZyD/R3fq6G3g2DLfw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"71322"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022z6LfgXMu/HSlvR49ziKLBlcCNuZyD/R3fq6G3g2DLfw=\u0022"},{"Name":"Last-Modified","Value":"Sun, 05 Jan 2025 10:17:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/MultiShop.WebUI/MainDownload-OvioAdmin-html5-template/html/dist/img/body-bg.jpg">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\dist\img\body-bg.jpg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>

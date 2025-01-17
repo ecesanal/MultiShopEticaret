@@ -13,7 +13,6 @@
   <ItemGroup>
     <Folder Include="Areas\Admin\Data\" />
     <Folder Include="Areas\Admin\Models\" />
-    <Folder Include="image\" />
   </ItemGroup>
 
   <ItemGroup>
@@ -23,10 +22,20 @@
     <None Include="wwwroot\MainDownload-OvioAdmin-html5-template\html\charts\et-line-font\fonts\.DS_Store" />
     <None Include="wwwroot\MainDownload-OvioAdmin-html5-template\html\component\et-line-font\fonts\.DS_Store" />
     <None Include="wwwroot\MainDownload-OvioAdmin-html5-template\html\dist\et-line-font\fonts\.DS_Store" />
+    <None Include="wwwroot\MainDownload-OvioAdmin-html5-template\html\dist\image\ayakkabı1.jpg" />
+    <None Include="wwwroot\MainDownload-OvioAdmin-html5-template\html\dist\image\ayakkabı2.jpg" />
+    <None Include="wwwroot\MainDownload-OvioAdmin-html5-template\html\dist\image\ayakkabı3.jpg" />
+    <None Include="wwwroot\MainDownload-OvioAdmin-html5-template\html\dist\image\ayakkabı4.jpg" />
+    <None Include="wwwroot\MainDownload-OvioAdmin-html5-template\html\dist\image\mulhtishop1.jpg" />
+    <None Include="wwwroot\MainDownload-OvioAdmin-html5-template\html\dist\image\MULTISHOPPNG.png" />
     <None Include="wwwroot\MainDownload-OvioAdmin-html5-template\html\forms\et-line-font\fonts\.DS_Store" />
     <None Include="wwwroot\MainDownload-OvioAdmin-html5-template\html\maps\et-line-font\fonts\.DS_Store" />
     <None Include="wwwroot\MainDownload-OvioAdmin-html5-template\html\pages\et-line-font\fonts\.DS_Store" />
     <None Include="wwwroot\MainDownload-OvioAdmin-html5-template\html\tables\et-line-font\fonts\.DS_Store" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Fronends\MultiShop.DtoLayer\MultiShop.DtoLayer.csproj" />
   </ItemGroup>
 
 </Project>

@@ -9597,6 +9597,498 @@
       ]
     },
     {
+      "Route": "MainDownload-OvioAdmin-html5-template/html/dist/image/MULTISHOPPNG.5js79mparu.png",
+      "AssetFile": "MainDownload-OvioAdmin-html5-template/html/dist/image/MULTISHOPPNG.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "71322"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z6LfgXMu/HSlvR49ziKLBlcCNuZyD/R3fq6G3g2DLfw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 10:17:21 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5js79mparu"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-z6LfgXMu/HSlvR49ziKLBlcCNuZyD/R3fq6G3g2DLfw="
+        },
+        {
+          "Name": "label",
+          "Value": "MainDownload-OvioAdmin-html5-template/html/dist/image/MULTISHOPPNG.png"
+        }
+      ]
+    },
+    {
+      "Route": "MainDownload-OvioAdmin-html5-template/html/dist/image/MULTISHOPPNG.png",
+      "AssetFile": "MainDownload-OvioAdmin-html5-template/html/dist/image/MULTISHOPPNG.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "71322"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z6LfgXMu/HSlvR49ziKLBlcCNuZyD/R3fq6G3g2DLfw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 10:17:21 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-z6LfgXMu/HSlvR49ziKLBlcCNuZyD/R3fq6G3g2DLfw="
+        }
+      ]
+    },
+    {
+      "Route": "MainDownload-OvioAdmin-html5-template/html/dist/image/ayakkabı1.88v2uu2axj.jpg",
+      "AssetFile": "MainDownload-OvioAdmin-html5-template/html/dist/image/ayakkabı1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "49055"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aD9klze1coiainCfz0NYbKJT3oPLi4tTUi7aEi+wljs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 Jan 2025 13:02:31 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "88v2uu2axj"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aD9klze1coiainCfz0NYbKJT3oPLi4tTUi7aEi+wljs="
+        },
+        {
+          "Name": "label",
+          "Value": "MainDownload-OvioAdmin-html5-template/html/dist/image/ayakkabı1.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "MainDownload-OvioAdmin-html5-template/html/dist/image/ayakkabı1.jpg",
+      "AssetFile": "MainDownload-OvioAdmin-html5-template/html/dist/image/ayakkabı1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "49055"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aD9klze1coiainCfz0NYbKJT3oPLi4tTUi7aEi+wljs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 Jan 2025 13:02:31 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aD9klze1coiainCfz0NYbKJT3oPLi4tTUi7aEi+wljs="
+        }
+      ]
+    },
+    {
+      "Route": "MainDownload-OvioAdmin-html5-template/html/dist/image/ayakkabı2.cz10tj5fqo.jpg",
+      "AssetFile": "MainDownload-OvioAdmin-html5-template/html/dist/image/ayakkabı2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11069"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CINMVgQAR6ltVKz115iNEWXQsWFE5UIB8qk70yRGbDQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 Jan 2025 13:02:50 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cz10tj5fqo"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CINMVgQAR6ltVKz115iNEWXQsWFE5UIB8qk70yRGbDQ="
+        },
+        {
+          "Name": "label",
+          "Value": "MainDownload-OvioAdmin-html5-template/html/dist/image/ayakkabı2.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "MainDownload-OvioAdmin-html5-template/html/dist/image/ayakkabı2.jpg",
+      "AssetFile": "MainDownload-OvioAdmin-html5-template/html/dist/image/ayakkabı2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11069"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CINMVgQAR6ltVKz115iNEWXQsWFE5UIB8qk70yRGbDQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 Jan 2025 13:02:50 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CINMVgQAR6ltVKz115iNEWXQsWFE5UIB8qk70yRGbDQ="
+        }
+      ]
+    },
+    {
+      "Route": "MainDownload-OvioAdmin-html5-template/html/dist/image/ayakkabı3.4aqrhk5ene.jpg",
+      "AssetFile": "MainDownload-OvioAdmin-html5-template/html/dist/image/ayakkabı3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14428"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NPGhrS+sY8uXWjtQni1Mb+O2eoxGeevBbeu8do2hh58=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 Jan 2025 13:02:43 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4aqrhk5ene"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NPGhrS+sY8uXWjtQni1Mb+O2eoxGeevBbeu8do2hh58="
+        },
+        {
+          "Name": "label",
+          "Value": "MainDownload-OvioAdmin-html5-template/html/dist/image/ayakkabı3.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "MainDownload-OvioAdmin-html5-template/html/dist/image/ayakkabı3.jpg",
+      "AssetFile": "MainDownload-OvioAdmin-html5-template/html/dist/image/ayakkabı3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14428"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NPGhrS+sY8uXWjtQni1Mb+O2eoxGeevBbeu8do2hh58=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 Jan 2025 13:02:43 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NPGhrS+sY8uXWjtQni1Mb+O2eoxGeevBbeu8do2hh58="
+        }
+      ]
+    },
+    {
+      "Route": "MainDownload-OvioAdmin-html5-template/html/dist/image/ayakkabı4.jpg",
+      "AssetFile": "MainDownload-OvioAdmin-html5-template/html/dist/image/ayakkabı4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15958"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P7TIFGOmCUxdhnwnevs7v9zRKUuBBrHE1lYKIIHaK+o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 Jan 2025 13:02:58 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-P7TIFGOmCUxdhnwnevs7v9zRKUuBBrHE1lYKIIHaK+o="
+        }
+      ]
+    },
+    {
+      "Route": "MainDownload-OvioAdmin-html5-template/html/dist/image/ayakkabı4.r9ivytl80u.jpg",
+      "AssetFile": "MainDownload-OvioAdmin-html5-template/html/dist/image/ayakkabı4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15958"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P7TIFGOmCUxdhnwnevs7v9zRKUuBBrHE1lYKIIHaK+o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 Jan 2025 13:02:58 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r9ivytl80u"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-P7TIFGOmCUxdhnwnevs7v9zRKUuBBrHE1lYKIIHaK+o="
+        },
+        {
+          "Name": "label",
+          "Value": "MainDownload-OvioAdmin-html5-template/html/dist/image/ayakkabı4.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "MainDownload-OvioAdmin-html5-template/html/dist/image/mulhtishop1.0afxj6jri7.jpg",
+      "AssetFile": "MainDownload-OvioAdmin-html5-template/html/dist/image/mulhtishop1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "147401"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mIbrKtt0uFR/mMBN+3LcswIY2rwCli/JyjH02aNJIJk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 10:17:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0afxj6jri7"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mIbrKtt0uFR/mMBN+3LcswIY2rwCli/JyjH02aNJIJk="
+        },
+        {
+          "Name": "label",
+          "Value": "MainDownload-OvioAdmin-html5-template/html/dist/image/mulhtishop1.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "MainDownload-OvioAdmin-html5-template/html/dist/image/mulhtishop1.jpg",
+      "AssetFile": "MainDownload-OvioAdmin-html5-template/html/dist/image/mulhtishop1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "147401"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mIbrKtt0uFR/mMBN+3LcswIY2rwCli/JyjH02aNJIJk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 10:17:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mIbrKtt0uFR/mMBN+3LcswIY2rwCli/JyjH02aNJIJk="
+        }
+      ]
+    },
+    {
       "Route": "MainDownload-OvioAdmin-html5-template/html/dist/img/body-bg.jpg",
       "AssetFile": "MainDownload-OvioAdmin-html5-template/html/dist/img/body-bg.jpg",
       "Selectors": [],

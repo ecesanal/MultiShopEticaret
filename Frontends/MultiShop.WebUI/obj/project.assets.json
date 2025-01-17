@@ -2958,6 +2958,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
+      },
+      "MultiShop.DtoLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/MultiShop.DtoLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MultiShop.DtoLayer.dll": {}
+        }
       }
     }
   },
@@ -8605,11 +8615,17 @@
         "system.xml.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xdocument.nuspec"
       ]
+    },
+    "MultiShop.DtoLayer/1.0.0": {
+      "type": "project",
+      "path": "../../Fronends/MultiShop.DtoLayer/MultiShop.DtoLayer.csproj",
+      "msbuildProject": "../../Fronends/MultiShop.DtoLayer/MultiShop.DtoLayer.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 6.0.18"
+      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 6.0.18",
+      "MultiShop.DtoLayer >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -8644,7 +8660,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\e\\source\\repos\\MultiShop\\Fronends\\MultiShop.DtoLayer\\MultiShop.DtoLayer.csproj": {
+              "projectPath": "C:\\Users\\e\\source\\repos\\MultiShop\\Fronends\\MultiShop.DtoLayer\\MultiShop.DtoLayer.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

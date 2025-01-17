@@ -3186,6 +3186,114 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\dist\font-awesome\fonts\fontawesome-webfont.woff'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\dist\image\ayakkabı1.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>MultiShop.WebUI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/MultiShop.WebUI</BasePath>
+      <RelativePath>MainDownload-OvioAdmin-html5-template/html/dist/image/ayakkabı1.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>88v2uu2axj</Fingerprint>
+      <Integrity>aD9klze1coiainCfz0NYbKJT3oPLi4tTUi7aEi+wljs=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\dist\image\ayakkabı1.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\dist\image\ayakkabı2.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>MultiShop.WebUI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/MultiShop.WebUI</BasePath>
+      <RelativePath>MainDownload-OvioAdmin-html5-template/html/dist/image/ayakkabı2.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>cz10tj5fqo</Fingerprint>
+      <Integrity>CINMVgQAR6ltVKz115iNEWXQsWFE5UIB8qk70yRGbDQ=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\dist\image\ayakkabı2.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\dist\image\ayakkabı3.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>MultiShop.WebUI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/MultiShop.WebUI</BasePath>
+      <RelativePath>MainDownload-OvioAdmin-html5-template/html/dist/image/ayakkabı3.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>4aqrhk5ene</Fingerprint>
+      <Integrity>NPGhrS+sY8uXWjtQni1Mb+O2eoxGeevBbeu8do2hh58=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\dist\image\ayakkabı3.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\dist\image\ayakkabı4.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>MultiShop.WebUI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/MultiShop.WebUI</BasePath>
+      <RelativePath>MainDownload-OvioAdmin-html5-template/html/dist/image/ayakkabı4.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>r9ivytl80u</Fingerprint>
+      <Integrity>P7TIFGOmCUxdhnwnevs7v9zRKUuBBrHE1lYKIIHaK+o=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\dist\image\ayakkabı4.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\dist\image\mulhtishop1.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>MultiShop.WebUI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/MultiShop.WebUI</BasePath>
+      <RelativePath>MainDownload-OvioAdmin-html5-template/html/dist/image/mulhtishop1.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>0afxj6jri7</Fingerprint>
+      <Integrity>mIbrKtt0uFR/mMBN+3LcswIY2rwCli/JyjH02aNJIJk=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\dist\image\mulhtishop1.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\dist\image\MULTISHOPPNG.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>MultiShop.WebUI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/MultiShop.WebUI</BasePath>
+      <RelativePath>MainDownload-OvioAdmin-html5-template/html/dist/image/MULTISHOPPNG.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>5js79mparu</Fingerprint>
+      <Integrity>z6LfgXMu/HSlvR49ziKLBlcCNuZyD/R3fq6G3g2DLfw=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\dist\image\MULTISHOPPNG.png'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\dist\img\body-bg.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>MultiShop.WebUI</SourceId>

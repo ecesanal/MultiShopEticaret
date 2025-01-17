@@ -175,6 +175,12 @@ wwwroot\MainDownload-OvioAdmin-html5-template\html\dist\font-awesome\fonts\fonta
 wwwroot\MainDownload-OvioAdmin-html5-template\html\dist\font-awesome\fonts\fontawesome-webfont.svg
 wwwroot\MainDownload-OvioAdmin-html5-template\html\dist\font-awesome\fonts\fontawesome-webfont.ttf
 wwwroot\MainDownload-OvioAdmin-html5-template\html\dist\font-awesome\fonts\fontawesome-webfont.woff
+wwwroot\MainDownload-OvioAdmin-html5-template\html\dist\image\ayakkabı1.jpg
+wwwroot\MainDownload-OvioAdmin-html5-template\html\dist\image\ayakkabı2.jpg
+wwwroot\MainDownload-OvioAdmin-html5-template\html\dist\image\ayakkabı3.jpg
+wwwroot\MainDownload-OvioAdmin-html5-template\html\dist\image\ayakkabı4.jpg
+wwwroot\MainDownload-OvioAdmin-html5-template\html\dist\image\mulhtishop1.jpg
+wwwroot\MainDownload-OvioAdmin-html5-template\html\dist\image\MULTISHOPPNG.png
 wwwroot\MainDownload-OvioAdmin-html5-template\html\dist\img\body-bg.jpg
 wwwroot\MainDownload-OvioAdmin-html5-template\html\dist\img\img1.jpg
 wwwroot\MainDownload-OvioAdmin-html5-template\html\dist\img\img10.jpg

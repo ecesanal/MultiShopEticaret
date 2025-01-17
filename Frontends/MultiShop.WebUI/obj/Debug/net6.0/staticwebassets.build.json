@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "arZLRKZT+FZXPY+0fyFGYXcc3GzL0w0vZjgAX3Lhqjg=",
+  "Hash": "n4/KulY+4pHIcKvZ7S9HKvU8NfNmfwG4mMuGYjvnqvs=",
   "Source": "MultiShop.WebUI",
   "BasePath": "_content/MultiShop.WebUI",
   "Mode": "Default",
@@ -3774,6 +3774,132 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\font-awesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Identity": "C:\\Users\\e\\source\\repos\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\image\\ayakkabı1.jpg",
+      "SourceId": "MultiShop.WebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\e\\source\\repos\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\",
+      "BasePath": "_content/MultiShop.WebUI",
+      "RelativePath": "MainDownload-OvioAdmin-html5-template/html/dist/image/ayakkabı1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "88v2uu2axj",
+      "Integrity": "aD9klze1coiainCfz0NYbKJT3oPLi4tTUi7aEi+wljs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\image\\ayakkabı1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\e\\source\\repos\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\image\\ayakkabı2.jpg",
+      "SourceId": "MultiShop.WebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\e\\source\\repos\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\",
+      "BasePath": "_content/MultiShop.WebUI",
+      "RelativePath": "MainDownload-OvioAdmin-html5-template/html/dist/image/ayakkabı2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cz10tj5fqo",
+      "Integrity": "CINMVgQAR6ltVKz115iNEWXQsWFE5UIB8qk70yRGbDQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\image\\ayakkabı2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\e\\source\\repos\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\image\\ayakkabı3.jpg",
+      "SourceId": "MultiShop.WebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\e\\source\\repos\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\",
+      "BasePath": "_content/MultiShop.WebUI",
+      "RelativePath": "MainDownload-OvioAdmin-html5-template/html/dist/image/ayakkabı3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4aqrhk5ene",
+      "Integrity": "NPGhrS+sY8uXWjtQni1Mb+O2eoxGeevBbeu8do2hh58=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\image\\ayakkabı3.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\e\\source\\repos\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\image\\ayakkabı4.jpg",
+      "SourceId": "MultiShop.WebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\e\\source\\repos\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\",
+      "BasePath": "_content/MultiShop.WebUI",
+      "RelativePath": "MainDownload-OvioAdmin-html5-template/html/dist/image/ayakkabı4#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "r9ivytl80u",
+      "Integrity": "P7TIFGOmCUxdhnwnevs7v9zRKUuBBrHE1lYKIIHaK+o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\image\\ayakkabı4.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\e\\source\\repos\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\image\\mulhtishop1.jpg",
+      "SourceId": "MultiShop.WebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\e\\source\\repos\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\",
+      "BasePath": "_content/MultiShop.WebUI",
+      "RelativePath": "MainDownload-OvioAdmin-html5-template/html/dist/image/mulhtishop1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0afxj6jri7",
+      "Integrity": "mIbrKtt0uFR/mMBN+3LcswIY2rwCli/JyjH02aNJIJk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\image\\mulhtishop1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\e\\source\\repos\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\image\\MULTISHOPPNG.png",
+      "SourceId": "MultiShop.WebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\e\\source\\repos\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\",
+      "BasePath": "_content/MultiShop.WebUI",
+      "RelativePath": "MainDownload-OvioAdmin-html5-template/html/dist/image/MULTISHOPPNG#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5js79mparu",
+      "Integrity": "z6LfgXMu/HSlvR49ziKLBlcCNuZyD/R3fq6G3g2DLfw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\image\\MULTISHOPPNG.png"
     },
     {
       "Identity": "C:\\Users\\e\\source\\repos\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\body-bg.jpg",
@@ -24966,6 +25092,498 @@
         {
           "Name": "integrity",
           "Value": "sha256-1bVjbrsuEkgQQ2IACGt0pg3/noqL5/ShCIv100WLw8g="
+        }
+      ]
+    },
+    {
+      "Route": "MainDownload-OvioAdmin-html5-template/html/dist/image/ayakkabı1.88v2uu2axj.jpg",
+      "AssetFile": "C:\\Users\\e\\source\\repos\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\image\\ayakkabı1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "49055"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aD9klze1coiainCfz0NYbKJT3oPLi4tTUi7aEi+wljs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 Jan 2025 13:02:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "88v2uu2axj"
+        },
+        {
+          "Name": "label",
+          "Value": "MainDownload-OvioAdmin-html5-template/html/dist/image/ayakkabı1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aD9klze1coiainCfz0NYbKJT3oPLi4tTUi7aEi+wljs="
+        }
+      ]
+    },
+    {
+      "Route": "MainDownload-OvioAdmin-html5-template/html/dist/image/ayakkabı1.jpg",
+      "AssetFile": "C:\\Users\\e\\source\\repos\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\image\\ayakkabı1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "49055"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aD9klze1coiainCfz0NYbKJT3oPLi4tTUi7aEi+wljs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 Jan 2025 13:02:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aD9klze1coiainCfz0NYbKJT3oPLi4tTUi7aEi+wljs="
+        }
+      ]
+    },
+    {
+      "Route": "MainDownload-OvioAdmin-html5-template/html/dist/image/ayakkabı2.cz10tj5fqo.jpg",
+      "AssetFile": "C:\\Users\\e\\source\\repos\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\image\\ayakkabı2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11069"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CINMVgQAR6ltVKz115iNEWXQsWFE5UIB8qk70yRGbDQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 Jan 2025 13:02:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cz10tj5fqo"
+        },
+        {
+          "Name": "label",
+          "Value": "MainDownload-OvioAdmin-html5-template/html/dist/image/ayakkabı2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CINMVgQAR6ltVKz115iNEWXQsWFE5UIB8qk70yRGbDQ="
+        }
+      ]
+    },
+    {
+      "Route": "MainDownload-OvioAdmin-html5-template/html/dist/image/ayakkabı2.jpg",
+      "AssetFile": "C:\\Users\\e\\source\\repos\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\image\\ayakkabı2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11069"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CINMVgQAR6ltVKz115iNEWXQsWFE5UIB8qk70yRGbDQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 Jan 2025 13:02:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CINMVgQAR6ltVKz115iNEWXQsWFE5UIB8qk70yRGbDQ="
+        }
+      ]
+    },
+    {
+      "Route": "MainDownload-OvioAdmin-html5-template/html/dist/image/ayakkabı3.4aqrhk5ene.jpg",
+      "AssetFile": "C:\\Users\\e\\source\\repos\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\image\\ayakkabı3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14428"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NPGhrS+sY8uXWjtQni1Mb+O2eoxGeevBbeu8do2hh58=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 Jan 2025 13:02:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4aqrhk5ene"
+        },
+        {
+          "Name": "label",
+          "Value": "MainDownload-OvioAdmin-html5-template/html/dist/image/ayakkabı3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NPGhrS+sY8uXWjtQni1Mb+O2eoxGeevBbeu8do2hh58="
+        }
+      ]
+    },
+    {
+      "Route": "MainDownload-OvioAdmin-html5-template/html/dist/image/ayakkabı3.jpg",
+      "AssetFile": "C:\\Users\\e\\source\\repos\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\image\\ayakkabı3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14428"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NPGhrS+sY8uXWjtQni1Mb+O2eoxGeevBbeu8do2hh58=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 Jan 2025 13:02:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NPGhrS+sY8uXWjtQni1Mb+O2eoxGeevBbeu8do2hh58="
+        }
+      ]
+    },
+    {
+      "Route": "MainDownload-OvioAdmin-html5-template/html/dist/image/ayakkabı4.jpg",
+      "AssetFile": "C:\\Users\\e\\source\\repos\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\image\\ayakkabı4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15958"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P7TIFGOmCUxdhnwnevs7v9zRKUuBBrHE1lYKIIHaK+o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 Jan 2025 13:02:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-P7TIFGOmCUxdhnwnevs7v9zRKUuBBrHE1lYKIIHaK+o="
+        }
+      ]
+    },
+    {
+      "Route": "MainDownload-OvioAdmin-html5-template/html/dist/image/ayakkabı4.r9ivytl80u.jpg",
+      "AssetFile": "C:\\Users\\e\\source\\repos\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\image\\ayakkabı4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15958"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P7TIFGOmCUxdhnwnevs7v9zRKUuBBrHE1lYKIIHaK+o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 Jan 2025 13:02:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r9ivytl80u"
+        },
+        {
+          "Name": "label",
+          "Value": "MainDownload-OvioAdmin-html5-template/html/dist/image/ayakkabı4.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-P7TIFGOmCUxdhnwnevs7v9zRKUuBBrHE1lYKIIHaK+o="
+        }
+      ]
+    },
+    {
+      "Route": "MainDownload-OvioAdmin-html5-template/html/dist/image/mulhtishop1.0afxj6jri7.jpg",
+      "AssetFile": "C:\\Users\\e\\source\\repos\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\image\\mulhtishop1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "147401"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mIbrKtt0uFR/mMBN+3LcswIY2rwCli/JyjH02aNJIJk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 10:17:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0afxj6jri7"
+        },
+        {
+          "Name": "label",
+          "Value": "MainDownload-OvioAdmin-html5-template/html/dist/image/mulhtishop1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mIbrKtt0uFR/mMBN+3LcswIY2rwCli/JyjH02aNJIJk="
+        }
+      ]
+    },
+    {
+      "Route": "MainDownload-OvioAdmin-html5-template/html/dist/image/mulhtishop1.jpg",
+      "AssetFile": "C:\\Users\\e\\source\\repos\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\image\\mulhtishop1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "147401"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mIbrKtt0uFR/mMBN+3LcswIY2rwCli/JyjH02aNJIJk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 10:17:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mIbrKtt0uFR/mMBN+3LcswIY2rwCli/JyjH02aNJIJk="
+        }
+      ]
+    },
+    {
+      "Route": "MainDownload-OvioAdmin-html5-template/html/dist/image/MULTISHOPPNG.5js79mparu.png",
+      "AssetFile": "C:\\Users\\e\\source\\repos\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\image\\MULTISHOPPNG.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "71322"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z6LfgXMu/HSlvR49ziKLBlcCNuZyD/R3fq6G3g2DLfw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 10:17:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5js79mparu"
+        },
+        {
+          "Name": "label",
+          "Value": "MainDownload-OvioAdmin-html5-template/html/dist/image/MULTISHOPPNG.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-z6LfgXMu/HSlvR49ziKLBlcCNuZyD/R3fq6G3g2DLfw="
+        }
+      ]
+    },
+    {
+      "Route": "MainDownload-OvioAdmin-html5-template/html/dist/image/MULTISHOPPNG.png",
+      "AssetFile": "C:\\Users\\e\\source\\repos\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\image\\MULTISHOPPNG.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "71322"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z6LfgXMu/HSlvR49ziKLBlcCNuZyD/R3fq6G3g2DLfw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 10:17:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-z6LfgXMu/HSlvR49ziKLBlcCNuZyD/R3fq6G3g2DLfw="
         }
       ]
     },
