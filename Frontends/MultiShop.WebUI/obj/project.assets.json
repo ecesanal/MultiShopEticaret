@@ -8618,8 +8618,8 @@
     },
     "MultiShop.DtoLayer/1.0.0": {
       "type": "project",
-      "path": "../../Fronends/MultiShop.DtoLayer/MultiShop.DtoLayer.csproj",
-      "msbuildProject": "../../Fronends/MultiShop.DtoLayer/MultiShop.DtoLayer.csproj"
+      "path": "../MultiShop.DtoLayer/MultiShop.DtoLayer.csproj",
+      "msbuildProject": "../MultiShop.DtoLayer/MultiShop.DtoLayer.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -8663,6 +8663,9 @@
           "projectReferences": {
             "C:\\Users\\e\\source\\repos\\MultiShop\\Fronends\\MultiShop.DtoLayer\\MultiShop.DtoLayer.csproj": {
               "projectPath": "C:\\Users\\e\\source\\repos\\MultiShop\\Fronends\\MultiShop.DtoLayer\\MultiShop.DtoLayer.csproj"
+            },
+            "C:\\Users\\e\\source\\repos\\MultiShop\\Frontends\\MultiShop.DtoLayer\\MultiShop.DtoLayer.csproj": {
+              "projectPath": "C:\\Users\\e\\source\\repos\\MultiShop\\Frontends\\MultiShop.DtoLayer\\MultiShop.DtoLayer.csproj"
             }
           }
         }

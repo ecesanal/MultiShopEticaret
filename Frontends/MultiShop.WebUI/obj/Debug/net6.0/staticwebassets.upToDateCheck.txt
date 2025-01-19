@@ -181,6 +181,7 @@ wwwroot\MainDownload-OvioAdmin-html5-template\html\dist\image\ayakkabı3.jpg
 wwwroot\MainDownload-OvioAdmin-html5-template\html\dist\image\ayakkabı4.jpg
 wwwroot\MainDownload-OvioAdmin-html5-template\html\dist\image\mulhtishop1.jpg
 wwwroot\MainDownload-OvioAdmin-html5-template\html\dist\image\MULTISHOPPNG.png
+wwwroot\MainDownload-OvioAdmin-html5-template\html\dist\image\profile.jpg
 wwwroot\MainDownload-OvioAdmin-html5-template\html\dist\img\body-bg.jpg
 wwwroot\MainDownload-OvioAdmin-html5-template\html\dist\img\img1.jpg
 wwwroot\MainDownload-OvioAdmin-html5-template\html\dist\img\img10.jpg

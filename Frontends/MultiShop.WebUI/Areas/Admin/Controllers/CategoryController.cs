@@ -1,8 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
-using MultiShop.DtoLayer.CatalogDtos.CategoryDtos;
 using Microsoft.AspNetCore.Authorization;
 using System.Text;
+using MultiShop.DtoLayer.CatalogDtos.CategoryDtos;
 
 namespace MultiShop.WebUI.Areas.Admin.Controllers
 {

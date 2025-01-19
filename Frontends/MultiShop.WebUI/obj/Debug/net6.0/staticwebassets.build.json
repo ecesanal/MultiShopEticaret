@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "n4/KulY+4pHIcKvZ7S9HKvU8NfNmfwG4mMuGYjvnqvs=",
+  "Hash": "2cttyIURimQaR+ZZjw+cmHf0Me8g52Mxn2yz7fo8zn8=",
   "Source": "MultiShop.WebUI",
   "BasePath": "_content/MultiShop.WebUI",
   "Mode": "Default",
@@ -3900,6 +3900,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\image\\MULTISHOPPNG.png"
+    },
+    {
+      "Identity": "C:\\Users\\e\\source\\repos\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\image\\profile.jpg",
+      "SourceId": "MultiShop.WebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\e\\source\\repos\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\",
+      "BasePath": "_content/MultiShop.WebUI",
+      "RelativePath": "MainDownload-OvioAdmin-html5-template/html/dist/image/profile#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "u8r4nowac0",
+      "Integrity": "7rmM6UcBd69cvw/7MqjFeMJGq3/BWCFBo5bx0QqcTKo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\image\\profile.jpg"
     },
     {
       "Identity": "C:\\Users\\e\\source\\repos\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\body-bg.jpg",
@@ -25588,6 +25609,88 @@
       ]
     },
     {
+      "Route": "MainDownload-OvioAdmin-html5-template/html/dist/image/profile.jpg",
+      "AssetFile": "C:\\Users\\e\\source\\repos\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\image\\profile.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30914"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7rmM6UcBd69cvw/7MqjFeMJGq3/BWCFBo5bx0QqcTKo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 Jan 2025 14:44:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7rmM6UcBd69cvw/7MqjFeMJGq3/BWCFBo5bx0QqcTKo="
+        }
+      ]
+    },
+    {
+      "Route": "MainDownload-OvioAdmin-html5-template/html/dist/image/profile.u8r4nowac0.jpg",
+      "AssetFile": "C:\\Users\\e\\source\\repos\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\image\\profile.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30914"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7rmM6UcBd69cvw/7MqjFeMJGq3/BWCFBo5bx0QqcTKo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 Jan 2025 14:44:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u8r4nowac0"
+        },
+        {
+          "Name": "label",
+          "Value": "MainDownload-OvioAdmin-html5-template/html/dist/image/profile.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7rmM6UcBd69cvw/7MqjFeMJGq3/BWCFBo5bx0QqcTKo="
+        }
+      ]
+    },
+    {
       "Route": "MainDownload-OvioAdmin-html5-template/html/dist/img/body-bg.jpg",
       "AssetFile": "C:\\Users\\e\\source\\repos\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\dist\\img\\body-bg.jpg",
       "Selectors": [],
@@ -39058,7 +39161,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 05 Jan 2025 11:11:29 GMT"
+          "Value": "Sun, 19 Jan 2025 15:06:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -39095,7 +39198,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 05 Jan 2025 11:11:29 GMT"
+          "Value": "Sun, 19 Jan 2025 15:06:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -39140,7 +39243,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 05 Jan 2025 11:11:29 GMT"
+          "Value": "Sun, 19 Jan 2025 15:06:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -39185,7 +39288,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 05 Jan 2025 11:11:29 GMT"
+          "Value": "Sun, 19 Jan 2025 15:06:41 GMT"
         },
         {
           "Name": "Cache-Control",

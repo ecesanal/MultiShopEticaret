@@ -36,6 +36,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\Fronends\MultiShop.DtoLayer\MultiShop.DtoLayer.csproj" />
+    <ProjectReference Include="..\MultiShop.DtoLayer\MultiShop.DtoLayer.csproj" />
   </ItemGroup>
 
 </Project>
