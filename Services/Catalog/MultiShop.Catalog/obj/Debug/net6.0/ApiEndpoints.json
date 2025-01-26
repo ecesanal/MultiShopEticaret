@@ -84,6 +84,90 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "MultiShop.Catalog.Controllers.FeatureSlidersController",
+    "Method": "FeatureSliderList",
+    "RelativePath": "api/FeatureSliders",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Catalog.Controllers.FeatureSlidersController",
+    "Method": "CreateFeatureSlider",
+    "RelativePath": "api/FeatureSliders",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createFeatureSliderDto",
+        "Type": "MultiShop.Catalog.Dtos.FeatureSliderDtos.CreateFeatureSliderDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Catalog.Controllers.FeatureSlidersController",
+    "Method": "DeleteteFeatureSlider",
+    "RelativePath": "api/FeatureSliders",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Catalog.Controllers.FeatureSlidersController",
+    "Method": "UpdateFeatureSlider",
+    "RelativePath": "api/FeatureSliders",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "updateFeatureSliderDto",
+        "Type": "MultiShop.Catalog.Dtos.FeatureSliderDtos.UpdateFeatureSliderDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Catalog.Controllers.FeatureSlidersController",
+    "Method": "GetFeatureSliderById",
+    "RelativePath": "api/FeatureSliders/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Catalog.Controllers.FeatureSlidersController",
+    "Method": "TestMongoConnection",
+    "RelativePath": "api/FeatureSliders/TestMongoConnection",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "MultiShop.Catalog.Controllers.ProductDetailsController",
     "Method": "ProductDetailList",
     "RelativePath": "api/ProductDetails",

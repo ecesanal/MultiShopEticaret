@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MultiShop.WebUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5dcd8338bd3f6ef32a57556d3f321c6e256c90be")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a321bf761f730ffef77e29e757bc3d9ae35d972b")]
 [assembly: System.Reflection.AssemblyProductAttribute("MultiShop.WebUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MultiShop.WebUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

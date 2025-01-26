@@ -4180,13 +4180,13 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MultiShop.WebUI.jgpddpgdod.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-3cw4ikDaZbKtGyFAhPTsB2T0Srdgubr0yspEkisCssU="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1132"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00223cw4ikDaZbKtGyFAhPTsB2T0Srdgubr0yspEkisCssU=\u0022"},{"Name":"Last-Modified","Value":"Sun, 19 Jan 2025 15:06:41 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1132"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00223cw4ikDaZbKtGyFAhPTsB2T0Srdgubr0yspEkisCssU=\u0022"},{"Name":"Last-Modified","Value":"Sun, 19 Jan 2025 15:17:51 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/MultiShop.WebUI/MultiShop.WebUI.jgpddpgdod.bundle.scp.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MultiShop.WebUI.jgpddpgdod.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"jgpddpgdod"},{"Name":"integrity","Value":"sha256-3cw4ikDaZbKtGyFAhPTsB2T0Srdgubr0yspEkisCssU="},{"Name":"label","Value":"_content/MultiShop.WebUI/MultiShop.WebUI.bundle.scp.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1132"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00223cw4ikDaZbKtGyFAhPTsB2T0Srdgubr0yspEkisCssU=\u0022"},{"Name":"Last-Modified","Value":"Sun, 19 Jan 2025 15:06:41 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1132"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00223cw4ikDaZbKtGyFAhPTsB2T0Srdgubr0yspEkisCssU=\u0022"},{"Name":"Last-Modified","Value":"Sun, 19 Jan 2025 15:17:51 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/MultiShop.WebUI/online-shop-website-template/cart.eznlsrm9li.html">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\online-shop-website-template\cart.html'))</AssetFile>

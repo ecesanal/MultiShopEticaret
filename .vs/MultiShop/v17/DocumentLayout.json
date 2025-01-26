@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\e\\source\\repos\\MultiShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{08957581-9D8E-457F-93BF-22BAB2B6B512}|Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj|c:\\users\\e\\source\\repos\\multishop\\frontends\\multishop.webui\\areas\\admin\\views\\shared\\components\\_adminlayoutheadercomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{08957581-9D8E-457F-93BF-22BAB2B6B512}|Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj|solutionrelative:frontends\\multishop.webui\\areas\\admin\\views\\shared\\components\\_adminlayoutheadercomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08957581-9D8E-457F-93BF-22BAB2B6B512}|Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj|c:\\users\\e\\source\\repos\\multishop\\frontends\\multishop.webui\\areas\\admin\\views\\shared\\components\\_adminlayoutsidebarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{08957581-9D8E-457F-93BF-22BAB2B6B512}|Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj|solutionrelative:frontends\\multishop.webui\\areas\\admin\\views\\shared\\components\\_adminlayoutsidebarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{08957581-9D8E-457F-93BF-22BAB2B6B512}|Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj|c:\\users\\e\\source\\repos\\multishop\\frontends\\multishop.webui\\areas\\admin\\controllers\\featureslidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08957581-9D8E-457F-93BF-22BAB2B6B512}|Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj|solutionrelative:frontends\\multishop.webui\\areas\\admin\\controllers\\featureslidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "C:\\Users\\e\\source\\repos\\MultiShop\\Frontends\\MultiShop.WebUI\\Areas\\Admin\\Views\\Shared\\Components\\_AdminLayoutHeaderComponentPartial\\Default.cshtml",
-              "RelativeDocumentMoniker": "Frontends\\MultiShop.WebUI\\Areas\\Admin\\Views\\Shared\\Components\\_AdminLayoutHeaderComponentPartial\\Default.cshtml",
-              "ToolTip": "C:\\Users\\e\\source\\repos\\MultiShop\\Frontends\\MultiShop.WebUI\\Areas\\Admin\\Views\\Shared\\Components\\_AdminLayoutHeaderComponentPartial\\Default.cshtml",
-              "RelativeToolTip": "Frontends\\MultiShop.WebUI\\Areas\\Admin\\Views\\Shared\\Components\\_AdminLayoutHeaderComponentPartial\\Default.cshtml",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAAAA0AAABvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-19T15:08:50.208Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "C:\\Users\\e\\source\\repos\\MultiShop\\Frontends\\MultiShop.WebUI\\Areas\\Admin\\Views\\Shared\\Components\\_AdminLayoutSidebarComponentPartial\\Default.cshtml",
-              "RelativeDocumentMoniker": "Frontends\\MultiShop.WebUI\\Areas\\Admin\\Views\\Shared\\Components\\_AdminLayoutSidebarComponentPartial\\Default.cshtml",
-              "ToolTip": "C:\\Users\\e\\source\\repos\\MultiShop\\Frontends\\MultiShop.WebUI\\Areas\\Admin\\Views\\Shared\\Components\\_AdminLayoutSidebarComponentPartial\\Default.cshtml",
-              "RelativeToolTip": "Frontends\\MultiShop.WebUI\\Areas\\Admin\\Views\\Shared\\Components\\_AdminLayoutSidebarComponentPartial\\Default.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-19T14:37:05.283Z",
+              "Title": "FeatureSliderController.cs",
+              "DocumentMoniker": "C:\\Users\\e\\source\\repos\\MultiShop\\Frontends\\MultiShop.WebUI\\Areas\\Admin\\Controllers\\FeatureSliderController.cs",
+              "RelativeDocumentMoniker": "Frontends\\MultiShop.WebUI\\Areas\\Admin\\Controllers\\FeatureSliderController.cs",
+              "ToolTip": "C:\\Users\\e\\source\\repos\\MultiShop\\Frontends\\MultiShop.WebUI\\Areas\\Admin\\Controllers\\FeatureSliderController.cs",
+              "RelativeToolTip": "Frontends\\MultiShop.WebUI\\Areas\\Admin\\Controllers\\FeatureSliderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T17:54:50.111Z",
               "EditorCaption": ""
             }
           ]
