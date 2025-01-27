@@ -1,6 +1,6 @@
-﻿@model List<ResultProductsWithCategoryDto>
+﻿@model List<ResultFeatureSliderDto>
 @{
-    ViewData["Title"] = "ProductListWithCategory";
+    ViewData["Title"] = "Index";
     Layout = "~/Areas/Admin/Views/AdminLayout/Index.cshtml";
     int count = 0;
 }
@@ -14,9 +14,8 @@
                         <thead>
                             <tr>
                                 <th>#</th>
-                                <th>Ürün Adı</th>
-                                <th>Ürün Fiyatı</th>
-                                <th>Ürün Kategorisi</th>
+                                <th>Görsel Başlığı</th>
+                                <th>Görsel Açıklaması</th>
                                 <th>Sil</th>
                                 <th>Güncelle</th>
                             </tr>
@@ -27,17 +26,16 @@
                                 count++;
                                 <tr>
                                     <th scope="row">@count</th>
-                                    <td>@item.ProductName</td>
-                                    <td>@item.ProductPrice</td>
-                                    <td>@item.Category.CategoryName</td>
-                                    <td><a href="/Admin/Product/DeleteProduct/@item.ProductId" class="btn btn-danger">Sil</a></td>
-                                    <td><a href="/Admin/Product/UpdateProduct/@item.ProductId" class="btn btn-success">Güncelle</a></td>
+                                    <td>@item.Title</td>
+                                    <td>@item.Description</td>
+                                    <td><a href="/Admin/FeatureSlider/DeleteFeatureSlider/@item.FeatureSliderId" class="btn btn-danger">Sil</a></td>
+                                    <td><a href="/Admin/FeatureSlider/UpdateFeatureSlider/@item.FeatureSliderId" class="btn btn-success">Güncelle</a></td>
                                 </tr>
                             }
 
                         </tbody>
                     </table>
-                    <a href="/Admin/Product/CreateProduct/" class="btn btn-primary">Yeni Ürün Girişi</a>
+                    <a href="/Admin/FeatureSlider/CreateFeatureSlider/" class="btn btn-primary">Yeni Görsel Girişi</a>
                 </div>
             </div>
         </div>
