@@ -21,9 +21,9 @@ namespace MultiShop.WebUI.Areas.Admin.Controllers
         public async Task<IActionResult> Index()
         {
             ViewBag.v1 = "Ana Sayfa";
-            ViewBag.v2 = "Özel Teklifler";
-            ViewBag.v3 = "Özel Teklif ve Günün İndirimi Listesi";
-            ViewBag.v0 = "Özel Teklif İşlemleri";
+            ViewBag.v2 = "ÖZel Teklif Görseller";
+            ViewBag.v3 = "ÖZel Teklif Görseller Listesi";
+            ViewBag.v0 = "ÖZel Teklif Görsel İşlemleri";
             var client = _httpClientFactory.CreateClient();
             var responseMessage = await client.GetAsync("https://localhost:7071/api/SpecialOffers");
             if (responseMessage.IsSuccessStatusCode)
@@ -41,9 +41,9 @@ namespace MultiShop.WebUI.Areas.Admin.Controllers
         public IActionResult CreateSpecialOffer()
         {
             ViewBag.v1 = "Ana Sayfa";
-            ViewBag.v2 = "Özel Teklifler";
-            ViewBag.v3 = "Yeni Özel Teklif Girişi";
-            ViewBag.v0 = "Özel Teklif İşlemleri";
+            ViewBag.v2 = "ÖZel Teklif Görsel Alanlar";
+            ViewBag.v3 = "Yeni ÖZel Teklif Görseller Alan Girişi";
+            ViewBag.v0 = "ÖZel Teklif Görsel İşlemleri";
             return View();
         }
 
@@ -79,9 +79,9 @@ namespace MultiShop.WebUI.Areas.Admin.Controllers
         public async Task<IActionResult> UpdateSpecialOffer(string id)
         {
             ViewBag.v1 = "Ana Sayfa";
-            ViewBag.v2 = "Özel Teklifler";
-            ViewBag.v3 = "Özel Teklif Güncelleme Sayfası";
-            ViewBag.v0 = "Özel Teklif İşlemleri";
+            ViewBag.v2 = "ÖZel Teklif Görsel Alanlar";
+            ViewBag.v3 = "Yeni ÖZel Teklif Görseller Alan Girişi";
+            ViewBag.v0 = "ÖZel Teklif Görsel İşlemleri";
             var client = _httpClientFactory.CreateClient();
             var responseMessage = await client.GetAsync("https://localhost:7071/api/SpecialOffers/" + id);
             if (responseMessage.IsSuccessStatusCode)

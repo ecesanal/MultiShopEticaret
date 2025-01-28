@@ -410,9 +410,9 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "MultiShop.Catalog.Controllers.SpecialOfferController",
+    "ContainingType": "MultiShop.Catalog.Controllers.SpecialOffersController",
     "Method": "SpecialOfferList",
-    "RelativePath": "api/SpecialOffer",
+    "RelativePath": "api/SpecialOffers",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -420,9 +420,9 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "MultiShop.Catalog.Controllers.SpecialOfferController",
+    "ContainingType": "MultiShop.Catalog.Controllers.SpecialOffersController",
     "Method": "CreateSpecialOffer",
-    "RelativePath": "api/SpecialOffer",
+    "RelativePath": "api/SpecialOffers",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -436,9 +436,9 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "MultiShop.Catalog.Controllers.SpecialOfferController",
-    "Method": "DeleteteSpecialOffer",
-    "RelativePath": "api/SpecialOffer",
+    "ContainingType": "MultiShop.Catalog.Controllers.SpecialOffersController",
+    "Method": "DeleteSpecialOffer",
+    "RelativePath": "api/SpecialOffers",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
@@ -452,9 +452,9 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "MultiShop.Catalog.Controllers.SpecialOfferController",
+    "ContainingType": "MultiShop.Catalog.Controllers.SpecialOffersController",
     "Method": "UpdateSpecialOffer",
-    "RelativePath": "api/SpecialOffer",
+    "RelativePath": "api/SpecialOffers",
     "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
@@ -468,9 +468,9 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "MultiShop.Catalog.Controllers.SpecialOfferController",
-    "Method": "GetpecialOfferById",
-    "RelativePath": "api/SpecialOffer/{id}",
+    "ContainingType": "MultiShop.Catalog.Controllers.SpecialOffersController",
+    "Method": "GetSpecialOfferById",
+    "RelativePath": "api/SpecialOffers/{id}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,

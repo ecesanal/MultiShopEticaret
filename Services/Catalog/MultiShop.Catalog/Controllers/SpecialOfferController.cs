@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using MongoDB.Driver;
 using MultiShop.Catalog.Dtos.SpecialOfferDtos;
@@ -10,44 +11,48 @@ namespace MultiShop.Catalog.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class SpecialOfferController : ControllerBase
+    public class SpecialOffersController : ControllerBase
     {
-        private readonly ISpecialOfferService _specialOfferService;
-        private readonly IDatabaseSettings _databaseSettings;
-        public SpecialOfferController(ISpecialOfferService SpecialOfferService,IDatabaseSettings databaseSettings)
+        private readonly ISpecialOfferService _SpecialOfferService;
+        public SpecialOffersController(ISpecialOfferService SpecialOfferService)
         {
-            _specialOfferService = SpecialOfferService;
-            _databaseSettings = databaseSettings;
+            _SpecialOfferService = SpecialOfferService;
         }
+
         [HttpGet]
         public async Task<IActionResult> SpecialOfferList()
         {
-            var values = await _specialOfferService.GetAllSpecialOfferAsync();
+            var values = await _SpecialOfferService.GettAllSpecialOfferAsync();
             return Ok(values);
         }
+
         [HttpGet("{id}")]
-        public async Task<IActionResult> GetpecialOfferById(string id)
+        public async Task<IActionResult> GetSpecialOfferById(string id)
         {
-            var values = await _specialOfferService.GetByIdSpecialOfferAsync(id);
+            var values = await _SpecialOfferService.GetByIdSpecialOfferAsync(id);
             return Ok(values);
         }
+
         [HttpPost]
         public async Task<IActionResult> CreateSpecialOffer(CreateSpecialOfferDto createSpecialOfferDto)
         {
-            await _specialOfferService.CreateSpecialOfferAsync(createSpecialOfferDto);
-            return Ok("Özel Teklif Başarıyla Eklendi");
+            await _SpecialOfferService.CreateSpecialOfferAsync(createSpecialOfferDto);
+            return Ok("Özel teklif başarıyla eklendi");
         }
+
         [HttpDelete]
-        public async Task<IActionResult> DeleteteSpecialOffer(string id)
+        public async Task<IActionResult> DeleteSpecialOffer(string id)
         {
-            await _specialOfferService.DeleteSpecialOfferAsync(id);
-            return Ok("Özel Teklif Başarıyla Silindi");
+            await _SpecialOfferService.DeleteSpecialOfferAsync(id);
+            return Ok("Özel teklif başarıyla silindi");
         }
+
         [HttpPut]
         public async Task<IActionResult> UpdateSpecialOffer(UpdateSpecialOfferDto updateSpecialOfferDto)
         {
-            await _specialOfferService.UpdateSpecialOfferAsync(updateSpecialOfferDto);
-            return Ok("Özel Teklif Başarıyla Güncellendi");
+            await _SpecialOfferService.UpdateSpecialOfferAsync(updateSpecialOfferDto);
+            return Ok("Özel teklif başarıyla güncellendi");
         }
     }
 }
+

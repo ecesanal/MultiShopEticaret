@@ -608,10 +608,10 @@
         }
       }
     },
-    "/api/SpecialOffer": {
+    "/api/SpecialOffers": {
       "get": {
         "tags": [
-          "SpecialOffer"
+          "SpecialOffers"
         ],
         "responses": {
           "200": {
@@ -621,7 +621,7 @@
       },
       "post": {
         "tags": [
-          "SpecialOffer"
+          "SpecialOffers"
         ],
         "requestBody": {
           "content": {
@@ -650,7 +650,7 @@
       },
       "delete": {
         "tags": [
-          "SpecialOffer"
+          "SpecialOffers"
         ],
         "parameters": [
           {
@@ -669,7 +669,7 @@
       },
       "put": {
         "tags": [
-          "SpecialOffer"
+          "SpecialOffers"
         ],
         "requestBody": {
           "content": {
@@ -697,10 +697,10 @@
         }
       }
     },
-    "/api/SpecialOffer/{id}": {
+    "/api/SpecialOffers/{id}": {
       "get": {
         "tags": [
-          "SpecialOffer"
+          "SpecialOffers"
         ],
         "parameters": [
           {
