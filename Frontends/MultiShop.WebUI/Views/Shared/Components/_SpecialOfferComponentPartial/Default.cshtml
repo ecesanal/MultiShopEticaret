@@ -1,18 +1,14 @@
-﻿<div class="col-lg-4">
-    <div class="product-offer mb-30" style="height: 200px;">
-        <img class="img-fluid" src="https://i.pinimg.com/736x/7c/82/65/7c8265a4ad070bddf9d9c6efea1c4327.jpg" alt="">
-        <div class="offer-text">
-            <h6 class="text-white text-uppercase" lang="tr">İndirim 20%</h6>
-            <h3 class="text-white mb-3">Özel Teklif</h3>
-            <a href="" class="btn btn-primary">Fırsatı Kaçırma</a>
+﻿@model List<ResultSpecialOfferDto>
+<div class="col-lg-4">
+    @foreach (var item in Model)
+    {
+        <div class="product-offer mb-30" style="height: 200px;">
+            <img class="img-fluid" src="@item.ImgUrl" alt="">
+            <div class="offer-text">
+                <h6 class="text-white text-uppercase" lang="tr">@item.SubTitle</h6>
+                <h3 class="text-white mb-3">@item.Title</h3>
+                <a href="" class="btn btn-primary">Fırsatı Kaçırma</a>
+            </div>
         </div>
-    </div>
-    <div class="product-offer mb-30" style="height: 200px;">
-        <img class="img-fluid" src="https://i.pinimg.com/736x/1a/3a/c7/1a3ac7040e3bc538f42b106b201c0966.jpg" alt="">
-        <div class="offer-text">
-            <h6 class="text-white text-uppercase" lang="tr">İndirim 30%</h6>
-            <h3 class="text-white mb-3">Günün İndirimi</h3>
-            <a href="" class="btn btn-primary">Hemen Al</a>
-        </div>
-    </div>
+    }
 </div>

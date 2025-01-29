@@ -38,21 +38,6 @@ namespace MultiShop.Catalog.Controllers
             await _FeatureSliderService.CreateFeatureSliderAsync(createFeatureSliderDto);
             return Ok("Öne çıkan görsel Başarıyla Eklendi");
         }
-        //db test
-        [HttpGet("TestMongoConnection")]
-        public IActionResult TestMongoConnection()
-        {
-            var client = new MongoClient(_databaseSettings.ConnectionString);
-            var database = client.GetDatabase(_databaseSettings.DatabaseName);
-            var collection = database.GetCollection<FeatureSlider>(_databaseSettings.FeatureSliderCollectionName);
-
-            if (collection != null)
-            {
-                return Ok("MongoDB bağlantısı başarılı.");
-            }
-
-            return StatusCode(500, "MongoDB bağlantısı başarısız.");
-        }
         [HttpDelete]
         public async Task<IActionResult> DeleteteFeatureSlider(string id)
         {

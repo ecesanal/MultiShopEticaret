@@ -21,8 +21,8 @@ namespace MultiShop.WebUI.Areas.Admin.Controllers
         public async Task<IActionResult> Index()
         {
             ViewBag.v1 = "Ana Sayfa";
-            ViewBag.v2 = "ÖZel Teklif Görseller";
-            ViewBag.v3 = "ÖZel Teklif Görseller Listesi";
+            ViewBag.v2 = "Özel Teklif";
+            ViewBag.v3 = "ÖZel Teklif Listesi";
             ViewBag.v0 = "ÖZel Teklif Görsel İşlemleri";
             var client = _httpClientFactory.CreateClient();
             var responseMessage = await client.GetAsync("https://localhost:7071/api/SpecialOffers");
@@ -41,9 +41,9 @@ namespace MultiShop.WebUI.Areas.Admin.Controllers
         public IActionResult CreateSpecialOffer()
         {
             ViewBag.v1 = "Ana Sayfa";
-            ViewBag.v2 = "ÖZel Teklif Görsel Alanlar";
-            ViewBag.v3 = "Yeni ÖZel Teklif Görseller Alan Girişi";
-            ViewBag.v0 = "ÖZel Teklif Görsel İşlemleri";
+            ViewBag.v2 = "ÖZel Teklif";
+            ViewBag.v3 = "Yeni ÖZel Teklif Girişi";
+            ViewBag.v0 = "ÖZel Teklif İşlemleri";
             return View();
         }
 
@@ -79,9 +79,9 @@ namespace MultiShop.WebUI.Areas.Admin.Controllers
         public async Task<IActionResult> UpdateSpecialOffer(string id)
         {
             ViewBag.v1 = "Ana Sayfa";
-            ViewBag.v2 = "ÖZel Teklif Görsel Alanlar";
-            ViewBag.v3 = "Yeni ÖZel Teklif Görseller Alan Girişi";
-            ViewBag.v0 = "ÖZel Teklif Görsel İşlemleri";
+            ViewBag.v2 = "ÖZel Teklif";
+            ViewBag.v3 = "Yeni ÖZel Teklif Girişi";
+            ViewBag.v0 = "ÖZel Teklif İşlemleri";
             var client = _httpClientFactory.CreateClient();
             var responseMessage = await client.GetAsync("https://localhost:7071/api/SpecialOffers/" + id);
             if (responseMessage.IsSuccessStatusCode)

@@ -13,6 +13,7 @@
                     <table class="table table-bordered">
                         <thead>
                             <tr>
+                                <th>#</th>
                                 <th>Teklif Başlığı</th>
                                 <th>Teklif Alt Başlığı</th>
                                 <th>Sil</th>
@@ -22,8 +23,10 @@
                         <tbody>
                             @foreach (var item in Model)
                             {
+                                count++;
                                 <tr>
-                                    <th scope="row">@item.Title</th>
+                                    <th scope="row">@count</th>
+                                    <td>@item.Title</td>
                                     <td>@item.SubTitle</td>
                                     <td><a href="/Admin/SpecialOffer/DeleteSpecialOffer/@item.SpecialOfferId" class="btn btn-danger">Sil</a></td>
                                     <td><a href="/Admin/SpecialOffer/UpdateSpecialOffer/@item.SpecialOfferId" class="btn btn-success">Güncelle</a></td>

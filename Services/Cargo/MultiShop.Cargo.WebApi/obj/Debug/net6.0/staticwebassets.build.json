@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "XsMd/PN8QkAWWLqmUOckBrjAZii7o06oMOFIze/yyVs=",
+  "Source": "MultiShop.Cargo.WebApi",
+  "BasePath": "_content/MultiShop.Cargo.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

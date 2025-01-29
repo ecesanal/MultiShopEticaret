@@ -84,6 +84,80 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "MultiShop.Catalog.Controllers.FeaturesController",
+    "Method": "FeatureList",
+    "RelativePath": "api/Features",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Catalog.Controllers.FeaturesController",
+    "Method": "CreateFeature",
+    "RelativePath": "api/Features",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createFeatureDto",
+        "Type": "MultiShop.Catalog.Dtos.FeatureDtos.CreateFeatureDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Catalog.Controllers.FeaturesController",
+    "Method": "DeleteteFeature",
+    "RelativePath": "api/Features",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Catalog.Controllers.FeaturesController",
+    "Method": "UpdateFeature",
+    "RelativePath": "api/Features",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "updateFeatureDto",
+        "Type": "MultiShop.Catalog.Dtos.FeatureDtos.UpdateFeatureDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Catalog.Controllers.FeaturesController",
+    "Method": "GetFeatureById",
+    "RelativePath": "api/Features/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "MultiShop.Catalog.Controllers.FeatureSlidersController",
     "Method": "FeatureSliderList",
     "RelativePath": "api/FeatureSliders",
@@ -155,16 +229,6 @@
         "IsRequired": true
       }
     ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "MultiShop.Catalog.Controllers.FeatureSlidersController",
-    "Method": "TestMongoConnection",
-    "RelativePath": "api/FeatureSliders/TestMongoConnection",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [],
     "ReturnTypes": []
   },
   {
