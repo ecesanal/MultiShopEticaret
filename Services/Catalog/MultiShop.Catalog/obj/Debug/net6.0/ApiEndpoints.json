@@ -232,6 +232,80 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "MultiShop.Catalog.Controllers.OfferDiscountsController",
+    "Method": "OfferDiscountList",
+    "RelativePath": "api/OfferDiscounts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Catalog.Controllers.OfferDiscountsController",
+    "Method": "CreateOfferDiscount",
+    "RelativePath": "api/OfferDiscounts",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createOfferDiscountDto",
+        "Type": "MultiShop.Catalog.Dtos.OfferDiscountDtos.CreateOfferDiscountDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Catalog.Controllers.OfferDiscountsController",
+    "Method": "DeleteOfferDiscount",
+    "RelativePath": "api/OfferDiscounts",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Catalog.Controllers.OfferDiscountsController",
+    "Method": "UpdateOfferDiscount",
+    "RelativePath": "api/OfferDiscounts",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "updateOfferDiscountDto",
+        "Type": "MultiShop.Catalog.Dtos.OfferDiscountDtos.UpdateOfferDiscountDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Catalog.Controllers.OfferDiscountsController",
+    "Method": "GetOfferDiscountById",
+    "RelativePath": "api/OfferDiscounts/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "MultiShop.Catalog.Controllers.ProductDetailsController",
     "Method": "ProductDetailList",
     "RelativePath": "api/ProductDetails",
