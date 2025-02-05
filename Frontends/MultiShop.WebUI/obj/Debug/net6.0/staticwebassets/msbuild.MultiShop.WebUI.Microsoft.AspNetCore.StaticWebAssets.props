@@ -1092,8 +1092,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>198eu1r0y7</Fingerprint>
-      <Integrity>RVOaQlopDh4z/8m99bCyR2IpeLJ08x0HXB8H0l4MFK4=</Integrity>
+      <Fingerprint>n9p09g3a0j</Fingerprint>
+      <Integrity>FeeWUW6E9c+CuLuBi0rh9moFg53cUP5HaMrFt2THSxk=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\help-documentation\assets\blueprint-css\ie.css'))</OriginalItemSpec>
@@ -1164,8 +1164,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>dw9oy7fyao</Fingerprint>
-      <Integrity>42mc+rvQ/dWZqeaKMw+f4Ok7L8ISSdoLPQhuN6Y7RXU=</Integrity>
+      <Fingerprint>5qb3cu1yis</Fingerprint>
+      <Integrity>HbKKcsFk2hQmJ6GKZppDvF61BhX7XlQJtlV6Fft4XIk=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\help-documentation\assets\blueprint-css\plugins\buttons\readme.txt'))</OriginalItemSpec>
@@ -1182,8 +1182,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>dorlyc9wwt</Fingerprint>
-      <Integrity>o97l1vUeir3Eocvj10hzgDJCx6QRBbU9jn6xaJQM4ZY=</Integrity>
+      <Fingerprint>cv7ddzm2s9</Fingerprint>
+      <Integrity>6B09cEwuM8HpxPTDeqw1RK92/fmjfyFThyWDHIU+lEk=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\help-documentation\assets\blueprint-css\plugins\buttons\screen.css'))</OriginalItemSpec>
@@ -1200,8 +1200,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>7hdmlyqqck</Fingerprint>
-      <Integrity>uwr60XG0RWRThphK8ofKmPF/XSzJ4GXqwZIdQoi3tKY=</Integrity>
+      <Fingerprint>9h552wofld</Fingerprint>
+      <Integrity>A1PsAI3/k+rqGTmwDSyoVTWWBweZ9plYHpHwaQh2iRE=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\help-documentation\assets\blueprint-css\plugins\fancy-type\readme.txt'))</OriginalItemSpec>
@@ -1218,8 +1218,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>7vnz2jgxmv</Fingerprint>
-      <Integrity>kxHAlT4ZiORcFpPBFi9KO9VlN+vwh2HFAu/0yxKvuJM=</Integrity>
+      <Fingerprint>40s7esqx50</Fingerprint>
+      <Integrity>hCf55LZhyR8tssaxevi12GPXfkXA2vm/2zXbCmKzjXE=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\help-documentation\assets\blueprint-css\plugins\fancy-type\screen.css'))</OriginalItemSpec>
@@ -1380,8 +1380,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>u4gadvb4px</Fingerprint>
-      <Integrity>LikKT6GRsZZ2JWZBUX099Ac18oYmFJ7KKh/Iij7FK64=</Integrity>
+      <Fingerprint>pw4gmdi65v</Fingerprint>
+      <Integrity>2UYfXXFMEJBjSEEX4Yc7IpJKI8FnYkIzfbJZokjgE2M=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\help-documentation\assets\blueprint-css\plugins\link-icons\readme.txt'))</OriginalItemSpec>
@@ -1398,8 +1398,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>wenjml7t1t</Fingerprint>
-      <Integrity>uAgDxMZtEGng92+cBDZMm2NavXoDllAeYmJxAQHs/rI=</Integrity>
+      <Fingerprint>yg8x8lfi9m</Fingerprint>
+      <Integrity>IpX3pBu+gLkRZzfhUS4fwqyYpsxq9ecJ8fy9iWlv7Gk=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\help-documentation\assets\blueprint-css\plugins\link-icons\screen.css'))</OriginalItemSpec>
@@ -1416,8 +1416,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>hxtm0m1wgw</Fingerprint>
-      <Integrity>+5YucJSSuInrYlcTS7FIUHpGBcFKFySl4yWEpzScziQ=</Integrity>
+      <Fingerprint>2eb799o4ac</Fingerprint>
+      <Integrity>lt2nC4EPCIrnKuxsGPS1vuj0RFQ7j/0hQnXuI3lz36M=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\help-documentation\assets\blueprint-css\plugins\rtl\readme.txt'))</OriginalItemSpec>
@@ -1434,8 +1434,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>1tdjheypst</Fingerprint>
-      <Integrity>WyrF0MiRJ1vo0mgpvvX8JkMKIdMmQNiu2dCGhioPzaM=</Integrity>
+      <Fingerprint>ymo7zna91y</Fingerprint>
+      <Integrity>huikCmuf5iWXVHIhdMFXt2+kxiUWQUN18afZ12pH1HI=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\help-documentation\assets\blueprint-css\plugins\rtl\screen.css'))</OriginalItemSpec>
@@ -1452,8 +1452,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>d40fevjw3v</Fingerprint>
-      <Integrity>o3cfG8squEqTK9ADJ6SJeqcSmyU0i/ZzDJWUliM8icI=</Integrity>
+      <Fingerprint>ywvllqzy85</Fingerprint>
+      <Integrity>Lt5Rh6+4aXmh0i3DhwfiV5Qbk3s0BUm2NG1BOpftVu8=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\help-documentation\assets\blueprint-css\print.css'))</OriginalItemSpec>
@@ -1470,8 +1470,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>x5go3p2dj2</Fingerprint>
-      <Integrity>K1GlBpXIwQajb4/pZ2mk3SScHhh/GOEPq9e7ZSc7QIE=</Integrity>
+      <Fingerprint>9prsjrhq8y</Fingerprint>
+      <Integrity>w7WCANPEPpWbEnREgsLgPRLwJVzHg+rR1I++gmqfccs=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\help-documentation\assets\blueprint-css\screen.css'))</OriginalItemSpec>
@@ -1488,8 +1488,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>78u77ahng5</Fingerprint>
-      <Integrity>OcwwgJD/xivAeGmx85pBG2jDayWleR4vbXj8Hs05p7o=</Integrity>
+      <Fingerprint>yl5e75ey90</Fingerprint>
+      <Integrity>GvG8zec6Kpm5RsRpi682RpK0WjsG5oG8MGP30T3wkUk=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\help-documentation\assets\blueprint-css\src\forms.css'))</OriginalItemSpec>
@@ -1506,8 +1506,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>4mngpift7r</Fingerprint>
-      <Integrity>jEwu7WA4GzpRpS9Igh2jOOUUHAYVtcbdmKFkoZ25P98=</Integrity>
+      <Fingerprint>81hlgaglmj</Fingerprint>
+      <Integrity>hP7NspbAHvfSS9T0P9HtkxzB5dWEmy3NZuTi6A3MTWA=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\help-documentation\assets\blueprint-css\src\grid.css'))</OriginalItemSpec>
@@ -1542,8 +1542,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>5tpqhl9npc</Fingerprint>
-      <Integrity>14WBu3EzZoHvkYAgBrAQrig5GAhQS7Hb37Aj9wrvGNk=</Integrity>
+      <Fingerprint>xn9hsb1wkb</Fingerprint>
+      <Integrity>LQMGu8qVDxBP2wB2ijFWzvNsXYQJErV78vKaSzQpBBs=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\help-documentation\assets\blueprint-css\src\ie.css'))</OriginalItemSpec>
@@ -1560,8 +1560,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>9nbhxfgrtn</Fingerprint>
-      <Integrity>y4179fzeqR/QnG0FeAW/ATdX06imPvBR9YrYRQDXdrU=</Integrity>
+      <Fingerprint>npycr6qvql</Fingerprint>
+      <Integrity>RZJjnfVgEEP6+nfg4BIDohzmjTl5r4UdEsu6p+xI8qI=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\help-documentation\assets\blueprint-css\src\print.css'))</OriginalItemSpec>
@@ -1578,8 +1578,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>xv71r9ii70</Fingerprint>
-      <Integrity>08KE6Dz74XHgQ12/JS2HLZm7j39Jm6B9QfLkf9gPfN0=</Integrity>
+      <Fingerprint>eji0jb3g5g</Fingerprint>
+      <Integrity>2ozyR20pephTWlbQo2Mnj/kkHSBMNlmflUmp/HonIkw=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\help-documentation\assets\blueprint-css\src\reset.css'))</OriginalItemSpec>
@@ -1596,8 +1596,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>ajlceipp9k</Fingerprint>
-      <Integrity>+uFqApPvy3TyVj4Qsjur7EpAh4cHGUXEPfTxlVc6qXc=</Integrity>
+      <Fingerprint>9ekp8f51vr</Fingerprint>
+      <Integrity>gWdTJnm1ieFmcWEp6+MhE7FOWRcSt4x/N1kv8FibZkY=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\help-documentation\assets\blueprint-css\src\typography.css'))</OriginalItemSpec>
@@ -1632,8 +1632,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>qdq34pt3fb</Fingerprint>
-      <Integrity>sj9ifq67jN3n3P0AmGu9CC9xU01VbnNcoGV0ZJGO0/s=</Integrity>
+      <Fingerprint>yxcojhs4su</Fingerprint>
+      <Integrity>ehFg793HTLXuVduBJqKfnH5NdEKs0zLabDKS4LVLt4E=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\help-documentation\index.html'))</OriginalItemSpec>
@@ -1650,8 +1650,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>0om4onpfpw</Fingerprint>
-      <Integrity>QJCZ5pEyrE7JvdPfBR2+N3ynciC3kIh1t7hXFuHp/Ao=</Integrity>
+      <Fingerprint>hr2n3g49mi</Fingerprint>
+      <Integrity>Q+89dxbJoBObkxwW+Eqi7FxABa73dGThVz4/EhExenE=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\app\calendar.html'))</OriginalItemSpec>
@@ -1668,8 +1668,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>th4ps49a16</Fingerprint>
-      <Integrity>AR95RZfwdPRGCWplszXONOEwJwibRBNvu7CspvT+m5I=</Integrity>
+      <Fingerprint>xntoc2lm81</Fingerprint>
+      <Integrity>LVBsgmpTGgYrMGVrEh6cO1GjgOIxBy1AV95/BfjOWto=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\app\contacts.html'))</OriginalItemSpec>
@@ -1686,8 +1686,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>3uho2fin4y</Fingerprint>
-      <Integrity>Sy73omf25uwF5sTPnHEkcnFlCoJxZ3R2fOQoXttcKsE=</Integrity>
+      <Fingerprint>c7jh6nd3dj</Fingerprint>
+      <Integrity>iHJNDajhqlTHRG2/7Ue1QEPdfimBMr7S+fEg+BHrp4w=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\app\et-line-font\et-line-font.css'))</OriginalItemSpec>
@@ -1722,8 +1722,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>evflrhawnl</Fingerprint>
-      <Integrity>Zj2Ozh4n1+jBoAfT1EtCtEkAqKurXUXrcg3hpGBqQM4=</Integrity>
+      <Fingerprint>1ak2sh0pvf</Fingerprint>
+      <Integrity>KZOTYUDMiy0UidfZGcDKvBNxO1TqZQslDtJEN2YAw70=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\app\et-line-font\fonts\et-line.svg'))</OriginalItemSpec>
@@ -1776,8 +1776,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>zhlk8u1wnd</Fingerprint>
-      <Integrity>1/lMsqBHEFFUDTByMomKjpAJCuFnsabASLoIitYNOnA=</Integrity>
+      <Fingerprint>g4sdmae1kw</Fingerprint>
+      <Integrity>YNKi/wFVpsL9miSiTKmjl5YWpDcuBGoF7pblXnbJVWE=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\app\font-awesome\css\font-awesome.min.css'))</OriginalItemSpec>
@@ -1830,8 +1830,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>xlotsiz5fn</Fingerprint>
-      <Integrity>1bVjbrsuEkgQQ2IACGt0pg3/noqL5/ShCIv100WLw8g=</Integrity>
+      <Fingerprint>negpoe010e</Fingerprint>
+      <Integrity>sZDrL2UctFusTisuFDY6Co2c877jblFSKh5k/sWwAwg=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\app\font-awesome\fonts\fontawesome-webfont.svg'))</OriginalItemSpec>
@@ -1884,8 +1884,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>9zsdrfktyy</Fingerprint>
-      <Integrity>CxU+wUJr5fyeHDHRzBov9AcURUp5jeWUDYVnqYw34Cs=</Integrity>
+      <Fingerprint>dz660o44sp</Fingerprint>
+      <Integrity>2QgZYQz0go5fhN2E/MDG0/FNgKSd7J3hA10v74mkwNA=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\app\gallery.html'))</OriginalItemSpec>
@@ -1902,8 +1902,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>0li9td2m2k</Fingerprint>
-      <Integrity>rAjucAMJti/N8xF4x7803biR/g3RgPmmhcOQPVzNQi4=</Integrity>
+      <Fingerprint>kpxy1uqthc</Fingerprint>
+      <Integrity>KJi3P4RQ9QBb5Kf44eOeAL9FpyQggSFTDHEJGcuMGhk=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\app\invoice.html'))</OriginalItemSpec>
@@ -1920,8 +1920,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>wy1e0fgk1w</Fingerprint>
-      <Integrity>eJ14hItqfm0u4UQxJDEYy5Wpjq7PTsaTmmvqmDMKu7o=</Integrity>
+      <Fingerprint>fo9rx1aacb</Fingerprint>
+      <Integrity>QRFHvvYq9LyEFH4ljODQp8ZOp1mvneIkNKUh6M5B1pY=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\app\project-summary.html'))</OriginalItemSpec>
@@ -1938,8 +1938,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>lqcf21dzhk</Fingerprint>
-      <Integrity>w5tvrflYBNT4zUPwx0c9y+7aZcUyCFn4RdEdK8/Omuw=</Integrity>
+      <Fingerprint>wm7cns0jar</Fingerprint>
+      <Integrity>WCfraOJwmRTnERdjG3JJeULpOfXAZGgpiCtNQhyqVwA=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\app\timeline.html'))</OriginalItemSpec>
@@ -1956,8 +1956,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>y0id4b3pku</Fingerprint>
-      <Integrity>fmMNkMcjSw3xcp9iuPnku/ryk9kaWgrEbfJfKmdZ45o=</Integrity>
+      <Fingerprint>ahjbid90mr</Fingerprint>
+      <Integrity>opI27tVP8lfzTdiKv9Wi8UuRkNhIAvZwMVLWtOpRHKk=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\bootstrap\css\bootstrap.css'))</OriginalItemSpec>
@@ -1974,8 +1974,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>o3kse6f0q7</Fingerprint>
-      <Integrity>xOpS+e/dER8z72w+qryCieOGysQI8cELAVt3MHG0phY=</Integrity>
+      <Fingerprint>3zatgav9ba</Fingerprint>
+      <Integrity>MXsQOb7vMAS7R5WCoc89iTe2aIQmE9phW+ccYS9jXeU=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\bootstrap\css\bootstrap-theme.css'))</OriginalItemSpec>
@@ -2010,8 +2010,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>ndb825arvd</Fingerprint>
-      <Integrity>ZT4HPpdCOt2lvDkXokHuhJfdOKSPFLzeAJik5U/Q+l4=</Integrity>
+      <Fingerprint>9ruze9sgfm</Fingerprint>
+      <Integrity>iyc/4K4R3+uW96VvG17NLXZQAUeSetVXNW+qUifRcDI=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\bootstrap\css\bootstrap-theme.min.css'))</OriginalItemSpec>
@@ -2064,8 +2064,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>fmhzntxchr</Fingerprint>
-      <Integrity>916EbMg70RQy9LHiGkXzG8hSg9EdNy97GazNG/aiY1w=</Integrity>
+      <Fingerprint>ufik3s9dum</Fingerprint>
+      <Integrity>Wj2MBXhUhdNu5clNRoHlsdnkuUxb6LW9ew8xaP/xvZo=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\bootstrap\css\bootstrap.min.css'))</OriginalItemSpec>
@@ -2118,8 +2118,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>masyeah4yd</Fingerprint>
-      <Integrity>QvYGWdJlwaPDD5+kKry7Vr1KU69Ng9MW1t16NpA8Q+U=</Integrity>
+      <Fingerprint>r3m9qmfdw3</Fingerprint>
+      <Integrity>2YXNoDTqtMnyQDl2+NFx+/bvxLWTEH2LFAHlttqkYpU=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\bootstrap\fonts\glyphicons-halflings-regular.svg'))</OriginalItemSpec>
@@ -2190,8 +2190,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>yenew89u7c</Fingerprint>
-      <Integrity>Cr6N6zNN4bp0OwTQOZ6Z66M2r+2dpy/EwKMCyZ+SOMg=</Integrity>
+      <Fingerprint>dulpgot2b4</Fingerprint>
+      <Integrity>1fo3W6qowq4PinpCsKshaVqewExoFmzrRBGKbSdAVEk=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\bootstrap\js\bootstrap.js'))</OriginalItemSpec>
@@ -2208,8 +2208,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>lqjz3ug8zc</Fingerprint>
-      <Integrity>U5ZEeKfGNOja007MMD3YBI0A3OSZOQbeG6z2f2Y0hu8=</Integrity>
+      <Fingerprint>euzfjcw9e7</Fingerprint>
+      <Integrity>NkYOSU5MYoRDr97UCydDte3ppKdvtPe57yNFzH5Z/WQ=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\bootstrap\js\bootstrap.min.js'))</OriginalItemSpec>
@@ -2226,8 +2226,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>55mrl8jseu</Fingerprint>
-      <Integrity>2S2W9ljPW4kwkoKodCQ5itdMpO1h9T/TrFWAldQxj98=</Integrity>
+      <Fingerprint>obe34a9i3y</Fingerprint>
+      <Integrity>vJi5F/w1J6/p/MfLuWlXmnpJ+ZEsSuEmTNOQNbIpAV8=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\charts\3d.html'))</OriginalItemSpec>
@@ -2244,8 +2244,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>8dddpnay0z</Fingerprint>
-      <Integrity>FOYJ3wAqYJmx7N81P50kRaLsZXYgoR+a587NXT9R3eU=</Integrity>
+      <Fingerprint>nmtxeuwmnv</Fingerprint>
+      <Integrity>P5rcKkgC3oU/OF801bzFv+u/EhubI5548LIAAQabjoM=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\charts\area.html'))</OriginalItemSpec>
@@ -2262,8 +2262,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>for3u0gc69</Fingerprint>
-      <Integrity>IXPm5rhR9CyjVh78p0daoiv4J1To587yNWn1MlrUHmM=</Integrity>
+      <Fingerprint>s0285dsv0x</Fingerprint>
+      <Integrity>xEqcdGMdFbiXOrm4ZFK1zLttwv7tc+qVCDy4QnGR+n8=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\charts\bar.html'))</OriginalItemSpec>
@@ -2280,8 +2280,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>kinbenbthz</Fingerprint>
-      <Integrity>zMXz9ANOKrEvokCDsv/6XFNWee5Ojk8Bx6RqeDhqtQ0=</Integrity>
+      <Fingerprint>uaxm4xyfjz</Fingerprint>
+      <Integrity>Ftq6kcG9X4196TzVse2PWcTRxDDQAyPKynOSl9avWfk=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\charts\bubble.html'))</OriginalItemSpec>
@@ -2298,8 +2298,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>cln14kspdb</Fingerprint>
-      <Integrity>sIEPjuZOST4Z2t+z5JvSySOIPDoo4Aspn192BH1SOR0=</Integrity>
+      <Fingerprint>hktlzo2bsc</Fingerprint>
+      <Integrity>DzSZ94LDZH2nHiW3oP2ZUtUFPrPBPoz73Mj9vvyrBUc=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\charts\combinations.html'))</OriginalItemSpec>
@@ -2316,8 +2316,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>3uho2fin4y</Fingerprint>
-      <Integrity>Sy73omf25uwF5sTPnHEkcnFlCoJxZ3R2fOQoXttcKsE=</Integrity>
+      <Fingerprint>c7jh6nd3dj</Fingerprint>
+      <Integrity>iHJNDajhqlTHRG2/7Ue1QEPdfimBMr7S+fEg+BHrp4w=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\charts\et-line-font\et-line-font.css'))</OriginalItemSpec>
@@ -2352,8 +2352,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>evflrhawnl</Fingerprint>
-      <Integrity>Zj2Ozh4n1+jBoAfT1EtCtEkAqKurXUXrcg3hpGBqQM4=</Integrity>
+      <Fingerprint>1ak2sh0pvf</Fingerprint>
+      <Integrity>KZOTYUDMiy0UidfZGcDKvBNxO1TqZQslDtJEN2YAw70=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\charts\et-line-font\fonts\et-line.svg'))</OriginalItemSpec>
@@ -2406,8 +2406,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>zhlk8u1wnd</Fingerprint>
-      <Integrity>1/lMsqBHEFFUDTByMomKjpAJCuFnsabASLoIitYNOnA=</Integrity>
+      <Fingerprint>g4sdmae1kw</Fingerprint>
+      <Integrity>YNKi/wFVpsL9miSiTKmjl5YWpDcuBGoF7pblXnbJVWE=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\charts\font-awesome\css\font-awesome.min.css'))</OriginalItemSpec>
@@ -2460,8 +2460,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>xlotsiz5fn</Fingerprint>
-      <Integrity>1bVjbrsuEkgQQ2IACGt0pg3/noqL5/ShCIv100WLw8g=</Integrity>
+      <Fingerprint>negpoe010e</Fingerprint>
+      <Integrity>sZDrL2UctFusTisuFDY6Co2c877jblFSKh5k/sWwAwg=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\charts\font-awesome\fonts\fontawesome-webfont.svg'))</OriginalItemSpec>
@@ -2514,8 +2514,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>8as52na86i</Fingerprint>
-      <Integrity>kEOtZAN6iujBc9DlM9NEOQKIUi8wQpU+bUJOOlUZ8rw=</Integrity>
+      <Fingerprint>w6slas9fw6</Fingerprint>
+      <Integrity>CPRQcD9gxKSquT5IqnQi9fAcB+diIRQXy5QkypM2F7Q=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\charts\line.html'))</OriginalItemSpec>
@@ -2532,8 +2532,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>zpd0n6ihht</Fingerprint>
-      <Integrity>d/QDZrF0RAIaY6t2g4FqQ73oBvZZEL+eLXI4dJ/D04U=</Integrity>
+      <Fingerprint>wy4q8krgzq</Fingerprint>
+      <Integrity>WNwlbf6q4HDtONvr7RUHXZzMfVpH+nGuUgk2Hyoe5Ko=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\charts\pie.html'))</OriginalItemSpec>
@@ -2550,8 +2550,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>8g0e5w4yp0</Fingerprint>
-      <Integrity>yF7ICsFfNm06noZfJN2z8bUtSh7QA7gm8Wg4NoOaWz0=</Integrity>
+      <Fingerprint>gxwe6czad5</Fingerprint>
+      <Integrity>zDuNaELSOpzHPVIIl2Gm++t3fqHEO7ROXCyjC5IUaA4=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\component\alerts.html'))</OriginalItemSpec>
@@ -2568,8 +2568,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>9gaih4ayt1</Fingerprint>
-      <Integrity>l5mYgniaLqXBhVFYeIolq9qVXr9wXGseqfjhnRu+WXc=</Integrity>
+      <Fingerprint>mqgcf19cih</Fingerprint>
+      <Integrity>Qn2zOwRnknbWncBM3jLqBhZdkI4Yd+sfmcU+1EG7ewI=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\component\buttons.html'))</OriginalItemSpec>
@@ -2586,8 +2586,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>i68k28fsc0</Fingerprint>
-      <Integrity>lkesKgfefo+Cga6mqN1hFKhkFpGH7BF7DEH5kqaXPR8=</Integrity>
+      <Fingerprint>tr8qw6hqzr</Fingerprint>
+      <Integrity>F8knMKj3dgTDXFP3oPpKEr48yt7w9pI0Q+829FnhhQM=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\component\carousel.html'))</OriginalItemSpec>
@@ -2604,8 +2604,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>23qd78pjn8</Fingerprint>
-      <Integrity>TpyQflS6aaIv/A74ysjltEf/WiZdlE7W9izkB6CG27Y=</Integrity>
+      <Fingerprint>9j5qe14gux</Fingerprint>
+      <Integrity>hVAGvt7YqWhQzDsZSn+K3ivxg1Yk8c5xQgVE+4/Oi5o=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\component\collapse.html'))</OriginalItemSpec>
@@ -2622,8 +2622,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>3uho2fin4y</Fingerprint>
-      <Integrity>Sy73omf25uwF5sTPnHEkcnFlCoJxZ3R2fOQoXttcKsE=</Integrity>
+      <Fingerprint>c7jh6nd3dj</Fingerprint>
+      <Integrity>iHJNDajhqlTHRG2/7Ue1QEPdfimBMr7S+fEg+BHrp4w=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\component\et-line-font\et-line-font.css'))</OriginalItemSpec>
@@ -2658,8 +2658,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>evflrhawnl</Fingerprint>
-      <Integrity>Zj2Ozh4n1+jBoAfT1EtCtEkAqKurXUXrcg3hpGBqQM4=</Integrity>
+      <Fingerprint>1ak2sh0pvf</Fingerprint>
+      <Integrity>KZOTYUDMiy0UidfZGcDKvBNxO1TqZQslDtJEN2YAw70=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\component\et-line-font\fonts\et-line.svg'))</OriginalItemSpec>
@@ -2712,8 +2712,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>zhlk8u1wnd</Fingerprint>
-      <Integrity>1/lMsqBHEFFUDTByMomKjpAJCuFnsabASLoIitYNOnA=</Integrity>
+      <Fingerprint>g4sdmae1kw</Fingerprint>
+      <Integrity>YNKi/wFVpsL9miSiTKmjl5YWpDcuBGoF7pblXnbJVWE=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\component\font-awesome\css\font-awesome.min.css'))</OriginalItemSpec>
@@ -2766,8 +2766,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>xlotsiz5fn</Fingerprint>
-      <Integrity>1bVjbrsuEkgQQ2IACGt0pg3/noqL5/ShCIv100WLw8g=</Integrity>
+      <Fingerprint>negpoe010e</Fingerprint>
+      <Integrity>sZDrL2UctFusTisuFDY6Co2c877jblFSKh5k/sWwAwg=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\component\font-awesome\fonts\fontawesome-webfont.svg'))</OriginalItemSpec>
@@ -2820,8 +2820,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>xp7lsme6jv</Fingerprint>
-      <Integrity>q9HBpnhSfrCWUT1wncn3mhbFvYr42JCGVb4FIEmIxWE=</Integrity>
+      <Fingerprint>29xksck5dj</Fingerprint>
+      <Integrity>VrGpYXGt+YotUvrE/Q7oA4f1AoPBYegXZ6Zlpr5NkVM=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\component\listgroup.html'))</OriginalItemSpec>
@@ -2838,8 +2838,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>orjxw6985n</Fingerprint>
-      <Integrity>rJV54k0hU/KqiQlQpVTMHIpnZcQlCm8DeaV6PqULxLI=</Integrity>
+      <Fingerprint>47q5dbxx4t</Fingerprint>
+      <Integrity>IGPapeuhZjj/0DOiPl6W+1JOlE2jzwDnx+97QeFHB4g=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\component\mediaobjects.html'))</OriginalItemSpec>
@@ -2856,8 +2856,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>dxl5wfrhla</Fingerprint>
-      <Integrity>QapNvj8BhAAaSiJSWxO3qYZt8Iyy0zo7E8gOgr6sTFE=</Integrity>
+      <Fingerprint>4zug3ypiy7</Fingerprint>
+      <Integrity>METG2Yk9f56cncHLVMu7Em36NFiJkEkDanjz+pLQio4=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\component\pagination.html'))</OriginalItemSpec>
@@ -2874,8 +2874,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>1mjwvqrp9w</Fingerprint>
-      <Integrity>SUJqKRiQNhgeeuSDT/UVcBm/WMRHfvNtgbyZ8kX1QC8=</Integrity>
+      <Fingerprint>img9pou5m8</Fingerprint>
+      <Integrity>lgoIHOiaA+bOvK0L1ddHzv57iv/kdBAgwy8jDxv8AEU=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\component\popovers.html'))</OriginalItemSpec>
@@ -2892,8 +2892,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>i7bhpyqqy6</Fingerprint>
-      <Integrity>AgwFvM5Gfw2Mux6/qph6nK+GgDMe2SXOfgiA+HLask4=</Integrity>
+      <Fingerprint>ypn4airmxb</Fingerprint>
+      <Integrity>6qwPybfWYCH9UlKBc8Lb6rcKyOaSKeeJ5pJBbD9P9kU=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\component\progress.html'))</OriginalItemSpec>
@@ -2910,8 +2910,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>rzru3rhcay</Fingerprint>
-      <Integrity>NyivY8WeZboGcC148BFwcPJ3qRQqmVy0IJZyHTjaCzk=</Integrity>
+      <Fingerprint>53sxsnegpm</Fingerprint>
+      <Integrity>cUQiXhib8GtYHZSweQdGDDFFNPn4UKw1WXY65lDuaZY=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\component\tabs.html'))</OriginalItemSpec>
@@ -2928,8 +2928,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>ciepg70dri</Fingerprint>
-      <Integrity>TB79qc+16juyTO2NefYV1+zS9AMSI2ahJGuIkCKlAKU=</Integrity>
+      <Fingerprint>l8a8vxo9br</Fingerprint>
+      <Integrity>K7fPQ8E6BWikldGjC2hyj1SpttMvWkeveKJUpaWhr5E=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\component\tooltips.html'))</OriginalItemSpec>
@@ -2946,8 +2946,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>n5goxsxg5p</Fingerprint>
-      <Integrity>yyhnvYYIent5XIZzQR5iMMyTTsPlyK1E69KeQK3CGC0=</Integrity>
+      <Fingerprint>4ez78zn27e</Fingerprint>
+      <Integrity>FO3CsGNc8k/czwxENkKJtqmtaKGNlaVO4hgj0wdpQ7c=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\dashboard-2.html'))</OriginalItemSpec>
@@ -2964,8 +2964,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>h8bsu6g485</Fingerprint>
-      <Integrity>4d26DUrc8I1rRlPtw3zCEnCwIkdBpMzuzWShlASUvFo=</Integrity>
+      <Fingerprint>4q3iuv0583</Fingerprint>
+      <Integrity>pCIt3a24nVuDrTTJOEOfpE6ytNmfkD13cv4yU6Qi4Hc=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\dashboard-3.html'))</OriginalItemSpec>
@@ -2982,8 +2982,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>1jw5pb0p3f</Fingerprint>
-      <Integrity>E8eyp5t1qhCARvpsPFULQZ3G5K/MzHelSO2ZVYJ+XDQ=</Integrity>
+      <Fingerprint>47lhm1vz0k</Fingerprint>
+      <Integrity>kK9wuJLyrYAgBT3RvppnlFzafDwuGZAmh8FD0V0/I6U=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\dist\css\style.css'))</OriginalItemSpec>
@@ -3000,8 +3000,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>3uho2fin4y</Fingerprint>
-      <Integrity>Sy73omf25uwF5sTPnHEkcnFlCoJxZ3R2fOQoXttcKsE=</Integrity>
+      <Fingerprint>c7jh6nd3dj</Fingerprint>
+      <Integrity>iHJNDajhqlTHRG2/7Ue1QEPdfimBMr7S+fEg+BHrp4w=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\dist\et-line-font\et-line-font.css'))</OriginalItemSpec>
@@ -3036,8 +3036,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>evflrhawnl</Fingerprint>
-      <Integrity>Zj2Ozh4n1+jBoAfT1EtCtEkAqKurXUXrcg3hpGBqQM4=</Integrity>
+      <Fingerprint>1ak2sh0pvf</Fingerprint>
+      <Integrity>KZOTYUDMiy0UidfZGcDKvBNxO1TqZQslDtJEN2YAw70=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\dist\et-line-font\fonts\et-line.svg'))</OriginalItemSpec>
@@ -3090,8 +3090,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>zhlk8u1wnd</Fingerprint>
-      <Integrity>1/lMsqBHEFFUDTByMomKjpAJCuFnsabASLoIitYNOnA=</Integrity>
+      <Fingerprint>g4sdmae1kw</Fingerprint>
+      <Integrity>YNKi/wFVpsL9miSiTKmjl5YWpDcuBGoF7pblXnbJVWE=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\dist\font-awesome\css\font-awesome.min.css'))</OriginalItemSpec>
@@ -3144,8 +3144,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>xlotsiz5fn</Fingerprint>
-      <Integrity>1bVjbrsuEkgQQ2IACGt0pg3/noqL5/ShCIv100WLw8g=</Integrity>
+      <Fingerprint>negpoe010e</Fingerprint>
+      <Integrity>sZDrL2UctFusTisuFDY6Co2c877jblFSKh5k/sWwAwg=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\dist\font-awesome\fonts\fontawesome-webfont.svg'))</OriginalItemSpec>
@@ -4134,8 +4134,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>vu3kklfnoq</Fingerprint>
-      <Integrity>hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=</Integrity>
+      <Fingerprint>zebz09mkbr</Fingerprint>
+      <Integrity>dbcH2HYeK/vSX71mHykKT3/RHEjhv1Ojbca9igA0+jU=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\dist\js\jquery.min.js'))</OriginalItemSpec>
@@ -4152,8 +4152,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>ae90m2w2zz</Fingerprint>
-      <Integrity>bjJpYE+RLZrvs0tO3R5QDuQhuq+uJ0Qn+qEpJZS5SSw=</Integrity>
+      <Fingerprint>wxo8hwfeao</Fingerprint>
+      <Integrity>vC4u/5NVXK6mF6uJb57lrJIwAtf8Cy/71eo5OlTaXIc=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\dist\js\ovio.js'))</OriginalItemSpec>
@@ -4188,8 +4188,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>j79mmtomqe</Fingerprint>
-      <Integrity>4b1ipy3DFZix8Qy6/gGpiScWkC1zj9oqlHvOQaqTwaU=</Integrity>
+      <Fingerprint>06ltqepdom</Fingerprint>
+      <Integrity>aDLGAE7UemgytnaBOC0+OwZ0RJ7oE1+khjpaQ1xRrfs=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\dist\weather\font\weathericons-regular-webfont.svg'))</OriginalItemSpec>
@@ -4278,8 +4278,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>9bfv0vphma</Fingerprint>
-      <Integrity>RQupFlF5svEUDtSm6M92tmoL051rmBu+Wd3EfvKgcaE=</Integrity>
+      <Fingerprint>ijdujoqneu</Fingerprint>
+      <Integrity>DlNBSMx3w2Jl5gxQo8vmmVqYqjllEIxL142w9V3E48U=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\dist\weather\weather-icons.min.css'))</OriginalItemSpec>
@@ -4296,8 +4296,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>3uho2fin4y</Fingerprint>
-      <Integrity>Sy73omf25uwF5sTPnHEkcnFlCoJxZ3R2fOQoXttcKsE=</Integrity>
+      <Fingerprint>c7jh6nd3dj</Fingerprint>
+      <Integrity>iHJNDajhqlTHRG2/7Ue1QEPdfimBMr7S+fEg+BHrp4w=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\forms\et-line-font\et-line-font.css'))</OriginalItemSpec>
@@ -4332,8 +4332,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>evflrhawnl</Fingerprint>
-      <Integrity>Zj2Ozh4n1+jBoAfT1EtCtEkAqKurXUXrcg3hpGBqQM4=</Integrity>
+      <Fingerprint>1ak2sh0pvf</Fingerprint>
+      <Integrity>KZOTYUDMiy0UidfZGcDKvBNxO1TqZQslDtJEN2YAw70=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\forms\et-line-font\fonts\et-line.svg'))</OriginalItemSpec>
@@ -4386,8 +4386,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>zhlk8u1wnd</Fingerprint>
-      <Integrity>1/lMsqBHEFFUDTByMomKjpAJCuFnsabASLoIitYNOnA=</Integrity>
+      <Fingerprint>g4sdmae1kw</Fingerprint>
+      <Integrity>YNKi/wFVpsL9miSiTKmjl5YWpDcuBGoF7pblXnbJVWE=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\forms\font-awesome\css\font-awesome.min.css'))</OriginalItemSpec>
@@ -4440,8 +4440,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>xlotsiz5fn</Fingerprint>
-      <Integrity>1bVjbrsuEkgQQ2IACGt0pg3/noqL5/ShCIv100WLw8g=</Integrity>
+      <Fingerprint>negpoe010e</Fingerprint>
+      <Integrity>sZDrL2UctFusTisuFDY6Co2c877jblFSKh5k/sWwAwg=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\forms\font-awesome\fonts\fontawesome-webfont.svg'))</OriginalItemSpec>
@@ -4494,8 +4494,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>mbxvre3ejn</Fingerprint>
-      <Integrity>cl0T5ZjuG/EZT9LHLT8iDzo29zNyOx6acIGHjJkrPgI=</Integrity>
+      <Fingerprint>lz0lfm7epo</Fingerprint>
+      <Integrity>QW+jp5w4JvsK0uDCtmtDAHORUJUJWOThAhFjeYro0CA=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\forms\general-elements.html'))</OriginalItemSpec>
@@ -4512,8 +4512,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>uroto3vo3k</Fingerprint>
-      <Integrity>qhbomaCb9k0SbT194I3lqHlgHPFidHTFYkSNl996WI0=</Integrity>
+      <Fingerprint>mjade8qj13</Fingerprint>
+      <Integrity>Xjv3VGcERTzkJo67p3Ag2IuzhM681Hi2b7EBsfAl2iQ=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\forms\layouts.html'))</OriginalItemSpec>
@@ -4530,8 +4530,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>x030cucfwz</Fingerprint>
-      <Integrity>UVPZTghhLjhm1j7aaZZE4s3rk0+k41Iyef8zTyFbjKs=</Integrity>
+      <Fingerprint>gu0ui6i5v4</Fingerprint>
+      <Integrity>OBbYmw/YRDz7ulQgJEtPZ4mcdGOWBeZ9tSe6Ge/MY2Y=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\forms\validation.html'))</OriginalItemSpec>
@@ -4548,8 +4548,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>89ooulhl1a</Fingerprint>
-      <Integrity>NM1ZXEdbNi64AWM+8E2eJIINHOo8be+4ZK9KdzzKFAE=</Integrity>
+      <Fingerprint>sek5g69iq7</Fingerprint>
+      <Integrity>bBGETQ6CZKO3pEMUUzo5xsFg461NTSOgzy1scNARRmw=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\forms\wizard.html'))</OriginalItemSpec>
@@ -4566,8 +4566,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>pvzav7n45z</Fingerprint>
-      <Integrity>28BOVktVTgKOI/JPUdk4DVhJupSBfTVz+u8/EGLC8E8=</Integrity>
+      <Fingerprint>eouvnxtkca</Fingerprint>
+      <Integrity>8ucGaaFCKtqz4KoWtm10F0NzwC/7plH3Z7FVma0T1uI=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\index.html'))</OriginalItemSpec>
@@ -4584,8 +4584,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>nundhzg1sv</Fingerprint>
-      <Integrity>/xbZSWuf7fsZ52kAsCvuL796YAxwRJh1tnbUxluYIug=</Integrity>
+      <Fingerprint>6sqdn55f5q</Fingerprint>
+      <Integrity>KnzVt8jHQuGonoyaCYZS6kBm1AfEMpyGvf28CIbdTZY=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\index-boxed.html'))</OriginalItemSpec>
@@ -4602,8 +4602,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>apak2mju6n</Fingerprint>
-      <Integrity>Ln3HXRdtiykhFofJKL5rjcox503rQ65EbYi8xjNZH3k=</Integrity>
+      <Fingerprint>v825c99gc4</Fingerprint>
+      <Integrity>n3qusjyITsV/l+E0ELc4Q1ZOT2M/X3fV8o8v4NWycDg=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\index-collapsed-sidebar.html'))</OriginalItemSpec>
@@ -4620,8 +4620,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>l7ikck5nqe</Fingerprint>
-      <Integrity>MQVMLwlxtKQvScoZjhOAjgZr7unFggXD6U1KL96xS4Q=</Integrity>
+      <Fingerprint>56fpxp0le7</Fingerprint>
+      <Integrity>DR5/5J48fm1vO+KT2lHYrdJ+RKdUDdzqdBaCvcPMffc=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\index-dark.html'))</OriginalItemSpec>
@@ -4638,8 +4638,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>mxasaesz22</Fingerprint>
-      <Integrity>phdEiW35B3K3GNNAfWuiCwNQYuBcsSYgjmnf/+eE67M=</Integrity>
+      <Fingerprint>ox8qh1va05</Fingerprint>
+      <Integrity>vHQ29FBOZW8e3XOeC68WEIMa+i/yBIvIn+gXehpCH7s=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\index-light.html'))</OriginalItemSpec>
@@ -4656,8 +4656,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>jfjjemb35f</Fingerprint>
-      <Integrity>Hz9Qbi+l0w9EnxdDL9tfV+DH+lnaGFiwHSdey+6iyMg=</Integrity>
+      <Fingerprint>yy1b6stkkm</Fingerprint>
+      <Integrity>RpvWBMhxki+Msgx4lKRTR3xSt8O8SH7gshJQ3nfz2+c=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\index-rtl.html'))</OriginalItemSpec>
@@ -4674,8 +4674,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>3q5pt0rvjo</Fingerprint>
-      <Integrity>O5bcEVebtad3QaQduCOeK3CxMN/yeirBeq7znZVWLGE=</Integrity>
+      <Fingerprint>13ok2egt72</Fingerprint>
+      <Integrity>E88rRq5dpk/xBoDPNHlWwQHjM/lMr0pSRNOnBmS7kZI=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\index-top-nav.html'))</OriginalItemSpec>
@@ -4692,8 +4692,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>3uho2fin4y</Fingerprint>
-      <Integrity>Sy73omf25uwF5sTPnHEkcnFlCoJxZ3R2fOQoXttcKsE=</Integrity>
+      <Fingerprint>c7jh6nd3dj</Fingerprint>
+      <Integrity>iHJNDajhqlTHRG2/7Ue1QEPdfimBMr7S+fEg+BHrp4w=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\maps\et-line-font\et-line-font.css'))</OriginalItemSpec>
@@ -4728,8 +4728,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>evflrhawnl</Fingerprint>
-      <Integrity>Zj2Ozh4n1+jBoAfT1EtCtEkAqKurXUXrcg3hpGBqQM4=</Integrity>
+      <Fingerprint>1ak2sh0pvf</Fingerprint>
+      <Integrity>KZOTYUDMiy0UidfZGcDKvBNxO1TqZQslDtJEN2YAw70=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\maps\et-line-font\fonts\et-line.svg'))</OriginalItemSpec>
@@ -4782,8 +4782,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>zhlk8u1wnd</Fingerprint>
-      <Integrity>1/lMsqBHEFFUDTByMomKjpAJCuFnsabASLoIitYNOnA=</Integrity>
+      <Fingerprint>g4sdmae1kw</Fingerprint>
+      <Integrity>YNKi/wFVpsL9miSiTKmjl5YWpDcuBGoF7pblXnbJVWE=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\maps\font-awesome\css\font-awesome.min.css'))</OriginalItemSpec>
@@ -4836,8 +4836,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>xlotsiz5fn</Fingerprint>
-      <Integrity>1bVjbrsuEkgQQ2IACGt0pg3/noqL5/ShCIv100WLw8g=</Integrity>
+      <Fingerprint>negpoe010e</Fingerprint>
+      <Integrity>sZDrL2UctFusTisuFDY6Co2c877jblFSKh5k/sWwAwg=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\maps\font-awesome\fonts\fontawesome-webfont.svg'))</OriginalItemSpec>
@@ -4890,8 +4890,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>3nmozrqve9</Fingerprint>
-      <Integrity>nzelahGoZUZK110ubYhq1wRsbj7haKx/sVCH1ELaOxw=</Integrity>
+      <Fingerprint>jp9i3iyyot</Fingerprint>
+      <Integrity>pwzqmrMppnUaIo+hJeBpgR/WdkxBNHoO1lelDvsjCXY=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\maps\google-maps.html'))</OriginalItemSpec>
@@ -4908,8 +4908,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>k0nfsaqdlh</Fingerprint>
-      <Integrity>vPlSmtP8+XatVkqwrnoFBUyhNR55PxKRgEpy/cMJdHI=</Integrity>
+      <Fingerprint>f8mfc4rp04</Fingerprint>
+      <Integrity>sdXreFBJH26llEkRX9mPxrPBys6LSNW4IX0+JQugMZY=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\maps\vector-map.html'))</OriginalItemSpec>
@@ -4926,8 +4926,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>qugkkgr3dj</Fingerprint>
-      <Integrity>ril86jXabkK2iQim1NBEhAqCHpvybnSBkPbRL3QGwD0=</Integrity>
+      <Fingerprint>p4x5d49ku6</Fingerprint>
+      <Integrity>B3w5KE06lIyfRs6LlUKgI7pf2yeu2fI8ERi6f3H9Qis=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\pages\coming-soon.html'))</OriginalItemSpec>
@@ -4944,8 +4944,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>3uho2fin4y</Fingerprint>
-      <Integrity>Sy73omf25uwF5sTPnHEkcnFlCoJxZ3R2fOQoXttcKsE=</Integrity>
+      <Fingerprint>c7jh6nd3dj</Fingerprint>
+      <Integrity>iHJNDajhqlTHRG2/7Ue1QEPdfimBMr7S+fEg+BHrp4w=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\pages\et-line-font\et-line-font.css'))</OriginalItemSpec>
@@ -4980,8 +4980,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>evflrhawnl</Fingerprint>
-      <Integrity>Zj2Ozh4n1+jBoAfT1EtCtEkAqKurXUXrcg3hpGBqQM4=</Integrity>
+      <Fingerprint>1ak2sh0pvf</Fingerprint>
+      <Integrity>KZOTYUDMiy0UidfZGcDKvBNxO1TqZQslDtJEN2YAw70=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\pages\et-line-font\fonts\et-line.svg'))</OriginalItemSpec>
@@ -5034,8 +5034,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>zhlk8u1wnd</Fingerprint>
-      <Integrity>1/lMsqBHEFFUDTByMomKjpAJCuFnsabASLoIitYNOnA=</Integrity>
+      <Fingerprint>g4sdmae1kw</Fingerprint>
+      <Integrity>YNKi/wFVpsL9miSiTKmjl5YWpDcuBGoF7pblXnbJVWE=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\pages\font-awesome\css\font-awesome.min.css'))</OriginalItemSpec>
@@ -5088,8 +5088,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>xlotsiz5fn</Fingerprint>
-      <Integrity>1bVjbrsuEkgQQ2IACGt0pg3/noqL5/ShCIv100WLw8g=</Integrity>
+      <Fingerprint>negpoe010e</Fingerprint>
+      <Integrity>sZDrL2UctFusTisuFDY6Co2c877jblFSKh5k/sWwAwg=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\pages\font-awesome\fonts\fontawesome-webfont.svg'))</OriginalItemSpec>
@@ -5142,8 +5142,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>a6hmkv55d9</Fingerprint>
-      <Integrity>cgD++0OlLTYyCpEMiooHAkr/NO5TVTWp28u7Ba2moqM=</Integrity>
+      <Fingerprint>w6mk28ax96</Fingerprint>
+      <Integrity>qBDrgtydZMDp1qyhyPO/euDMf/bQJJ1ZjBMyz2XJFq0=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\pages\forgot-password.html'))</OriginalItemSpec>
@@ -5160,8 +5160,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>bf212id7ns</Fingerprint>
-      <Integrity>eeM98g34MnOMqZCdFEfsnC7p1dfFL6iElqMY1HET7GI=</Integrity>
+      <Fingerprint>x9ycc11a18</Fingerprint>
+      <Integrity>ewfKjS+iH/bpwZONr3UNQ6GpqiVQeYq0hiSIMF713AQ=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\pages\login.html'))</OriginalItemSpec>
@@ -5178,8 +5178,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>msyxhms5ny</Fingerprint>
-      <Integrity>Zvehh2Fkyy591HP3ha+Z/WTuqOIlWCYAR3Z7uETiZsU=</Integrity>
+      <Fingerprint>nvn0207x7s</Fingerprint>
+      <Integrity>42pKEHQfis0K1ByfN2/LOnV07U9Gz9zLkDC9Wm3jFuc=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\pages\register.html'))</OriginalItemSpec>
@@ -5196,8 +5196,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>i1ia03st3i</Fingerprint>
-      <Integrity>Kpo67ZL4Mq+OPqdedHe9lvnMI6i6gZOI1+7NqujLdq0=</Integrity>
+      <Fingerprint>29yo0rl3hx</Fingerprint>
+      <Integrity>muACFthGBYSS2J34lJQRhKaFhEQI5HwxQQG3sKxDKV4=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\plugins\calendar\fullcalendar.min.css'))</OriginalItemSpec>
@@ -5214,8 +5214,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>j9abpbfr0v</Fingerprint>
-      <Integrity>SYIz/7Qe8avYdBE3w2kKVL1PB/mS05GGgKVn5qa86SY=</Integrity>
+      <Fingerprint>c5ug8stadb</Fingerprint>
+      <Integrity>YLugWqafSrLr/EIIlDWyK8UQl+zpJoYi3EafzowXw94=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\plugins\calendar\fullcalendar.min.js'))</OriginalItemSpec>
@@ -5232,8 +5232,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>vu3kklfnoq</Fingerprint>
-      <Integrity>hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=</Integrity>
+      <Fingerprint>zebz09mkbr</Fingerprint>
+      <Integrity>dbcH2HYeK/vSX71mHykKT3/RHEjhv1Ojbca9igA0+jU=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\plugins\calendar\jquery.min.js'))</OriginalItemSpec>
@@ -5250,8 +5250,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>ipglhweb5e</Fingerprint>
-      <Integrity>1hjUhpc44NwiNg8OwMu2QzJXhD8kcj+sJA3aCQZoUjg=</Integrity>
+      <Fingerprint>m2l087wb6s</Fingerprint>
+      <Integrity>UlFjHXVtrA7XSniS5lFDfA+IQOVS+eJFxzGGCrGolYE=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\plugins\calendar\moment.min.js'))</OriginalItemSpec>
@@ -5268,8 +5268,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>qcz4j2erws</Fingerprint>
-      <Integrity>Bpmsz1Gvk6CGWBVY573YJfvLn3A5A9Yw0x2EvpQB/f8=</Integrity>
+      <Fingerprint>9tvua6p2qr</Fingerprint>
+      <Integrity>c9G+ciNMBt3xKkhimE7KHU19YMbpqwiOOwmXVKRl4Ns=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\plugins\charts\3d-chart-functions.js'))</OriginalItemSpec>
@@ -5286,8 +5286,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>cbhhj5nabw</Fingerprint>
-      <Integrity>6IisuFrxYf8MMUhMgYvUAuugfbTwUDRyGN6QHaZWVsI=</Integrity>
+      <Fingerprint>7w4rlr49gd</Fingerprint>
+      <Integrity>h1LtzHqz+CRC2KghKg9Xfw1o5CrrXSb1vNFTNp9xj2A=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\plugins\charts\area-chart-functions.js'))</OriginalItemSpec>
@@ -5304,8 +5304,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>g4onvj1n4w</Fingerprint>
-      <Integrity>IKufEdEA/NHEtQG9Yh2fAeXzL532DAbnMRyfSjPoZ9I=</Integrity>
+      <Fingerprint>ordlzi8zfv</Fingerprint>
+      <Integrity>DPxpfWewjKW0GlSzQdxdfX3yS+8qALzy7D3PKNicxLU=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\plugins\charts\bar-chart-functions.js'))</OriginalItemSpec>
@@ -5322,8 +5322,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>8ajurkup2x</Fingerprint>
-      <Integrity>IKh8L9OdFQoDf0UVSofKN088pkiKqR+QUtHBQ2gE+go=</Integrity>
+      <Fingerprint>8xxxmb27mh</Fingerprint>
+      <Integrity>/OscALssZ/9uVg8AEQ66vBJTKN3WnA2rFJwZnD0WdKg=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\plugins\charts\bubble-chart-functions.js'))</OriginalItemSpec>
@@ -5340,8 +5340,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>qyfy5d1zm3</Fingerprint>
-      <Integrity>Us5WAGcymb5ZLUnu7TflX+tKTn+qd+G78i2OkKRBDXM=</Integrity>
+      <Fingerprint>p4kp95rbah</Fingerprint>
+      <Integrity>KX8v0Tkq4UI8+YNClKjd4P4SQ1iJS7M8Mp+ZAP6Qqqc=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\plugins\charts\chart-functions.js'))</OriginalItemSpec>
@@ -5358,8 +5358,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>zork9ei80x</Fingerprint>
-      <Integrity>zXVQoymYrmnVtdQCloLcwiI2rnLzkVk4C3UPUoFPC7M=</Integrity>
+      <Fingerprint>f7xtavurla</Fingerprint>
+      <Integrity>pew+DifxnGeb0+m1jsRWsymZL6ft0WhtO/mQvC/YkU8=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\plugins\charts\code\highcharts.js'))</OriginalItemSpec>
@@ -5376,8 +5376,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>s537u1e2b1</Fingerprint>
-      <Integrity>QBIB28INEpSoJAjrrndNSnXPh5bp4/4167H3GceYP7g=</Integrity>
+      <Fingerprint>6cdyeq95ow</Fingerprint>
+      <Integrity>+kGF2j4c1cmsjaJM4pPhWeojn23cr2RGtWAw8xUAzdI=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\plugins\charts\code\highcharts-3d.js'))</OriginalItemSpec>
@@ -5394,8 +5394,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>jyi91hv0hv</Fingerprint>
-      <Integrity>Oz3F4WKDRb9iDPICXN6gLHGiby0csdoVtvnpcMfi+7g=</Integrity>
+      <Fingerprint>di4k8sjkh2</Fingerprint>
+      <Integrity>1Xspz7wEhsJYNPoQidK1SY5EgffFV1NN90bduCM7ewY=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\plugins\charts\code\highcharts-more.js'))</OriginalItemSpec>
@@ -5412,8 +5412,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>ay2dv6da3d</Fingerprint>
-      <Integrity>Mvd8+7vlE6Y5sRjfjl7iRPm06I66pwcG27bl66He8WY=</Integrity>
+      <Fingerprint>qzuoezgtb5</Fingerprint>
+      <Integrity>5iwKezk2Y7pCbJqljgMkqrCD/tPo/8Anj71DLAWTFkY=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\plugins\charts\code\modules\exporting.js'))</OriginalItemSpec>
@@ -5430,8 +5430,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>2jlb1ybz9z</Fingerprint>
-      <Integrity>QuX2cz94yD6tfOpJKEnrFOAvoQnNtiSJMhLusiwFSkw=</Integrity>
+      <Fingerprint>mzusepedj3</Fingerprint>
+      <Integrity>4n1QPs5KmtwG+mJKhHYIYTamCiMPlxHiGKCDNR9KrMk=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\plugins\charts\comb-chart-functions.js'))</OriginalItemSpec>
@@ -5448,8 +5448,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>afpo1f44qt</Fingerprint>
-      <Integrity>thN+fIqlJeNsuWeWv3Kv0O/kl7VRlZC9aS2lmJngyQU=</Integrity>
+      <Fingerprint>fz7egel1vq</Fingerprint>
+      <Integrity>FUhlgPPPO1b1Vw33jqcohvPzu5sNgjzuClVFTVWYFmI=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\plugins\charts\line-chart-functions.js'))</OriginalItemSpec>
@@ -5466,8 +5466,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>993zuocdbq</Fingerprint>
-      <Integrity>PTkqOS/IigEGQvXhJie/223sOYN3dLhxOiZHeOau6pk=</Integrity>
+      <Fingerprint>vqj14hzjej</Fingerprint>
+      <Integrity>yY272hCwIQ2tR/mPcN42egZbVzP5G7eXoOyfAm6yQz8=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\plugins\charts\pie-chart-functions.js'))</OriginalItemSpec>
@@ -5484,8 +5484,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>i6stki8oyd</Fingerprint>
-      <Integrity>6s/JTSSUv89kd4RjHydjMzmKCWLkHX8rSspEoVtFY9A=</Integrity>
+      <Fingerprint>me7gx7hqhr</Fingerprint>
+      <Integrity>gqn8qSzbQx3TLJPrM5/pgE0AZN4a0MbDuE098iywpgg=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\plugins\countdown\countdown.js'))</OriginalItemSpec>
@@ -5502,8 +5502,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>h8rouzpu04</Fingerprint>
-      <Integrity>HwbFGDizLXTIBqfMzJjRET+DzMxptAw1p4cyNEaB8Hk=</Integrity>
+      <Fingerprint>gfoyi1zg75</Fingerprint>
+      <Integrity>LNau+GEZl84/1uTzNM4ZtKMjJweM80qmpFOts4mAzw8=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\plugins\countdown\css\style.css'))</OriginalItemSpec>
@@ -5520,8 +5520,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>2q9mgumjyb</Fingerprint>
-      <Integrity>Rr0+YgCiJNyPszZ02XlRtTPw3LPX22Z+dRli6/+j/VQ=</Integrity>
+      <Fingerprint>5w280g5cbo</Fingerprint>
+      <Integrity>W68Orwb5X6DJrtry0ZfPFjDNonwffQYxyfiMpeXqevU=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\plugins\countdown\custom.js'))</OriginalItemSpec>
@@ -5610,8 +5610,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>0cgp7ygij1</Fingerprint>
-      <Integrity>EDJoKuSFYh+LAMOpQqAebW6effRRFfucCMzg+ZS/Wt4=</Integrity>
+      <Fingerprint>o9a2tndt48</Fingerprint>
+      <Integrity>fKlCV2OXPfISKpxQl3s+GrAPoYgYF/sdCp8HSrX+R68=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\plugins\countdown\jquery.countdown.js'))</OriginalItemSpec>
@@ -5628,8 +5628,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>cly3dg39ik</Fingerprint>
-      <Integrity>IFHWFEbU2/+wNycDECKgjIRSirRNIDp2acEB5fvdVRU=</Integrity>
+      <Fingerprint>sp7gdefjs0</Fingerprint>
+      <Integrity>EGC6EB0qBm0vSQKRIyr230+8nRKFUBxMBLDjJJMj2oU=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\plugins\countdown\jquery.min.js'))</OriginalItemSpec>
@@ -5646,8 +5646,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>v22ob9qzgy</Fingerprint>
-      <Integrity>hy/9AYEGSgE/+GP/kbCum4nzT25iMaIgT+ee6rdKexs=</Integrity>
+      <Fingerprint>lqwdoofnkm</Fingerprint>
+      <Integrity>/Q7m65o6eqQSZOe9lkDNB8XgJuF7IZui1P+/fMebsiw=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\plugins\countdown\simplyCountdown.js'))</OriginalItemSpec>
@@ -5664,8 +5664,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>11xmr3zoqc</Fingerprint>
-      <Integrity>tWfT1jVo9/024f1GfNgjKSRMNaDa1Krr87C3YmDrgvM=</Integrity>
+      <Fingerprint>8j7zko6bu1</Fingerprint>
+      <Integrity>5CSC8rhBJLJn2it6n10UpolbzKaTwWV7A3wAPBPRH3s=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\plugins\countdown\simplyCountdown.theme.losange.css'))</OriginalItemSpec>
@@ -5682,8 +5682,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>bdd19q9iir</Fingerprint>
-      <Integrity>EaV9UcBX6h/DsMczs9Xx+lsWtrppG8wC89RMCDYxGqA=</Integrity>
+      <Fingerprint>6xuh3r28nm</Fingerprint>
+      <Integrity>NvoXSILoP5jeT+cyj4GpEBPpw8Ri6GkLxttlW63cKSg=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\plugins\countdown\vegas\images\loading.html'))</OriginalItemSpec>
@@ -5700,8 +5700,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>54e6dnlibw</Fingerprint>
-      <Integrity>9UVezWHLc75lOxr/o5KeKUIb2c/uSYCfSj2Bop2XQpQ=</Integrity>
+      <Fingerprint>pfd9ibsaqe</Fingerprint>
+      <Integrity>RUpfmwTpHEN9k4fiFx785M9LzoIQo/55ltPm8tu8B/Q=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\plugins\countdown\vegas\jquery.vegas.min.css'))</OriginalItemSpec>
@@ -5718,8 +5718,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>gg3i7nng8k</Fingerprint>
-      <Integrity>AHUbWKMh4hMeXj7shFv5TRAHaqW74CFPdFjvZEZe+jI=</Integrity>
+      <Fingerprint>6i6umesj74</Fingerprint>
+      <Integrity>kjXGb52Utla9QEDYKrVKGqumDaJNS8brW5Mj9mZ/5Vs=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\plugins\countdown\vegas\jquery.vegas.min.js'))</OriginalItemSpec>
@@ -5754,8 +5754,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>i4ns7fiz6e</Fingerprint>
-      <Integrity>EkdHGrlyZNwCxnswPKSVJK6n7aTifKLeQHo2yik2i/w=</Integrity>
+      <Fingerprint>39n2issps4</Fingerprint>
+      <Integrity>yduAosWyxJWkIs/RCi8dLq49IZubEg+izTkDZ/7GJbw=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\plugins\cubeportfolio\css\cubeportfolio.css'))</OriginalItemSpec>
@@ -5772,8 +5772,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>gocibkz6x8</Fingerprint>
-      <Integrity>sHvxhweeBwMtRAXsq8ebc9kCY4ytgI6qvNdyqHFvPfw=</Integrity>
+      <Fingerprint>iz5tgnei01</Fingerprint>
+      <Integrity>chA1tjrIF8ztCBGHTJLrlyJ8IuFLg8IOuvMq93KLJLY=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\plugins\cubeportfolio\css\cubeportfolio.min.css'))</OriginalItemSpec>
@@ -5844,8 +5844,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>lvgngih4q7</Fingerprint>
-      <Integrity>MV1J85djB2ARPplrqaZPSrkG0Xi/SytrZ33P+lVmbu4=</Integrity>
+      <Fingerprint>bpwltymkon</Fingerprint>
+      <Integrity>MQLjRzyI7CCG7GGP+06PNpyCODMA84fApzk0LSllm30=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\plugins\cubeportfolio\jquery-latest.min.js'))</OriginalItemSpec>
@@ -5862,8 +5862,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>wla9b4pbko</Fingerprint>
-      <Integrity>DJe7GrT0QN/irxFGCv+L80L6zV/YCD/lE9JXxqVcuOw=</Integrity>
+      <Fingerprint>p69ow48vuf</Fingerprint>
+      <Integrity>gTS8zk+/GUYhrIcm4OeRQM3hJ/VmgMcylNrUu8485g0=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\plugins\cubeportfolio\jquery.cubeportfolio.js'))</OriginalItemSpec>
@@ -5880,8 +5880,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>4rn2m45kcl</Fingerprint>
-      <Integrity>wJqoAm2Sd/oiuRPB+3jnlc2uk09LZu52wFzUHd84hZk=</Integrity>
+      <Fingerprint>j2nol62ogz</Fingerprint>
+      <Integrity>y7ebxBp4ZHwBCw1jXfygZZF5ojBjVaPF3nH/U1VX4Ms=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\plugins\cubeportfolio\jquery.cubeportfolio.min.js'))</OriginalItemSpec>
@@ -5898,8 +5898,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>7pjkd4pno5</Fingerprint>
-      <Integrity>RVJdOA4VzZKyoazuirxXALcDxAwXubUZ1+knrn+SA3A=</Integrity>
+      <Fingerprint>8fl10by5xw</Fingerprint>
+      <Integrity>THGhau3yX2WSc5Cga7oT0+MjAw+fyM6DWvKxzbRrE0M=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\plugins\cubeportfolio\main.js'))</OriginalItemSpec>
@@ -5916,8 +5916,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>3h6gfsk7hv</Fingerprint>
-      <Integrity>ORy8s8gAjMzZTNalAnobdq0YJk4kOfPvu3tGmXEbUq4=</Integrity>
+      <Fingerprint>zc40w1eyry</Fingerprint>
+      <Integrity>7cXGESgdpm/tgxFndLFIXZU09WzSiwv9wCEmNjfWLC4=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\plugins\maps\jquery.mapael.js'))</OriginalItemSpec>
@@ -5934,8 +5934,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>lofz67cb9a</Fingerprint>
-      <Integrity>2wNgJTw36Qznsu/ugZcBNe4tjnyopnB4IHKdta5N9ZU=</Integrity>
+      <Fingerprint>8ymd4hxvgr</Fingerprint>
+      <Integrity>kBJka8hcktPTsoIAl97jY9O4IedlEqRNogxdjYzrrQs=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\plugins\maps\world_countries.js'))</OriginalItemSpec>
@@ -5952,8 +5952,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>5d4s8wmmg6</Fingerprint>
-      <Integrity>GW0ikqmkWRlRCsCg+/wnqbf67xgCJBiHGuxqyIG+Ic0=</Integrity>
+      <Fingerprint>kby3lmkx3z</Fingerprint>
+      <Integrity>gGLG1+Pnu8u6LCEM/qtVvKzpX9ON/ew8EnGXO79Xnes=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\plugins\maps\world_countries_mercator.js'))</OriginalItemSpec>
@@ -5970,8 +5970,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>sc2p36jdb9</Fingerprint>
-      <Integrity>LAO19ekPphBnhEgS2McOZLvHkXaz2ZEChCQpTRFvZTc=</Integrity>
+      <Fingerprint>3rvzrye14e</Fingerprint>
+      <Integrity>gZEb2rci3wOVFulEK6V+CHCYFU2W6VpJJAL0wJ15HLg=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\plugins\maps\world_countries_miller.js'))</OriginalItemSpec>
@@ -5988,8 +5988,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>wqc74e4q7e</Fingerprint>
-      <Integrity>uIfxeC7i1/+V3Os7QfCuCoeZtJMELfewTh4uPdTZMCY=</Integrity>
+      <Fingerprint>0g16s3y942</Fingerprint>
+      <Integrity>MMsRXbLfHq/JZrenEoVlrS6A995ZSxRo4tBgg5eTZG4=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\plugins\stepform\jq.stepform.js'))</OriginalItemSpec>
@@ -6006,8 +6006,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>rvkkj7exi6</Fingerprint>
-      <Integrity>Scq8ijdykWypsSDcFKhdpPvGbRhZ8YiI2huWCJ2nyHk=</Integrity>
+      <Fingerprint>oa4uxxvwq6</Fingerprint>
+      <Integrity>QEZvc3wPub4vaylkatlrSYBveg6DMPSuFbKYpK8LhUU=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\plugins\tables\jquery.tablesort.js'))</OriginalItemSpec>
@@ -6024,8 +6024,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>rgvmrbq7zz</Fingerprint>
-      <Integrity>NVCs8Uxj8mH/p5mWgPwnTukekzkoRkkJk1Qlehf8mm8=</Integrity>
+      <Fingerprint>2fesbto6w9</Fingerprint>
+      <Integrity>/raFiICD/eIR9Kb7KE45SyBRHasKpcaB/emi0hsRYfg=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\tables\basic.html'))</OriginalItemSpec>
@@ -6042,8 +6042,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>kqusnbv5gb</Fingerprint>
-      <Integrity>ZMIyeHja2Fb7xB/bkXKFTdLfRyg09tG5vphZ9FCoBGk=</Integrity>
+      <Fingerprint>s1nvqbqc50</Fingerprint>
+      <Integrity>cIwN7kaZ9aAHkCSrcpnWo9/2kzS2JA82KtrCaIrE3vM=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\tables\data.html'))</OriginalItemSpec>
@@ -6060,8 +6060,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>3uho2fin4y</Fingerprint>
-      <Integrity>Sy73omf25uwF5sTPnHEkcnFlCoJxZ3R2fOQoXttcKsE=</Integrity>
+      <Fingerprint>c7jh6nd3dj</Fingerprint>
+      <Integrity>iHJNDajhqlTHRG2/7Ue1QEPdfimBMr7S+fEg+BHrp4w=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\tables\et-line-font\et-line-font.css'))</OriginalItemSpec>
@@ -6096,8 +6096,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>evflrhawnl</Fingerprint>
-      <Integrity>Zj2Ozh4n1+jBoAfT1EtCtEkAqKurXUXrcg3hpGBqQM4=</Integrity>
+      <Fingerprint>1ak2sh0pvf</Fingerprint>
+      <Integrity>KZOTYUDMiy0UidfZGcDKvBNxO1TqZQslDtJEN2YAw70=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\tables\et-line-font\fonts\et-line.svg'))</OriginalItemSpec>
@@ -6150,8 +6150,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>zhlk8u1wnd</Fingerprint>
-      <Integrity>1/lMsqBHEFFUDTByMomKjpAJCuFnsabASLoIitYNOnA=</Integrity>
+      <Fingerprint>g4sdmae1kw</Fingerprint>
+      <Integrity>YNKi/wFVpsL9miSiTKmjl5YWpDcuBGoF7pblXnbJVWE=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\tables\font-awesome\css\font-awesome.min.css'))</OriginalItemSpec>
@@ -6204,8 +6204,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>xlotsiz5fn</Fingerprint>
-      <Integrity>1bVjbrsuEkgQQ2IACGt0pg3/noqL5/ShCIv100WLw8g=</Integrity>
+      <Fingerprint>negpoe010e</Fingerprint>
+      <Integrity>sZDrL2UctFusTisuFDY6Co2c877jblFSKh5k/sWwAwg=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\tables\font-awesome\fonts\fontawesome-webfont.svg'))</OriginalItemSpec>
@@ -6258,8 +6258,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>urbofrvcvi</Fingerprint>
-      <Integrity>mvzVGxOdCjtXi5t+XiEPR5VLTv2mbG613G9TeDsQ9CY=</Integrity>
+      <Fingerprint>eihu2fb0yq</Fingerprint>
+      <Integrity>JkLoiTlZpKM6mGKdXVBCBPjq4rKVY9ueZT1tmrmi/Dk=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MainDownload-OvioAdmin-html5-template\html\widgets.html'))</OriginalItemSpec>

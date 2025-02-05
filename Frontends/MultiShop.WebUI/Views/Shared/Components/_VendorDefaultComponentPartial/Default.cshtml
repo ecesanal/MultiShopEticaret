@@ -1,31 +1,13 @@
-﻿<div class="container-fluid py-5">
+﻿@model List<ResultBrandDto>
+<div class="container-fluid py-5">
     <div class="row px-xl-5">
         <div class="col">
             <div class="owl-carousel vendor-carousel" style="height:120;width:200">
-                <div class="bg-light p-4" style="height:120;width:200">
-                    <img src="https://i.pinimg.com/736x/92/1e/94/921e947f8d3ec8b7a32fd1cdc6d1fd90.jpg" alt="">
-                </div>
-                <div class="bg-light p-4" style="height:120;width:200">
-                    <img src="https://i.pinimg.com/736x/e3/16/ba/e316ba08edb61a4fc749757b886c7dd2.jpg" alt="">
-                </div>
-                <div class="bg-light p-4" style="height:120;width:200">
-                    <img src="https://i.pinimg.com/736x/08/8e/38/088e386df3d0425c848fdbd304c10379.jpg" alt="">
-                </div>
-                <div class="bg-light p-4" style="height:120;width:200">
-                    <img src="https://i.pinimg.com/736x/cf/11/eb/cf11ebcc0a874e3ad3830431f7b0ab58.jpg" alt="">
-                </div>
-                <div class="bg-light p-4" style="height:120;width:200">
-                    <img src="https://i.pinimg.com/736x/ab/9f/92/ab9f9223368437a48ae7d62059c080f9.jpg" alt="">
-                </div>
-                <div class="bg-light p-4" style="height:120;width:200">
-                    <img src="https://i.pinimg.com/736x/9b/62/17/9b6217f7038f597954a9f5993aafe97a.jpg" alt="">
-                </div>
-                <div class="bg-light p-4" style="height:120;width:200">
-                    <img src="https://i.pinimg.com/736x/bd/62/da/bd62da34302e9d060da9e443fde1bd59.jpg" alt="">
-                </div>
-                <div class="bg-light p-4" style="height:120;width:200">
-                    <img src="https://i.pinimg.com/736x/da/78/1d/da781de9ad2bffefcedb6d872856900c.jpg" alt="">
-                </div>
+                @foreach(var item in Model){
+                    <div class="bg-light p-4" style="height:120;width:200">
+                        <img src="@item.ImageUrl" alt="">
+                    </div>
+                }
             </div>
         </div>
     </div>
