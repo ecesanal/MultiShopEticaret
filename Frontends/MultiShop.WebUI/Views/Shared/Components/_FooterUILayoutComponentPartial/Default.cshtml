@@ -1,12 +1,15 @@
-﻿<div class="container-fluid bg-dark text-secondary mt-5 pt-5">
+﻿@model List<ResultAboutDto>
+<div class="container-fluid bg-dark text-secondary mt-5 pt-5">
     <div class="row px-xl-5 pt-5">
-        <div class="col-lg-4 col-md-12 mb-5 pr-3 pr-xl-5">
-            <h5 class="text-secondary text-uppercase mb-4">Hakkımızda</h5>
-            <p class="mb-4">Dinamik Hakkımızda Kısmı</p>
-            <p class="mb-2"><i class="fa fa-map-marker-alt text-primary mr-3"></i>Talas, KAYSERI, TR</p>
-            <p class="mb-2"><i class="fa fa-envelope text-primary mr-3"></i>elifecesanal4@gmail.com</p>
-            <p class="mb-0"><i class="fa fa-phone-alt text-primary mr-3"></i>+090 345 678 9012</p>
-        </div>
+        @foreach(var item in Model){
+            <div class="col-lg-4 col-md-12 mb-5 pr-3 pr-xl-5">
+                <h5 class="text-secondary text-uppercase mb-4">Hakkımızda</h5>
+                <p class="mb-4">@item.Description</p>
+                <p class="mb-2"><i class="fa fa-map-marker-alt text-primary mr-3"></i>@item.Address</p>
+                <p class="mb-2"><i class="fa fa-envelope text-primary mr-3"></i>@item.Email</p>
+                <p class="mb-0"><i class="fa fa-phone-alt text-primary mr-3"></i>@item.Phone</p>
+            </div>
+        }
         <div class="col-lg-8 col-md-12">
             <div class="row">
                 <div class="col-md-4 mb-5">
@@ -46,8 +49,8 @@
                     <div class="d-flex">
                         <a class="btn btn-primary btn-square mr-2" href="#"><i class="fab fa-twitter"></i></a>
                         <a class="btn btn-primary btn-square mr-2" href="#"><i class="fab fa-facebook-f"></i></a>
-                        <a class="btn btn-primary btn-square mr-2" href="#"><i class="fab fa-linkedin-in"></i></a>
-                        <a class="btn btn-primary btn-square" href="#"><i class="fab fa-instagram"></i></a>
+                        <a class="btn btn-primary btn-square mr-2" href="https://www.linkedin.com/in/elifecesanal"><i class="fab fa-linkedin-in"></i></a>
+                        <a class="btn btn-primary btn-square" href="https://www.instagram.com/ecesanall/"><i class="fab fa-instagram"></i></a>
                     </div>
                 </div>
             </div>
