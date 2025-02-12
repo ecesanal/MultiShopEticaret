@@ -687,6 +687,22 @@
   },
   {
     "ContainingType": "MultiShop.Catalog.Controllers.ProductsController",
+    "Method": "ProductListWithCategoryByCategoryId",
+    "RelativePath": "api/Products/ProductListWithCategoryByCategoryId/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Catalog.Controllers.ProductsController",
     "Method": "TestMongoConnection",
     "RelativePath": "api/Products/TestMongoConnection",
     "HttpMethod": "GET",
