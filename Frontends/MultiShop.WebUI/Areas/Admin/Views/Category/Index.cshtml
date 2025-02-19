@@ -14,6 +14,7 @@
                             <tr>
                                 <th>#</th>
                                 <th>Marka Adı</th>
+                                <th>Marka Görseli</th>
                                 <th>Sil</th>
                                 <th>Güncelle</th>
                             </tr>
@@ -25,6 +26,7 @@
                                 <tr>
                                     <th scope="row">@count</th>
                                     <td>@item.CategoryName</td>
+                                    <td><img src="@item.ImageUrl" alt="Alternate Text" style="width: 100px; height: 100px;" /></td>
                                     <td><a href="/Admin/Category/DeleteCategory/@item.CategoryId" class="btn btn-danger">Sil</a></td>
                                     <td><a href="/Admin/Category/UpdateCategory/@item.CategoryId" class="btn btn-success">Güncelle</a></td>
                                 </tr>

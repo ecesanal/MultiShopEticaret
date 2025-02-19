@@ -688,7 +688,7 @@
   {
     "ContainingType": "MultiShop.Catalog.Controllers.ProductsController",
     "Method": "ProductListWithCategoryByCategoryId",
-    "RelativePath": "api/Products/ProductListWithCategoryByCategoryId/{id}",
+    "RelativePath": "api/Products/ProductListWithCategoryByCategoryId",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -696,7 +696,7 @@
       {
         "Name": "id",
         "Type": "System.String",
-        "IsRequired": true
+        "IsRequired": false
       }
     ],
     "ReturnTypes": []
