@@ -24,6 +24,9 @@ MultiShopEticaret, çoklu mağaza desteği sağlayan bir e-ticaret platformudur.
 
 ---
 **Not**: README dosyası geliştirme sürecine bağlı olarak güncellenecektir. Proje ile ilgili detaylı bilgi ve kurulum adımları eklenecektir.
+
+![image](https://github.com/user-attachments/assets/524b6215-bd7e-4739-8a45-d60f1b7d3811)
+
 ![image](https://github.com/user-attachments/assets/73cdfc2b-c7e0-4fdb-88ed-8ba4e4927575)
 
 ![image](https://github.com/user-attachments/assets/8fe29665-f37c-49ed-8817-1cfdf8d25d19)
