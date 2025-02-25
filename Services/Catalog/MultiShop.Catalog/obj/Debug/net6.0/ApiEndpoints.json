@@ -602,6 +602,22 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "MultiShop.Catalog.Controllers.ProductImagesController",
+    "Method": "ProductImagesByProductId",
+    "RelativePath": "api/ProductImages/ProductImagesByProductId",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "MultiShop.Catalog.Controllers.ProductsController",
     "Method": "ProductList",
     "RelativePath": "api/Products",

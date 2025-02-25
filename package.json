@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "migrate-mongo": "^12.1.3"
+  }
+}

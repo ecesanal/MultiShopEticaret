@@ -51,3 +51,13 @@ C:\Users\e\source\repos\MultiShop\Services\Catalog\MultiShop.Catalog\obj\Debug\n
 C:\Users\e\source\repos\MultiShop\Services\Catalog\MultiShop.Catalog\obj\Debug\net6.0\MultiShop.Catalog.pdb
 C:\Users\e\source\repos\MultiShop\Services\Catalog\MultiShop.Catalog\obj\Debug\net6.0\MultiShop.Catalog.genruntimeconfig.cache
 C:\Users\e\source\repos\MultiShop\Services\Catalog\MultiShop.Catalog\obj\Debug\net6.0\ref\MultiShop.Catalog.dll
+C:\Users\e\source\repos\MultiShop\Services\Catalog\MultiShop.Catalog\bin\Debug\net6.0\LightInject.dll
+C:\Users\e\source\repos\MultiShop\Services\Catalog\MultiShop.Catalog\bin\Debug\net6.0\Mongo.Migration.dll
+C:\Users\e\source\repos\MultiShop\Services\Catalog\MultiShop.Catalog\bin\Debug\net6.0\NLog.dll
+C:\Users\e\source\repos\MultiShop\Services\Catalog\MultiShop.Catalog\bin\Debug\net6.0\Serilog.dll
+C:\Users\e\source\repos\MultiShop\Services\Catalog\MultiShop.Catalog\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Users\e\source\repos\MultiShop\Services\Catalog\MultiShop.Catalog\bin\Debug\net6.0\Serilog.Extensions.Logging.File.dll
+C:\Users\e\source\repos\MultiShop\Services\Catalog\MultiShop.Catalog\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\Users\e\source\repos\MultiShop\Services\Catalog\MultiShop.Catalog\bin\Debug\net6.0\Serilog.Sinks.Async.dll
+C:\Users\e\source\repos\MultiShop\Services\Catalog\MultiShop.Catalog\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\e\source\repos\MultiShop\Services\Catalog\MultiShop.Catalog\bin\Debug\net6.0\Serilog.Sinks.RollingFile.dll
