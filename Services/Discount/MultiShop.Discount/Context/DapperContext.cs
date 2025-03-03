@@ -16,7 +16,7 @@ namespace MultiShop.Discount.Context
         }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("Server=ECE-SANAL;initial Catalog=MultiShopDiscountDb;integrated Security=true;");
+            optionsBuilder.UseSqlServer("Server=ECE-SANAL\\MSSQLSERVER01;initial Catalog=MultiShopDiscountDb;integrated Security=true;");
         }
         public DbSet<Coupon> Coupons { get; set; }
         public IDbConnection CreateConnection() => new SqlConnection(_connecionString);

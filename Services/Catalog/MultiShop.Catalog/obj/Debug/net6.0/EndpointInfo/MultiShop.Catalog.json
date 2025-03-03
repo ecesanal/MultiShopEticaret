@@ -794,6 +794,27 @@
         }
       }
     },
+    "/api/ProductDetails/GetProductDetailByProductId": {
+      "get": {
+        "tags": [
+          "ProductDetails"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
     "/api/ProductImages": {
       "get": {
         "tags": [
@@ -1534,6 +1555,10 @@
             "nullable": true
           },
           "productInfo": {
+            "type": "string",
+            "nullable": true
+          },
+          "productId": {
             "type": "string",
             "nullable": true
           }

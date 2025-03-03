@@ -9,6 +9,10 @@
       {
         "Path": "Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj",
         "Action": "Start"
+      },
+      {
+        "Path": "Services\\Comment\\MultiShop.Comment\\MultiShop.Comment.csproj",
+        "Action": "Start"
       }
     ]
   }
