@@ -41,3 +41,6 @@ MultiShopEticaret, çoklu mağaza desteği sağlayan bir e-ticaret platformudur.
 
 ![image](https://github.com/user-attachments/assets/717fd1a1-ed5a-46aa-901a-779bfe85c0bc)
 
+![image](https://github.com/user-attachments/assets/b2b3a70d-4f29-461b-a89e-de14b27591cc)
+
+
