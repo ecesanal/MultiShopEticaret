@@ -1,5 +1,293 @@
 ﻿<Project>
   <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/MultiShop.WebUI/colorlib-regform-30/css/opensans-font.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\colorlib-regform-30\css\opensans-font.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-xMjCkscyNZiRhG40tEEx3dyPyoArKrZFPjdKDFJOIt4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1707"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022xMjCkscyNZiRhG40tEEx3dyPyoArKrZFPjdKDFJOIt4=\u0022"},{"Name":"Last-Modified","Value":"Sun, 05 Jan 2025 10:17:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MultiShop.WebUI/colorlib-regform-30/css/opensans-font.gnzbe4d2jg.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\colorlib-regform-30\css\opensans-font.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"gnzbe4d2jg"},{"Name":"integrity","Value":"sha256-xMjCkscyNZiRhG40tEEx3dyPyoArKrZFPjdKDFJOIt4="},{"Name":"label","Value":"_content/MultiShop.WebUI/colorlib-regform-30/css/opensans-font.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1707"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022xMjCkscyNZiRhG40tEEx3dyPyoArKrZFPjdKDFJOIt4=\u0022"},{"Name":"Last-Modified","Value":"Sun, 05 Jan 2025 10:17:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MultiShop.WebUI/colorlib-regform-30/css/style.0n006auuwp.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\colorlib-regform-30\css\style.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0n006auuwp"},{"Name":"integrity","Value":"sha256-PJHXCe4ldPt7v6Q34910t18TgsRj8Hxd1E4DXd36JwE="},{"Name":"label","Value":"_content/MultiShop.WebUI/colorlib-regform-30/css/style.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7445"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022PJHXCe4ldPt7v6Q34910t18TgsRj8Hxd1E4DXd36JwE=\u0022"},{"Name":"Last-Modified","Value":"Sun, 05 Jan 2025 10:17:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MultiShop.WebUI/colorlib-regform-30/css/style.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\colorlib-regform-30\css\style.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-PJHXCe4ldPt7v6Q34910t18TgsRj8Hxd1E4DXd36JwE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"7445"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022PJHXCe4ldPt7v6Q34910t18TgsRj8Hxd1E4DXd36JwE=\u0022"},{"Name":"Last-Modified","Value":"Sun, 05 Jan 2025 10:17:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MultiShop.WebUI/colorlib-regform-30/fonts/line-awesome/css/line-awesome-font-awesome.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\colorlib-regform-30\fonts\line-awesome\css\line-awesome-font-awesome.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-DOii/glGjiM3Qd3iU9w2gTuWH5KJ4muFZMooT\u002BicSp8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"33061"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022DOii/glGjiM3Qd3iU9w2gTuWH5KJ4muFZMooT\u002BicSp8=\u0022"},{"Name":"Last-Modified","Value":"Sun, 05 Jan 2025 10:17:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MultiShop.WebUI/colorlib-regform-30/fonts/line-awesome/css/line-awesome-font-awesome.kmq5exyvn6.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\colorlib-regform-30\fonts\line-awesome\css\line-awesome-font-awesome.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"kmq5exyvn6"},{"Name":"integrity","Value":"sha256-DOii/glGjiM3Qd3iU9w2gTuWH5KJ4muFZMooT\u002BicSp8="},{"Name":"label","Value":"_content/MultiShop.WebUI/colorlib-regform-30/fonts/line-awesome/css/line-awesome-font-awesome.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"33061"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022DOii/glGjiM3Qd3iU9w2gTuWH5KJ4muFZMooT\u002BicSp8=\u0022"},{"Name":"Last-Modified","Value":"Sun, 05 Jan 2025 10:17:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MultiShop.WebUI/colorlib-regform-30/fonts/line-awesome/css/line-awesome-font-awesome.min.brr1f38p46.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\colorlib-regform-30\fonts\line-awesome\css\line-awesome-font-awesome.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"brr1f38p46"},{"Name":"integrity","Value":"sha256-x13Kno\u002BLQk9a1pSc/YEYMp\u002BzM\u002Bh5HGzHkcqEz\u002BThRts="},{"Name":"label","Value":"_content/MultiShop.WebUI/colorlib-regform-30/fonts/line-awesome/css/line-awesome-font-awesome.min.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"28099"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022x13Kno\u002BLQk9a1pSc/YEYMp\u002BzM\u002Bh5HGzHkcqEz\u002BThRts=\u0022"},{"Name":"Last-Modified","Value":"Sun, 05 Jan 2025 10:17:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MultiShop.WebUI/colorlib-regform-30/fonts/line-awesome/css/line-awesome-font-awesome.min.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\colorlib-regform-30\fonts\line-awesome\css\line-awesome-font-awesome.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-x13Kno\u002BLQk9a1pSc/YEYMp\u002BzM\u002Bh5HGzHkcqEz\u002BThRts="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"28099"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022x13Kno\u002BLQk9a1pSc/YEYMp\u002BzM\u002Bh5HGzHkcqEz\u002BThRts=\u0022"},{"Name":"Last-Modified","Value":"Sun, 05 Jan 2025 10:17:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MultiShop.WebUI/colorlib-regform-30/fonts/line-awesome/css/line-awesome.bqi6hemmtx.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\colorlib-regform-30\fonts\line-awesome\css\line-awesome.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"bqi6hemmtx"},{"Name":"integrity","Value":"sha256-rdLseTUFM4aNOIvnvFiDIQMyk/nya/Yio3MBofKo1II="},{"Name":"label","Value":"_content/MultiShop.WebUI/colorlib-regform-30/fonts/line-awesome/css/line-awesome.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"33063"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022rdLseTUFM4aNOIvnvFiDIQMyk/nya/Yio3MBofKo1II=\u0022"},{"Name":"Last-Modified","Value":"Sun, 05 Jan 2025 10:17:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MultiShop.WebUI/colorlib-regform-30/fonts/line-awesome/css/line-awesome.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\colorlib-regform-30\fonts\line-awesome\css\line-awesome.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-rdLseTUFM4aNOIvnvFiDIQMyk/nya/Yio3MBofKo1II="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"33063"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022rdLseTUFM4aNOIvnvFiDIQMyk/nya/Yio3MBofKo1II=\u0022"},{"Name":"Last-Modified","Value":"Sun, 05 Jan 2025 10:17:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MultiShop.WebUI/colorlib-regform-30/fonts/line-awesome/css/line-awesome.min.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\colorlib-regform-30\fonts\line-awesome\css\line-awesome.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-HoY49gVXW9M11J76leFlrffvBt2o42dmGsJRego6lrQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"28101"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022HoY49gVXW9M11J76leFlrffvBt2o42dmGsJRego6lrQ=\u0022"},{"Name":"Last-Modified","Value":"Sun, 05 Jan 2025 10:17:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MultiShop.WebUI/colorlib-regform-30/fonts/line-awesome/css/line-awesome.min.yfu4vxj5u6.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\colorlib-regform-30\fonts\line-awesome\css\line-awesome.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"yfu4vxj5u6"},{"Name":"integrity","Value":"sha256-HoY49gVXW9M11J76leFlrffvBt2o42dmGsJRego6lrQ="},{"Name":"label","Value":"_content/MultiShop.WebUI/colorlib-regform-30/fonts/line-awesome/css/line-awesome.min.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"28101"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022HoY49gVXW9M11J76leFlrffvBt2o42dmGsJRego6lrQ=\u0022"},{"Name":"Last-Modified","Value":"Sun, 05 Jan 2025 10:17:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MultiShop.WebUI/colorlib-regform-30/fonts/line-awesome/fonts/line-awesome.accqtm7tch.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\colorlib-regform-30\fonts\line-awesome\fonts\line-awesome.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"accqtm7tch"},{"Name":"integrity","Value":"sha256-BjqVKQFQbmy8wqvdGZXqOH5K6ROJk/VReDSnX67hZdA="},{"Name":"label","Value":"_content/MultiShop.WebUI/colorlib-regform-30/fonts/line-awesome/fonts/line-awesome.woff2"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"45108"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022BjqVKQFQbmy8wqvdGZXqOH5K6ROJk/VReDSnX67hZdA=\u0022"},{"Name":"Last-Modified","Value":"Sun, 05 Jan 2025 10:17:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MultiShop.WebUI/colorlib-regform-30/fonts/line-awesome/fonts/line-awesome.bilrplyxi0.svg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\colorlib-regform-30\fonts\line-awesome\fonts\line-awesome.svg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"bilrplyxi0"},{"Name":"integrity","Value":"sha256-Xc1jR9\u002BFfi\u002B4fFc5QD/I08oQoU9AlXdQnfFpZ4VYLn8="},{"Name":"label","Value":"_content/MultiShop.WebUI/colorlib-regform-30/fonts/line-awesome/fonts/line-awesome.svg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"433695"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u0022Xc1jR9\u002BFfi\u002B4fFc5QD/I08oQoU9AlXdQnfFpZ4VYLn8=\u0022"},{"Name":"Last-Modified","Value":"Sun, 05 Jan 2025 10:17:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MultiShop.WebUI/colorlib-regform-30/fonts/line-awesome/fonts/line-awesome.eot">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\colorlib-regform-30\fonts\line-awesome\fonts\line-awesome.eot'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-EBRBV3Nut0SjgYs8PBrPbXZRPLSfkVep289\u002BpvRrnvg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"112916"},{"Name":"Content-Type","Value":"application/vnd.ms-fontobject"},{"Name":"ETag","Value":"\u0022EBRBV3Nut0SjgYs8PBrPbXZRPLSfkVep289\u002BpvRrnvg=\u0022"},{"Name":"Last-Modified","Value":"Sun, 05 Jan 2025 10:17:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MultiShop.WebUI/colorlib-regform-30/fonts/line-awesome/fonts/line-awesome.gg1j4re39c.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\colorlib-regform-30\fonts\line-awesome\fonts\line-awesome.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"gg1j4re39c"},{"Name":"integrity","Value":"sha256-IP5JuKkjwaMpykQULpjxzBYre/HZiYM4mwGkRjDfqFs="},{"Name":"label","Value":"_content/MultiShop.WebUI/colorlib-regform-30/fonts/line-awesome/fonts/line-awesome.woff"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"57436"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022IP5JuKkjwaMpykQULpjxzBYre/HZiYM4mwGkRjDfqFs=\u0022"},{"Name":"Last-Modified","Value":"Sun, 05 Jan 2025 10:17:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MultiShop.WebUI/colorlib-regform-30/fonts/line-awesome/fonts/line-awesome.kvkdh0tjqx.eot">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\colorlib-regform-30\fonts\line-awesome\fonts\line-awesome.eot'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"kvkdh0tjqx"},{"Name":"integrity","Value":"sha256-EBRBV3Nut0SjgYs8PBrPbXZRPLSfkVep289\u002BpvRrnvg="},{"Name":"label","Value":"_content/MultiShop.WebUI/colorlib-regform-30/fonts/line-awesome/fonts/line-awesome.eot"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"112916"},{"Name":"Content-Type","Value":"application/vnd.ms-fontobject"},{"Name":"ETag","Value":"\u0022EBRBV3Nut0SjgYs8PBrPbXZRPLSfkVep289\u002BpvRrnvg=\u0022"},{"Name":"Last-Modified","Value":"Sun, 05 Jan 2025 10:17:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MultiShop.WebUI/colorlib-regform-30/fonts/line-awesome/fonts/line-awesome.rbtaj2o8wy.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\colorlib-regform-30\fonts\line-awesome\fonts\line-awesome.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"rbtaj2o8wy"},{"Name":"integrity","Value":"sha256-CZKYmSPdpuyPqgSdurTBU01Qxc89sBY24SNVkRNUIxM="},{"Name":"label","Value":"_content/MultiShop.WebUI/colorlib-regform-30/fonts/line-awesome/fonts/line-awesome.ttf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"112728"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022CZKYmSPdpuyPqgSdurTBU01Qxc89sBY24SNVkRNUIxM=\u0022"},{"Name":"Last-Modified","Value":"Sun, 05 Jan 2025 10:17:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MultiShop.WebUI/colorlib-regform-30/fonts/line-awesome/fonts/line-awesome.svg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\colorlib-regform-30\fonts\line-awesome\fonts\line-awesome.svg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Xc1jR9\u002BFfi\u002B4fFc5QD/I08oQoU9AlXdQnfFpZ4VYLn8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"433695"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u0022Xc1jR9\u002BFfi\u002B4fFc5QD/I08oQoU9AlXdQnfFpZ4VYLn8=\u0022"},{"Name":"Last-Modified","Value":"Sun, 05 Jan 2025 10:17:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MultiShop.WebUI/colorlib-regform-30/fonts/line-awesome/fonts/line-awesome.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\colorlib-regform-30\fonts\line-awesome\fonts\line-awesome.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-CZKYmSPdpuyPqgSdurTBU01Qxc89sBY24SNVkRNUIxM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"112728"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022CZKYmSPdpuyPqgSdurTBU01Qxc89sBY24SNVkRNUIxM=\u0022"},{"Name":"Last-Modified","Value":"Sun, 05 Jan 2025 10:17:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MultiShop.WebUI/colorlib-regform-30/fonts/line-awesome/fonts/line-awesome.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\colorlib-regform-30\fonts\line-awesome\fonts\line-awesome.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-IP5JuKkjwaMpykQULpjxzBYre/HZiYM4mwGkRjDfqFs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"57436"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022IP5JuKkjwaMpykQULpjxzBYre/HZiYM4mwGkRjDfqFs=\u0022"},{"Name":"Last-Modified","Value":"Sun, 05 Jan 2025 10:17:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MultiShop.WebUI/colorlib-regform-30/fonts/line-awesome/fonts/line-awesome.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\colorlib-regform-30\fonts\line-awesome\fonts\line-awesome.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-BjqVKQFQbmy8wqvdGZXqOH5K6ROJk/VReDSnX67hZdA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"45108"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022BjqVKQFQbmy8wqvdGZXqOH5K6ROJk/VReDSnX67hZdA=\u0022"},{"Name":"Last-Modified","Value":"Sun, 05 Jan 2025 10:17:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MultiShop.WebUI/colorlib-regform-30/fonts/Open_Sans/LICENSE.rt2i55lt51.txt">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\colorlib-regform-30\fonts\Open_Sans\LICENSE.txt'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"rt2i55lt51"},{"Name":"integrity","Value":"sha256-z8d0m5b2O9McPEK1xHG/dWgUBT6EfBDz6wA0F7xSPTA="},{"Name":"label","Value":"_content/MultiShop.WebUI/colorlib-regform-30/fonts/Open_Sans/LICENSE.txt"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"11358"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022z8d0m5b2O9McPEK1xHG/dWgUBT6EfBDz6wA0F7xSPTA=\u0022"},{"Name":"Last-Modified","Value":"Sun, 05 Jan 2025 10:17:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MultiShop.WebUI/colorlib-regform-30/fonts/Open_Sans/LICENSE.txt">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\colorlib-regform-30\fonts\Open_Sans\LICENSE.txt'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-z8d0m5b2O9McPEK1xHG/dWgUBT6EfBDz6wA0F7xSPTA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"11358"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022z8d0m5b2O9McPEK1xHG/dWgUBT6EfBDz6wA0F7xSPTA=\u0022"},{"Name":"Last-Modified","Value":"Sun, 05 Jan 2025 10:17:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MultiShop.WebUI/colorlib-regform-30/fonts/Open_Sans/OpenSans-Bold.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\colorlib-regform-30\fonts\Open_Sans\OpenSans-Bold.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-G0PeJEnTm2X/b2MxXUr9pYX3L7vsLj2aVvWd5sdRSdM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"224452"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022G0PeJEnTm2X/b2MxXUr9pYX3L7vsLj2aVvWd5sdRSdM=\u0022"},{"Name":"Last-Modified","Value":"Sun, 05 Jan 2025 10:17:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MultiShop.WebUI/colorlib-regform-30/fonts/Open_Sans/OpenSans-Bold.xxy4r2btut.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\colorlib-regform-30\fonts\Open_Sans\OpenSans-Bold.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xxy4r2btut"},{"Name":"integrity","Value":"sha256-G0PeJEnTm2X/b2MxXUr9pYX3L7vsLj2aVvWd5sdRSdM="},{"Name":"label","Value":"_content/MultiShop.WebUI/colorlib-regform-30/fonts/Open_Sans/OpenSans-Bold.ttf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"224452"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022G0PeJEnTm2X/b2MxXUr9pYX3L7vsLj2aVvWd5sdRSdM=\u0022"},{"Name":"Last-Modified","Value":"Sun, 05 Jan 2025 10:17:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MultiShop.WebUI/colorlib-regform-30/fonts/Open_Sans/OpenSans-BoldItalic.hlvt0ke6oa.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\colorlib-regform-30\fonts\Open_Sans\OpenSans-BoldItalic.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"hlvt0ke6oa"},{"Name":"integrity","Value":"sha256-NXXSr6qtaZcDgCN6XWNXttskH1O3dgdILq\u002BfKZuMB\u002Bw="},{"Name":"label","Value":"_content/MultiShop.WebUI/colorlib-regform-30/fonts/Open_Sans/OpenSans-BoldItalic.ttf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"213168"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022NXXSr6qtaZcDgCN6XWNXttskH1O3dgdILq\u002BfKZuMB\u002Bw=\u0022"},{"Name":"Last-Modified","Value":"Sun, 05 Jan 2025 10:17:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MultiShop.WebUI/colorlib-regform-30/fonts/Open_Sans/OpenSans-BoldItalic.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\colorlib-regform-30\fonts\Open_Sans\OpenSans-BoldItalic.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-NXXSr6qtaZcDgCN6XWNXttskH1O3dgdILq\u002BfKZuMB\u002Bw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"213168"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022NXXSr6qtaZcDgCN6XWNXttskH1O3dgdILq\u002BfKZuMB\u002Bw=\u0022"},{"Name":"Last-Modified","Value":"Sun, 05 Jan 2025 10:17:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MultiShop.WebUI/colorlib-regform-30/fonts/Open_Sans/OpenSans-ExtraBold.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\colorlib-regform-30\fonts\Open_Sans\OpenSans-ExtraBold.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-OV8VAkDUPf\u002BLrqZYa69WZTN95XuCBKUB\u002B9YUiy/hZbc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"222424"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022OV8VAkDUPf\u002BLrqZYa69WZTN95XuCBKUB\u002B9YUiy/hZbc=\u0022"},{"Name":"Last-Modified","Value":"Sun, 05 Jan 2025 10:17:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MultiShop.WebUI/colorlib-regform-30/fonts/Open_Sans/OpenSans-ExtraBold.v2qf76bqg5.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\colorlib-regform-30\fonts\Open_Sans\OpenSans-ExtraBold.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"v2qf76bqg5"},{"Name":"integrity","Value":"sha256-OV8VAkDUPf\u002BLrqZYa69WZTN95XuCBKUB\u002B9YUiy/hZbc="},{"Name":"label","Value":"_content/MultiShop.WebUI/colorlib-regform-30/fonts/Open_Sans/OpenSans-ExtraBold.ttf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"222424"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022OV8VAkDUPf\u002BLrqZYa69WZTN95XuCBKUB\u002B9YUiy/hZbc=\u0022"},{"Name":"Last-Modified","Value":"Sun, 05 Jan 2025 10:17:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MultiShop.WebUI/colorlib-regform-30/fonts/Open_Sans/OpenSans-ExtraBoldItalic.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\colorlib-regform-30\fonts\Open_Sans\OpenSans-ExtraBoldItalic.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-1d45vN0BAInZ243Rrrrvr55pG/mkkoL/Q\u002BHRhptBeJI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"213336"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u00221d45vN0BAInZ243Rrrrvr55pG/mkkoL/Q\u002BHRhptBeJI=\u0022"},{"Name":"Last-Modified","Value":"Sun, 05 Jan 2025 10:17:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MultiShop.WebUI/colorlib-regform-30/fonts/Open_Sans/OpenSans-ExtraBoldItalic.z2wflj7ci4.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\colorlib-regform-30\fonts\Open_Sans\OpenSans-ExtraBoldItalic.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"z2wflj7ci4"},{"Name":"integrity","Value":"sha256-1d45vN0BAInZ243Rrrrvr55pG/mkkoL/Q\u002BHRhptBeJI="},{"Name":"label","Value":"_content/MultiShop.WebUI/colorlib-regform-30/fonts/Open_Sans/OpenSans-ExtraBoldItalic.ttf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"213336"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u00221d45vN0BAInZ243Rrrrvr55pG/mkkoL/Q\u002BHRhptBeJI=\u0022"},{"Name":"Last-Modified","Value":"Sun, 05 Jan 2025 10:17:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MultiShop.WebUI/colorlib-regform-30/fonts/Open_Sans/OpenSans-Italic.gpw8jj5is6.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\colorlib-regform-30\fonts\Open_Sans\OpenSans-Italic.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"gpw8jj5is6"},{"Name":"integrity","Value":"sha256-bLkYpwegbE\u002BYIh0JNEr0uYycthhLEzCaV5yvBBjV63Q="},{"Name":"label","Value":"_content/MultiShop.WebUI/colorlib-regform-30/fonts/Open_Sans/OpenSans-Italic.ttf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"212760"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022bLkYpwegbE\u002BYIh0JNEr0uYycthhLEzCaV5yvBBjV63Q=\u0022"},{"Name":"Last-Modified","Value":"Sun, 05 Jan 2025 10:17:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MultiShop.WebUI/colorlib-regform-30/fonts/Open_Sans/OpenSans-Italic.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\colorlib-regform-30\fonts\Open_Sans\OpenSans-Italic.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-bLkYpwegbE\u002BYIh0JNEr0uYycthhLEzCaV5yvBBjV63Q="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"212760"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022bLkYpwegbE\u002BYIh0JNEr0uYycthhLEzCaV5yvBBjV63Q=\u0022"},{"Name":"Last-Modified","Value":"Sun, 05 Jan 2025 10:17:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MultiShop.WebUI/colorlib-regform-30/fonts/Open_Sans/OpenSans-Light.oxy5dwevqo.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\colorlib-regform-30\fonts\Open_Sans\OpenSans-Light.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"oxy5dwevqo"},{"Name":"integrity","Value":"sha256-HI08xoEOzTYj6/99LD2xpEAkJgxa5mL4Fm1puUJYKO0="},{"Name":"label","Value":"_content/MultiShop.WebUI/colorlib-regform-30/fonts/Open_Sans/OpenSans-Light.ttf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"222236"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022HI08xoEOzTYj6/99LD2xpEAkJgxa5mL4Fm1puUJYKO0=\u0022"},{"Name":"Last-Modified","Value":"Sun, 05 Jan 2025 10:17:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MultiShop.WebUI/colorlib-regform-30/fonts/Open_Sans/OpenSans-Light.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\colorlib-regform-30\fonts\Open_Sans\OpenSans-Light.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-HI08xoEOzTYj6/99LD2xpEAkJgxa5mL4Fm1puUJYKO0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"222236"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022HI08xoEOzTYj6/99LD2xpEAkJgxa5mL4Fm1puUJYKO0=\u0022"},{"Name":"Last-Modified","Value":"Sun, 05 Jan 2025 10:17:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MultiShop.WebUI/colorlib-regform-30/fonts/Open_Sans/OpenSans-LightItalic.nbe661ueap.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\colorlib-regform-30\fonts\Open_Sans\OpenSans-LightItalic.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"nbe661ueap"},{"Name":"integrity","Value":"sha256-/acN\u002BFmHs5T/OEuJlwO8DlWse9upTQb0dGLhVc8MA1A="},{"Name":"label","Value":"_content/MultiShop.WebUI/colorlib-regform-30/fonts/Open_Sans/OpenSans-LightItalic.ttf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"213024"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022/acN\u002BFmHs5T/OEuJlwO8DlWse9upTQb0dGLhVc8MA1A=\u0022"},{"Name":"Last-Modified","Value":"Sun, 05 Jan 2025 10:17:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MultiShop.WebUI/colorlib-regform-30/fonts/Open_Sans/OpenSans-LightItalic.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\colorlib-regform-30\fonts\Open_Sans\OpenSans-LightItalic.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-/acN\u002BFmHs5T/OEuJlwO8DlWse9upTQb0dGLhVc8MA1A="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"213024"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022/acN\u002BFmHs5T/OEuJlwO8DlWse9upTQb0dGLhVc8MA1A=\u0022"},{"Name":"Last-Modified","Value":"Sun, 05 Jan 2025 10:17:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MultiShop.WebUI/colorlib-regform-30/fonts/Open_Sans/OpenSans-Regular.d8o1r5myf6.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\colorlib-regform-30\fonts\Open_Sans\OpenSans-Regular.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"d8o1r5myf6"},{"Name":"integrity","Value":"sha256-E8A\u002BIqYzkZvrKEfFjIKF\u002B4pzXulwl9fEj9QD\u002BClLBfg="},{"Name":"label","Value":"_content/MultiShop.WebUI/colorlib-regform-30/fonts/Open_Sans/OpenSans-Regular.ttf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"217276"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022E8A\u002BIqYzkZvrKEfFjIKF\u002B4pzXulwl9fEj9QD\u002BClLBfg=\u0022"},{"Name":"Last-Modified","Value":"Sun, 05 Jan 2025 10:17:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MultiShop.WebUI/colorlib-regform-30/fonts/Open_Sans/OpenSans-Regular.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\colorlib-regform-30\fonts\Open_Sans\OpenSans-Regular.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-E8A\u002BIqYzkZvrKEfFjIKF\u002B4pzXulwl9fEj9QD\u002BClLBfg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"217276"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022E8A\u002BIqYzkZvrKEfFjIKF\u002B4pzXulwl9fEj9QD\u002BClLBfg=\u0022"},{"Name":"Last-Modified","Value":"Sun, 05 Jan 2025 10:17:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MultiShop.WebUI/colorlib-regform-30/fonts/Open_Sans/OpenSans-SemiBold.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\colorlib-regform-30\fonts\Open_Sans\OpenSans-SemiBold.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-tMIFCyXT0pbVz1hYnKAIFtxy30ImLC9inVxqmEoWGqQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"221164"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022tMIFCyXT0pbVz1hYnKAIFtxy30ImLC9inVxqmEoWGqQ=\u0022"},{"Name":"Last-Modified","Value":"Sun, 05 Jan 2025 10:17:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MultiShop.WebUI/colorlib-regform-30/fonts/Open_Sans/OpenSans-SemiBold.wfxcdjziq8.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\colorlib-regform-30\fonts\Open_Sans\OpenSans-SemiBold.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"wfxcdjziq8"},{"Name":"integrity","Value":"sha256-tMIFCyXT0pbVz1hYnKAIFtxy30ImLC9inVxqmEoWGqQ="},{"Name":"label","Value":"_content/MultiShop.WebUI/colorlib-regform-30/fonts/Open_Sans/OpenSans-SemiBold.ttf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"221164"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022tMIFCyXT0pbVz1hYnKAIFtxy30ImLC9inVxqmEoWGqQ=\u0022"},{"Name":"Last-Modified","Value":"Sun, 05 Jan 2025 10:17:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MultiShop.WebUI/colorlib-regform-30/fonts/Open_Sans/OpenSans-SemiBoldItalic.8sy9t6atuw.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\colorlib-regform-30\fonts\Open_Sans\OpenSans-SemiBoldItalic.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"8sy9t6atuw"},{"Name":"integrity","Value":"sha256-qPKvjnn0Zoaxz8\u002Bzof1T6U6IMI18buf4XHM/R5b8w6A="},{"Name":"label","Value":"_content/MultiShop.WebUI/colorlib-regform-30/fonts/Open_Sans/OpenSans-SemiBoldItalic.ttf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"212732"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022qPKvjnn0Zoaxz8\u002Bzof1T6U6IMI18buf4XHM/R5b8w6A=\u0022"},{"Name":"Last-Modified","Value":"Sun, 05 Jan 2025 10:17:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MultiShop.WebUI/colorlib-regform-30/fonts/Open_Sans/OpenSans-SemiBoldItalic.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\colorlib-regform-30\fonts\Open_Sans\OpenSans-SemiBoldItalic.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-qPKvjnn0Zoaxz8\u002Bzof1T6U6IMI18buf4XHM/R5b8w6A="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"212732"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022qPKvjnn0Zoaxz8\u002Bzof1T6U6IMI18buf4XHM/R5b8w6A=\u0022"},{"Name":"Last-Modified","Value":"Sun, 05 Jan 2025 10:17:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MultiShop.WebUI/colorlib-regform-30/index.8t0oynuicb.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\colorlib-regform-30\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"8t0oynuicb"},{"Name":"integrity","Value":"sha256-5GfGTb03VR2OsUGnEQkM28qtEWigoYCq176iSDB3AYo="},{"Name":"label","Value":"_content/MultiShop.WebUI/colorlib-regform-30/index.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3863"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u00225GfGTb03VR2OsUGnEQkM28qtEWigoYCq176iSDB3AYo=\u0022"},{"Name":"Last-Modified","Value":"Sun, 05 Jan 2025 10:17:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MultiShop.WebUI/colorlib-regform-30/index.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\colorlib-regform-30\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-5GfGTb03VR2OsUGnEQkM28qtEWigoYCq176iSDB3AYo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3863"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u00225GfGTb03VR2OsUGnEQkM28qtEWigoYCq176iSDB3AYo=\u0022"},{"Name":"Last-Modified","Value":"Sun, 05 Jan 2025 10:17:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MultiShop.WebUI/colorlib-regform-30/readme.oapm0uvoo5.txt">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\colorlib-regform-30\readme.txt'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"oapm0uvoo5"},{"Name":"integrity","Value":"sha256-cK7LCnaU3IaU1jyLv/yd2ezYRGzctOd\u002BJH051FkZSkg="},{"Name":"label","Value":"_content/MultiShop.WebUI/colorlib-regform-30/readme.txt"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"130"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022cK7LCnaU3IaU1jyLv/yd2ezYRGzctOd\u002BJH051FkZSkg=\u0022"},{"Name":"Last-Modified","Value":"Sun, 05 Jan 2025 10:17:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MultiShop.WebUI/colorlib-regform-30/readme.txt">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\colorlib-regform-30\readme.txt'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-cK7LCnaU3IaU1jyLv/yd2ezYRGzctOd\u002BJH051FkZSkg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"130"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022cK7LCnaU3IaU1jyLv/yd2ezYRGzctOd\u002BJH051FkZSkg=\u0022"},{"Name":"Last-Modified","Value":"Sun, 05 Jan 2025 10:17:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/MultiShop.WebUI/css/site.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
@@ -4180,13 +4468,13 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MultiShop.WebUI.jgpddpgdod.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-3cw4ikDaZbKtGyFAhPTsB2T0Srdgubr0yspEkisCssU="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1132"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00223cw4ikDaZbKtGyFAhPTsB2T0Srdgubr0yspEkisCssU=\u0022"},{"Name":"Last-Modified","Value":"Mon, 03 Mar 2025 19:06:36 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1132"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00223cw4ikDaZbKtGyFAhPTsB2T0Srdgubr0yspEkisCssU=\u0022"},{"Name":"Last-Modified","Value":"Wed, 12 Mar 2025 14:10:11 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/MultiShop.WebUI/MultiShop.WebUI.jgpddpgdod.bundle.scp.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MultiShop.WebUI.jgpddpgdod.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"jgpddpgdod"},{"Name":"integrity","Value":"sha256-3cw4ikDaZbKtGyFAhPTsB2T0Srdgubr0yspEkisCssU="},{"Name":"label","Value":"_content/MultiShop.WebUI/MultiShop.WebUI.bundle.scp.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1132"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00223cw4ikDaZbKtGyFAhPTsB2T0Srdgubr0yspEkisCssU=\u0022"},{"Name":"Last-Modified","Value":"Mon, 03 Mar 2025 19:06:36 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1132"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00223cw4ikDaZbKtGyFAhPTsB2T0Srdgubr0yspEkisCssU=\u0022"},{"Name":"Last-Modified","Value":"Wed, 12 Mar 2025 14:10:11 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/MultiShop.WebUI/online-shop-website-template/cart.eznlsrm9li.html">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\online-shop-website-template\cart.html'))</AssetFile>
