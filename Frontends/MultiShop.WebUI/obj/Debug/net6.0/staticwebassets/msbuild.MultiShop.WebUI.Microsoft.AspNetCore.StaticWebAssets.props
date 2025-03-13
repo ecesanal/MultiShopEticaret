@@ -30,8 +30,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>0n006auuwp</Fingerprint>
-      <Integrity>PJHXCe4ldPt7v6Q34910t18TgsRj8Hxd1E4DXd36JwE=</Integrity>
+      <Fingerprint>074mwk0ptz</Fingerprint>
+      <Integrity>vO51Dyp8yqFB1jQlKTo3MB6pu/TGPc+6I1INlUUDgGw=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\colorlib-regform-30\css\style.css'))</OriginalItemSpec>

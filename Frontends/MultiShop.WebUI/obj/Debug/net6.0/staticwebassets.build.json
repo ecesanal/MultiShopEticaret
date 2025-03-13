@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "4nzbPNiqQk3YYcmmqqvxxuESlWleAZw2u6znGTSKr9k=",
+  "Hash": "IgrLGkE7ImQc+z9pKG75YDg7urbPuchycI3kRxIJv/8=",
   "Source": "MultiShop.WebUI",
   "BasePath": "_content/MultiShop.WebUI",
   "Mode": "Default",
@@ -94,8 +94,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "0n006auuwp",
-      "Integrity": "PJHXCe4ldPt7v6Q34910t18TgsRj8Hxd1E4DXd36JwE=",
+      "Fingerprint": "074mwk0ptz",
+      "Integrity": "vO51Dyp8yqFB1jQlKTo3MB6pu/TGPc+6I1INlUUDgGw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\colorlib-regform-30\\css\\style.css"
@@ -11189,7 +11189,7 @@
       ]
     },
     {
-      "Route": "colorlib-regform-30/css/style.0n006auuwp.css",
+      "Route": "colorlib-regform-30/css/style.074mwk0ptz.css",
       "AssetFile": "C:\\Users\\e\\source\\repos\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\colorlib-regform-30\\css\\style.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -11199,7 +11199,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7445"
+          "Value": "1865"
         },
         {
           "Name": "Content-Type",
@@ -11207,11 +11207,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"PJHXCe4ldPt7v6Q34910t18TgsRj8Hxd1E4DXd36JwE=\""
+          "Value": "\"vO51Dyp8yqFB1jQlKTo3MB6pu/TGPc+6I1INlUUDgGw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 05 Jan 2025 10:17:17 GMT"
+          "Value": "Thu, 13 Mar 2025 15:38:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11221,7 +11221,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "0n006auuwp"
+          "Value": "074mwk0ptz"
         },
         {
           "Name": "label",
@@ -11229,7 +11229,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-PJHXCe4ldPt7v6Q34910t18TgsRj8Hxd1E4DXd36JwE="
+          "Value": "sha256-vO51Dyp8yqFB1jQlKTo3MB6pu/TGPc+6I1INlUUDgGw="
         }
       ]
     },
@@ -11244,7 +11244,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7445"
+          "Value": "1865"
         },
         {
           "Name": "Content-Type",
@@ -11252,11 +11252,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"PJHXCe4ldPt7v6Q34910t18TgsRj8Hxd1E4DXd36JwE=\""
+          "Value": "\"vO51Dyp8yqFB1jQlKTo3MB6pu/TGPc+6I1INlUUDgGw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 05 Jan 2025 10:17:17 GMT"
+          "Value": "Thu, 13 Mar 2025 15:38:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11266,7 +11266,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-PJHXCe4ldPt7v6Q34910t18TgsRj8Hxd1E4DXd36JwE="
+          "Value": "sha256-vO51Dyp8yqFB1jQlKTo3MB6pu/TGPc+6I1INlUUDgGw="
         }
       ]
     },

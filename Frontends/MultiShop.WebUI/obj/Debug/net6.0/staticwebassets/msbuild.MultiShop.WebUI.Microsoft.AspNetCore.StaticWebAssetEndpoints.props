@@ -12,17 +12,17 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"gnzbe4d2jg"},{"Name":"integrity","Value":"sha256-xMjCkscyNZiRhG40tEEx3dyPyoArKrZFPjdKDFJOIt4="},{"Name":"label","Value":"_content/MultiShop.WebUI/colorlib-regform-30/css/opensans-font.css"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1707"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022xMjCkscyNZiRhG40tEEx3dyPyoArKrZFPjdKDFJOIt4=\u0022"},{"Name":"Last-Modified","Value":"Sun, 05 Jan 2025 10:17:17 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/MultiShop.WebUI/colorlib-regform-30/css/style.0n006auuwp.css">
+    <StaticWebAssetEndpoint Include="_content/MultiShop.WebUI/colorlib-regform-30/css/style.074mwk0ptz.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\colorlib-regform-30\css\style.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0n006auuwp"},{"Name":"integrity","Value":"sha256-PJHXCe4ldPt7v6Q34910t18TgsRj8Hxd1E4DXd36JwE="},{"Name":"label","Value":"_content/MultiShop.WebUI/colorlib-regform-30/css/style.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7445"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022PJHXCe4ldPt7v6Q34910t18TgsRj8Hxd1E4DXd36JwE=\u0022"},{"Name":"Last-Modified","Value":"Sun, 05 Jan 2025 10:17:17 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"074mwk0ptz"},{"Name":"integrity","Value":"sha256-vO51Dyp8yqFB1jQlKTo3MB6pu/TGPc\u002B6I1INlUUDgGw="},{"Name":"label","Value":"_content/MultiShop.WebUI/colorlib-regform-30/css/style.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1865"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022vO51Dyp8yqFB1jQlKTo3MB6pu/TGPc\u002B6I1INlUUDgGw=\u0022"},{"Name":"Last-Modified","Value":"Thu, 13 Mar 2025 15:38:05 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/MultiShop.WebUI/colorlib-regform-30/css/style.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\colorlib-regform-30\css\style.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-PJHXCe4ldPt7v6Q34910t18TgsRj8Hxd1E4DXd36JwE="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"7445"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022PJHXCe4ldPt7v6Q34910t18TgsRj8Hxd1E4DXd36JwE=\u0022"},{"Name":"Last-Modified","Value":"Sun, 05 Jan 2025 10:17:17 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-vO51Dyp8yqFB1jQlKTo3MB6pu/TGPc\u002B6I1INlUUDgGw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1865"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022vO51Dyp8yqFB1jQlKTo3MB6pu/TGPc\u002B6I1INlUUDgGw=\u0022"},{"Name":"Last-Modified","Value":"Thu, 13 Mar 2025 15:38:05 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/MultiShop.WebUI/colorlib-regform-30/fonts/line-awesome/css/line-awesome-font-awesome.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\colorlib-regform-30\fonts\line-awesome\css\line-awesome-font-awesome.css'))</AssetFile>
