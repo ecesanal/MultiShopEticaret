@@ -1,4 +1,4 @@
-﻿
+﻿@model CreateLoginDto
 @{
     Layout = null;
 }
@@ -35,10 +35,10 @@
 				<h2>MultiShop Giriş Formu</h2>
 				<div class="form-row">
 					<label for="your_username">Kullanıcı Adı</label>
-					<input type="text" placeholder="Kullanıcı Adı" id="your_username" class="input-text" required>
+					<input type="text" placeholder="Kullanıcı Adı" asp-for="Username" id="your_username" class="input-text" required>
 				</div><div class="form-row">
 					<label for="your_password">Şifre</label>
-					<input type="password" placeholder="Şifre" id="your_password" class="input-text" required>
+					<input type="password" placeholder="Şifre" id="your_password" asp-for="Password" class="input-text" required>
 				</div>
 					<input type="submit" name="register" class="register" value="Giriş Yap">
 			</form>
