@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "S2q1IT6ClLlcA8jGq9lcidkQau2E5LoaL+e51qqbBeA=",
+  "Hash": "4EtH/sChpASs7x9lIVWafHuskuqof0BdYKCC0FNNlhE=",
   "Source": "MultiShop.IdentityServer",
   "BasePath": "_content/MultiShop.IdentityServer",
   "Mode": "Default",
@@ -4132,7 +4132,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Dec 2024 18:42:27 GMT"
+          "Value": "Wed, 19 Mar 2025 15:30:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4169,7 +4169,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Dec 2024 18:42:27 GMT"
+          "Value": "Wed, 19 Mar 2025 15:30:56 GMT"
         },
         {
           "Name": "Cache-Control",

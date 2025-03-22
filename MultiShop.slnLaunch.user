@@ -9,6 +9,10 @@
       {
         "Path": "IdentityServer\\MultiShop.IdentityServer\\MultiShop.IdentityServer.csproj",
         "Action": "Start"
+      },
+      {
+        "Path": "Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj",
+        "Action": "Start"
       }
     ]
   }

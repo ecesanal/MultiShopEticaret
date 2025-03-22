@@ -1,12 +1,3 @@
-C:\Users\e\source\repos\MultiShop\Frontends\MultiShop.WebUI\obj\Debug\net6.0\MultiShop.WebUI.csproj.AssemblyReference.cache
-C:\Users\e\source\repos\MultiShop\Frontends\MultiShop.WebUI\obj\Debug\net6.0\MultiShop.WebUI.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\e\source\repos\MultiShop\Frontends\MultiShop.WebUI\obj\Debug\net6.0\MultiShop.WebUI.AssemblyInfoInputs.cache
-C:\Users\e\source\repos\MultiShop\Frontends\MultiShop.WebUI\obj\Debug\net6.0\MultiShop.WebUI.AssemblyInfo.cs
-C:\Users\e\source\repos\MultiShop\Frontends\MultiShop.WebUI\obj\Debug\net6.0\MultiShop.WebUI.csproj.CoreCompileInputs.cache
-C:\Users\e\source\repos\MultiShop\Frontends\MultiShop.WebUI\obj\Debug\net6.0\MultiShop.WebUI.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\e\source\repos\MultiShop\Frontends\MultiShop.WebUI\obj\Debug\net6.0\MultiShop.WebUI.RazorAssemblyInfo.cache
-C:\Users\e\source\repos\MultiShop\Frontends\MultiShop.WebUI\obj\Debug\net6.0\MultiShop.WebUI.RazorAssemblyInfo.cs
-C:\Users\e\source\repos\MultiShop\Frontends\MultiShop.WebUI\obj\Debug\net6.0\MultiShop.WebUI.sourcelink.json
 C:\Users\e\source\repos\MultiShop\Frontends\MultiShop.WebUI\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\e\source\repos\MultiShop\Frontends\MultiShop.WebUI\bin\Debug\net6.0\appsettings.json
 C:\Users\e\source\repos\MultiShop\Frontends\MultiShop.WebUI\bin\Debug\net6.0\MultiShop.WebUI.staticwebassets.runtime.json
@@ -19,6 +10,7 @@ C:\Users\e\source\repos\MultiShop\Frontends\MultiShop.WebUI\bin\Debug\net6.0\Mul
 C:\Users\e\source\repos\MultiShop\Frontends\MultiShop.WebUI\bin\Debug\net6.0\Humanizer.dll
 C:\Users\e\source\repos\MultiShop\Frontends\MultiShop.WebUI\bin\Debug\net6.0\MessagePack.dll
 C:\Users\e\source\repos\MultiShop\Frontends\MultiShop.WebUI\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\e\source\repos\MultiShop\Frontends\MultiShop.WebUI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\e\source\repos\MultiShop\Frontends\MultiShop.WebUI\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
 C:\Users\e\source\repos\MultiShop\Frontends\MultiShop.WebUI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\e\source\repos\MultiShop\Frontends\MultiShop.WebUI\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
@@ -32,6 +24,12 @@ C:\Users\e\source\repos\MultiShop\Frontends\MultiShop.WebUI\bin\Debug\net6.0\Mic
 C:\Users\e\source\repos\MultiShop\Frontends\MultiShop.WebUI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
 C:\Users\e\source\repos\MultiShop\Frontends\MultiShop.WebUI\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
 C:\Users\e\source\repos\MultiShop\Frontends\MultiShop.WebUI\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\e\source\repos\MultiShop\Frontends\MultiShop.WebUI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\e\source\repos\MultiShop\Frontends\MultiShop.WebUI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\e\source\repos\MultiShop\Frontends\MultiShop.WebUI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\e\source\repos\MultiShop\Frontends\MultiShop.WebUI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\e\source\repos\MultiShop\Frontends\MultiShop.WebUI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\e\source\repos\MultiShop\Frontends\MultiShop.WebUI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\e\source\repos\MultiShop\Frontends\MultiShop.WebUI\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
 C:\Users\e\source\repos\MultiShop\Frontends\MultiShop.WebUI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
 C:\Users\e\source\repos\MultiShop\Frontends\MultiShop.WebUI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
@@ -56,6 +54,7 @@ C:\Users\e\source\repos\MultiShop\Frontends\MultiShop.WebUI\bin\Debug\net6.0\Sys
 C:\Users\e\source\repos\MultiShop\Frontends\MultiShop.WebUI\bin\Debug\net6.0\System.Composition.Runtime.dll
 C:\Users\e\source\repos\MultiShop\Frontends\MultiShop.WebUI\bin\Debug\net6.0\System.Composition.TypedParts.dll
 C:\Users\e\source\repos\MultiShop\Frontends\MultiShop.WebUI\bin\Debug\net6.0\System.Formats.Asn1.dll
+C:\Users\e\source\repos\MultiShop\Frontends\MultiShop.WebUI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\e\source\repos\MultiShop\Frontends\MultiShop.WebUI\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
 C:\Users\e\source\repos\MultiShop\Frontends\MultiShop.WebUI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\e\source\repos\MultiShop\Frontends\MultiShop.WebUI\bin\Debug\net6.0\af\Humanizer.resources.dll
@@ -201,6 +200,15 @@ C:\Users\e\source\repos\MultiShop\Frontends\MultiShop.WebUI\bin\Debug\net6.0\run
 C:\Users\e\source\repos\MultiShop\Frontends\MultiShop.WebUI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\e\source\repos\MultiShop\Frontends\MultiShop.WebUI\bin\Debug\net6.0\MultiShop.DtoLayer.dll
 C:\Users\e\source\repos\MultiShop\Frontends\MultiShop.WebUI\bin\Debug\net6.0\MultiShop.DtoLayer.pdb
+C:\Users\e\source\repos\MultiShop\Frontends\MultiShop.WebUI\obj\Debug\net6.0\MultiShop.WebUI.csproj.AssemblyReference.cache
+C:\Users\e\source\repos\MultiShop\Frontends\MultiShop.WebUI\obj\Debug\net6.0\MultiShop.WebUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\e\source\repos\MultiShop\Frontends\MultiShop.WebUI\obj\Debug\net6.0\MultiShop.WebUI.AssemblyInfoInputs.cache
+C:\Users\e\source\repos\MultiShop\Frontends\MultiShop.WebUI\obj\Debug\net6.0\MultiShop.WebUI.AssemblyInfo.cs
+C:\Users\e\source\repos\MultiShop\Frontends\MultiShop.WebUI\obj\Debug\net6.0\MultiShop.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\e\source\repos\MultiShop\Frontends\MultiShop.WebUI\obj\Debug\net6.0\MultiShop.WebUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\e\source\repos\MultiShop\Frontends\MultiShop.WebUI\obj\Debug\net6.0\MultiShop.WebUI.RazorAssemblyInfo.cache
+C:\Users\e\source\repos\MultiShop\Frontends\MultiShop.WebUI\obj\Debug\net6.0\MultiShop.WebUI.RazorAssemblyInfo.cs
+C:\Users\e\source\repos\MultiShop\Frontends\MultiShop.WebUI\obj\Debug\net6.0\MultiShop.WebUI.sourcelink.json
 C:\Users\e\source\repos\MultiShop\Frontends\MultiShop.WebUI\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\e\source\repos\MultiShop\Frontends\MultiShop.WebUI\obj\Debug\net6.0\scopedcss\bundle\MultiShop.WebUI.styles.css
 C:\Users\e\source\repos\MultiShop\Frontends\MultiShop.WebUI\obj\Debug\net6.0\scopedcss\projectbundle\MultiShop.WebUI.bundle.scp.css
