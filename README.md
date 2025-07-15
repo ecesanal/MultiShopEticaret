@@ -14,8 +14,6 @@ MultiShopEticaret, çoklu mağaza desteği sağlayan bir e-ticaret platformudur.
 ## Devam Edilecek Kısımlar
 - Ödeme sistemi entegrasyonu
 - Sipariş yönetimi
-- Raporlama ve analiz modülleri
-- Test ve hata ayıklama
 
 ## Teknolojiler
 - **Backend**: ASP.NET Core / Entity Framework
